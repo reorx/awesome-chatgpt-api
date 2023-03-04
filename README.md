@@ -31,13 +31,7 @@ Curated by [Reorx](https://reorx.com), you are welcome to suggest new projects v
 
     - [Logseq Plugin GPT3 OpenAI](https://github.com/briansunter/logseq-plugin-gpt3-openai)
 
-        A plugin for GPT-3 AI assisted note taking in Logseq. Uses OpenAI's ChatGPT API `gpt-3.5-turbo` model by default.
-
-- [Keyboard Maestro](https://www.keyboardmaestro.com/) Macros
-
-    - [Copy to Ask ChatGPT](https://p15.p3.n0.cdn.getcloudapp.com/items/geuEZvwA/aeed10cb-a35d-404f-a17f-da1d46c9c9c7.kmmacros)
-
-        Select and copy texts to ask ChatGPT with a keyboard shortcut. [Introduction](https://blog.retompi.com/post/use-chatgpt-api/#keyboard-maestro)
+        A plugin for GPT-3 AI assisted note taking in Logseq.
 
 - [Popclip](https://pilotmoon.com/popclip/) Extensions
 
@@ -51,7 +45,7 @@ Curated by [Reorx](https://reorx.com), you are welcome to suggest new projects v
 
     - [ChatGPT Grammar Check PopClip Extension](https://github.com/hirakujira/ChatGPT-Grammar-Check-PopClip-Extension)
 
-        Send the selected text to ChatGPT, and check the grammar for you.
+        Similar to the ChatGPT Proofreader extension, with a different prompt and a downloadable package.
 
 - [Drafts](https://getdrafts.com/) Actions
 
@@ -74,6 +68,12 @@ Curated by [Reorx](https://reorx.com), you are welcome to suggest new projects v
     - [Siri Pro](https://www.icloud.com/shortcuts/6889d862918e479693be11fd9a0293b2)
 
         A enhanced shortcut based on **ChatGPT Siri**. Original tweet: [@DottChen](https://twitter.com/DottChen/status/1631309329684123650)
+
+- [Keyboard Maestro](https://www.keyboardmaestro.com/) Macros
+
+    - [Copy to Ask ChatGPT](https://p15.p3.n0.cdn.getcloudapp.com/items/geuEZvwA/aeed10cb-a35d-404f-a17f-da1d46c9c9c7.kmmacros)
+
+        Select and copy texts to ask ChatGPT with a keyboard shortcut. [Download link](https://p15.p3.n0.cdn.getcloudapp.com/items/geuEZvwA/aeed10cb-a35d-404f-a17f-da1d46c9c9c7.kmmacros)
 
 
 ## CLI
@@ -99,14 +99,14 @@ Curated by [Reorx](https://reorx.com), you are welcome to suggest new projects v
 - [cz-git](https://github.com/Zhengqbbb/cz-git)
 
     A Commitizen CLI and Commitizen adapter generate standardized commit messages with AI. [Recipes/OpenAI](https://cz-git.qbb.sh/recipes/openai)
-    
+
 - [verdverm/chatgpt](https://github.com/verdverm/chatgpt)
 
-    CLI application for working with ChatGPT API interactively or in file based sessions. Supports promt engineering and most configurations. 
+    CLI application for working with ChatGPT API interactively or in file based sessions. Supports promt engineering and most configurations.
 
 ## Apps
 
-- [OpenCat - Native iOS/macOS/iPadOS client for OpenAI/ChatGPT](https://opencat.app/)
+- [OpenCat](https://opencat.app/)
 
     A native desktop ChatGPT client that utilizes your own API key, providing a faster and enhanced chat experience.
 

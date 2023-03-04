@@ -23,6 +23,12 @@
 
         在 Obsidian 中根据你的笔记生成想法、头条、摘要、大纲和整段文字。
 
+- [Logseq](https://logseq.com/) 插件
+
+    - [Logseq Plugin GPT3 OpenAI](https://github.com/briansunter/logseq-plugin-gpt3-openai)
+
+        在 Logseq 中使用 ChatGPT 以及其他 AI 模型的插件。
+
 - [Popclip](https://pilotmoon.com/popclip/) 扩展
 
     - [ChatGPT — PopClip Extensions](https://pilotmoon.com/popclip/extensions/page/ChatGPT)
@@ -31,8 +37,11 @@
 
     - [ChatGPT Proofreader extension for Popclip](https://reorx.com/makers-daily/003-chatgpt-proofreader-extension-popclip/)
 
-        Proofread the selected text and append the improved result.
         通过 ChatGPT API 对选中文本进行校对和润色，并将修改后的文本粘贴在后面。
+
+    - [ChatGPT Grammar Check PopClip Extension](https://github.com/hirakujira/ChatGPT-Grammar-Check-PopClip-Extension)
+
+        和 ChatGPT Proofreader extension 类似的扩展，提供可下载的安装包。
 
 - [Drafts](https://getdrafts.com/) Actions
 
@@ -55,6 +64,12 @@
     - [Siri Pro](https://www.icloud.com/shortcuts/6889d862918e479693be11fd9a0293b2)
 
         可随时唤起文字和语音两种输入方式，快速响应，支持多次问答，支持预设调教，跟人工智障说拜拜。 原推: [@DottChen](https://twitter.com/DottChen/status/1631309329684123650)
+
+- [Keyboard Maestro](https://www.keyboardmaestro.com/) 宏
+
+    - [Copy to Ask ChatGPT](https://blog.retompi.com/post/use-chatgpt-api/#keyboard-maestro)
+
+        使用键盘快捷方式选择并复制文本以向 ChatGPT 提问。[下载链接](https://p15.p3.n0.cdn.getcloudapp.com/items/geuEZvwA/aeed10cb-a35d-404f-a17f-da1d46c9c9c7.kmmacros)。
 
 
 ## CLI
@@ -81,9 +96,13 @@
 
     一个 Commitizen 适配器与命令行工具使用 OpenAI API 生成 Git 约定式提交格式提交消息。 [文档/OpenAI](https://cz-git.qbb.sh/zh/recipes/openai)
 
+- [verdverm/chatgpt](https://github.com/verdverm/chatgpt)
+
+    通过命令行与 ChatGPT API 进行交互式会话，支持通过文件输入上下文。
+
 ## Apps
 
-- [OpenCat - Native iOS/macOS/iPadOS client for OpenAI/ChatGPT](https://opencat.app/)
+- [OpenCat](https://opencat.app/)
 
     MacOS 原生的 ChatGPT API 客户端应用。
 
@@ -120,7 +139,7 @@
 
 - [Paul Graham GPT](https://github.com/mckaywrigley/paul-graham-gpt)
 
-    搜索和提问 Paul Graham 的所有文章。这个项目非常好地展示了如何通过
+    搜索和提问 Paul Graham 的所有文章。这个项目很好地展示了如何通过
     [OpenAI Embeddings](https://platform.openai.com/docs/guides/embeddings)
     技术将大规模文本压缩成 ChatGPT API token 限制范围内（4096 个）的 prompt。
 
@@ -144,4 +163,4 @@
 ### Articles
 
 - [I got early access to ChatGPT API and then pushed it to it’s limits. Here’s what you need to know. — Buildt](https://www.buildt.ai/blog/vm3qozd4qfrbbyzukqhynrwm9vb9tq)
-- [Thread: Advantages of ChatGPT API compared to ChatGPT](https://twitter.com/novoreorx/status/1631250035852861440)
+- [Thread: ChatGPT API 相比 ChatGPT 的一些优点](https://twitter.com/novoreorx/status/1631250035852861440)
