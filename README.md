@@ -99,6 +99,10 @@ Curated by [Reorx](https://reorx.com), you are welcome to suggest new projects v
 - [cz-git](https://github.com/Zhengqbbb/cz-git)
 
     A Commitizen CLI and Commitizen adapter generate standardized commit messages with AI. [Recipes/OpenAI](https://cz-git.qbb.sh/recipes/openai)
+    
+- [verdverm/chatgpt](https://github.com/verdverm/chatgpt)
+
+    CLI application for working with ChatGPT API interactively or in file based sessions. Supports promt engineering and most configurations. 
 
 ## Apps
 
