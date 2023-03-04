@@ -114,6 +114,10 @@ Curated by [Reorx](https://reorx.com), you are welcome to suggest new projects v
 
     A translator app that uses OpenAI GPT-3 to translate between languages. It is a PWA that can be installed on your phone or desktop. Source code: [LanceMoe/openai-translator](https://github.com/LanceMoe/openai-translator)
 
+- [BiliGPT](https://b.jimmylv.cn/)
+
+    One-click summary of the subtitled Bilibili Video. Source code: [JimmyLv/BiliGPT](https://github.com/JimmyLv/BiliGPT)
+
 
 ## Chatbots
 
@@ -157,15 +161,8 @@ Curated by [Reorx](https://reorx.com), you are welcome to suggest new projects v
 
     Online playground for openai's tiktoken library, calculating the correct number of tokens for a given prompt. Source code: [dqbd/tiktokenizer](https://github.com/dqbd/tiktokenizer)
 
-- [BiliGPT](https://b.jimmylv.cn/)
 
-    One-click summary of the subtitled Bilibili Video. Source code: [JimmyLv/BiliGPT](https://github.com/JimmyLv/BiliGPT)
-
-- [ChatPDF](https://www.chatpdf.com/)
-
-    Upload your PDF and talk to your PDF file as if it were a human with perfect understanding of the content.
-
-### Articles
+## Articles
 
 - [I got early access to ChatGPT API and then pushed it to it’s limits. Here’s what you need to know. — Buildt](https://www.buildt.ai/blog/vm3qozd4qfrbbyzukqhynrwm9vb9tq)
 - [Thread: Advantages of ChatGPT API compared to ChatGPT](https://twitter.com/novoreorx/status/1631250035852861440)

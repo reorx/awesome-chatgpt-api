@@ -110,6 +110,10 @@
 
     基于 ChatGPT API 的翻译应用，支持 PWA。源码: [LanceMoe/openai-translator](https://github.com/LanceMoe/openai-translator)
 
+- [BiliGPT](https://b.jimmylv.cn/)
+
+    一键总结含字幕的哔哩哔哩视频内容。源码: [JimmyLv/BiliGPT](https://github.com/JimmyLv/BiliGPT)
+
 
 ## Chatbots
 
@@ -155,12 +159,9 @@
 
     在线的 tiktoken 库使用界面，帮助你计算 prompt 的 token 数量。源码: [dqbd/tiktokenizer](https://github.com/dqbd/tiktokenizer)
 
-- [BiliGPT](https://b.jimmylv.cn/)
 
-    一键总结含字幕的哔哩哔哩视频内容。源码: [JimmyLv/BiliGPT](https://github.com/JimmyLv/BiliGPT)
-
-
-### Articles
+## Articles
 
 - [I got early access to ChatGPT API and then pushed it to it’s limits. Here’s what you need to know. — Buildt](https://www.buildt.ai/blog/vm3qozd4qfrbbyzukqhynrwm9vb9tq)
 - [Thread: ChatGPT API 相比 ChatGPT 的一些优点](https://twitter.com/novoreorx/status/1631250035852861440)
+- [个人用户如何使用 ChatGPT API](https://blog.retompi.com/post/use-chatgpt-api/#drafts)
