@@ -92,6 +92,11 @@ Curated by [Reorx](https://reorx.com), you are welcome to suggest new projects v
 
     A translator app that uses OpenAI GPT-3 to translate between languages. It is a PWA that can be installed on your phone or desktop. Source code: [LanceMoe/openai-translator](https://github.com/LanceMoe/openai-translator)
 
+## Services
+
+- [Trading-GPT](https://github.com/yubing744/trading-gpt)
+
+    Trading-GPT is a trading bot based on bbgo and ChatGPT.
 
 ## Chatbots
 
@@ -105,12 +110,6 @@ Curated by [Reorx](https://reorx.com), you are welcome to suggest new projects v
 - Feishu
     - [bestony/ChatGPT-Feishu](https://github.com/bestony/ChatGPT-Feishu)
     - [Leizhenpeng feishu-chatGpt](https://github.com/Leizhenpeng/feishu-chatGpt)
-
-## Tradingbots
-
-- [Trading-GPT](https://github.com/yubing744/trading-gpt)
-
-   Trading-GPT is a trading bot based on bbgo and ChatGPT.
 
 ## Development
 

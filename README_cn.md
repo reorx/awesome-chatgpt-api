@@ -91,6 +91,11 @@
 
     基于 ChatGPT API 的翻译应用，支持 PWA。源码: [LanceMoe/openai-translator](https://github.com/LanceMoe/openai-translator)
 
+## Services
+
+- [Trading-GPT](https://github.com/yubing744/trading-gpt)
+
+    Trading-GPT是一个基于bbgo和ChatGPT的交易机器人。
 
 ## Chatbots
 
@@ -104,12 +109,6 @@
 - Feishu
     - [bestony/ChatGPT-Feishu](https://github.com/bestony/ChatGPT-Feishu)
     - [Leizhenpeng feishu-chatGpt](https://github.com/Leizhenpeng/feishu-chatGpt)
-
-## Tradingbots
-
-- [Trading-GPT](https://github.com/yubing744/trading-gpt)
-
-   Trading-GPT是一个基于bbgo和ChatGPT的交易机器人。
 
 ## Development
 
