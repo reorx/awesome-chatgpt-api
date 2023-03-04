@@ -67,7 +67,10 @@ Curated by [![Twitter](https://img.shields.io/twitter/url.svg?label=%40novoreorx
 - [xiaogpt](https://github.com/yihong0618/xiaogpt)
 
     Play ChatGPT with Xiaomi AI Speaker
+    
+- [cz-git](https://github.com/Zhengqbbb/cz-git)
 
+     A Commitizen CLI and Commitizen  generate standardized commit messages with AI. [Recipes/OpenAI](https://cz-git.qbb.sh/recipes/openai)
 
 ## Apps
 
