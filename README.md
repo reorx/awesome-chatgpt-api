@@ -35,7 +35,7 @@ Curated by [Reorx](https://reorx.com), you are welcome to suggest new projects v
 
 - [Keyboard Maestro](https://www.keyboardmaestro.com/) Macros
 
-    - [Copy to Ask ChatGPT](https://p15.p3.n0.cdn.getcloudapp.com/items/eDurYQ9k/a8077fae-8a6b-4119-91be-eb4ce1c721cd.kmmacros)
+    - [Copy to Ask ChatGPT](https://p15.p3.n0.cdn.getcloudapp.com/items/geuEZvwA/aeed10cb-a35d-404f-a17f-da1d46c9c9c7.kmmacros)
 
         Select and copy texts to ask ChatGPT with a keyboard shortcut. [Introduction](https://blog.retompi.com/post/use-chatgpt-api/#keyboard-maestro)
 
