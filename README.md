@@ -74,6 +74,10 @@ Curated by [Reorx](https://reorx.com), you are welcome to suggest new projects v
 
     Play ChatGPT with Xiaomi AI Speaker.
 
+- [AI Vocabulary Builder](https://github.com/piglei/ai-vocabulary-builder)
+
+    A CLI that helps you build your vocabulary with AI.
+
 
 ## Apps
 

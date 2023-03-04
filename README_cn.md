@@ -73,6 +73,10 @@
 
     通过小米音响的小爱同学与 ChatGPT 对话。
 
+- [AI Vocabulary Builder](https://github.com/piglei/ai-vocabulary-builder)
+
+    一个利用了 AI 技术的智能生词本工具，可以帮你快速构建起自己的生词库，学习起来事半功倍。
+
 
 ## Apps
 
