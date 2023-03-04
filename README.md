@@ -23,17 +23,35 @@ Curated by [Reorx](https://reorx.com), you are welcome to suggest new projects v
 
 - [Obsidian](https://obsidian.md/) Plugins
 
-    - [Obsidian Text Generator Plugin](https://github.com/nhaouari/obsidian-textgenerator-plugin)
+    - [Obsidian Text Generator Plugin](https://github.com/nhaouari/obsidian-textgenerator-plugin)
 
         Generate ideas, attractive titles, summaries, outlines, and whole paragraphs based on your notes in Obsidian.
+
+- [Logseq](https://logseq.com/) Plugins
+
+    - [Logseq Plugin GPT3 OpenAI](https://github.com/briansunter/logseq-plugin-gpt3-openai)
+
+        A plugin for GPT-3 AI assisted note taking in Logseq. Uses OpenAI's ChatGPT API `gpt-3.5-turbo` model by default.
+
+- [Keyboard Maestro](https://www.keyboardmaestro.com/) Macros
+
+    - [Copy to Ask ChatGPT](https://p15.p3.n0.cdn.getcloudapp.com/items/eDurYQ9k/a8077fae-8a6b-4119-91be-eb4ce1c721cd.kmmacros)
+
+        Select and copy texts to ask ChatGPT with a keyboard shortcut. [Introduction](https://blog.retompi.com/post/use-chatgpt-api/#keyboard-maestro)
 
 - [Popclip](https://pilotmoon.com/popclip/) Extensions
 
     - [ChatGPT — PopClip Extensions](https://pilotmoon.com/popclip/extensions/page/ChatGPT)
+
         Send the selected text to ChatGPT and append the response.
+
     - [ChatGPT Proofreader extension for Popclip](https://reorx.com/makers-daily/003-chatgpt-proofreader-extension-popclip/)
 
         Proofread the selected text and append the enhanced result.
+
+    - [ChatGPT Grammar Check PopClip Extension](https://github.com/hirakujira/ChatGPT-Grammar-Check-PopClip-Extension)
+
+        Send the selected text to ChatGPT, and check the grammar for you.
 
 - [Drafts](https://getdrafts.com/) Actions
 
@@ -139,6 +157,9 @@ Curated by [Reorx](https://reorx.com), you are welcome to suggest new projects v
 
     One-click summary of the subtitled Bilibili Video. Source code: [JimmyLv/BiliGPT](https://github.com/JimmyLv/BiliGPT)
 
+- [ChatPDF](https://www.chatpdf.com/)
+
+    Upload your PDF and talk to your PDF file as if it were a human with perfect understanding of the content.
 
 ### Articles
 
