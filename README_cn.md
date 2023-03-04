@@ -105,6 +105,11 @@
     - [bestony/ChatGPT-Feishu](https://github.com/bestony/ChatGPT-Feishu)
     - [Leizhenpeng feishu-chatGpt](https://github.com/Leizhenpeng/feishu-chatGpt)
 
+## Tradingbots
+
+- [Trading-GPT](https://github.com/yubing744/trading-gpt)
+
+   Trading-GPT是一个基于bbgo和ChatGPT的交易机器人。
 
 ## Development
 

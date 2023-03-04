@@ -106,6 +106,11 @@ Curated by [Reorx](https://reorx.com), you are welcome to suggest new projects v
     - [bestony/ChatGPT-Feishu](https://github.com/bestony/ChatGPT-Feishu)
     - [Leizhenpeng feishu-chatGpt](https://github.com/Leizhenpeng/feishu-chatGpt)
 
+## Tradingbots
+
+- [Trading-GPT](https://github.com/yubing744/trading-gpt)
+
+   Trading-GPT is a trading bot based on bbgo and ChatGPT.
 
 ## Development
 
