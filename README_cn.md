@@ -77,6 +77,9 @@
 
     一个利用了 AI 技术的智能生词本工具，可以帮你快速构建起自己的生词库，学习起来事半功倍。
 
+- [cz-git](https://github.com/Zhengqbbb/cz-git)
+
+    一个 Commitizen 适配器与命令行工具使用 OpenAI API 生成 Git 约定式提交格式提交消息。 [文档/OpenAI](https://cz-git.qbb.sh/zh/recipes/openai)
 
 ## Apps
 

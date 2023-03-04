@@ -78,6 +78,9 @@ Curated by [Reorx](https://reorx.com), you are welcome to suggest new projects v
 
     A CLI that helps you build your vocabulary with AI.
 
+- [cz-git](https://github.com/Zhengqbbb/cz-git)
+
+    A Commitizen CLI and Commitizen adapter generate standardized commit messages with AI. [Recipes/OpenAI](https://cz-git.qbb.sh/recipes/openai)
 
 ## Apps
 
