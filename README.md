@@ -132,6 +132,10 @@ Curated by [Reorx](https://reorx.com), you are welcome to suggest new projects v
 
     Online playground for openai's tiktoken library, calculating the correct number of tokens for a given prompt. Source code: [dqbd/tiktokenizer](https://github.com/dqbd/tiktokenizer)
 
+- [BiliGPT](https://b.jimmylv.cn/)
+
+    One-click summary of the subtitled Bilibili Video. Source code: [JimmyLv/BiliGPT](https://github.com/JimmyLv/BiliGPT)
+
 
 ### Articles
 

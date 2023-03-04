@@ -133,6 +133,10 @@
 
     在线的 tiktoken 库使用界面，帮助你计算 prompt 的 token 数量。源码: [dqbd/tiktokenizer](https://github.com/dqbd/tiktokenizer)
 
+- [BiliGPT](https://b.jimmylv.cn/)
+
+    一键总结含字幕的哔哩哔哩视频内容。源码: [JimmyLv/BiliGPT](https://github.com/JimmyLv/BiliGPT)
+
 
 ### Articles
 
