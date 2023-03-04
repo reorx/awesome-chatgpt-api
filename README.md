@@ -2,7 +2,7 @@
 
 Curated list of apps and tools that not only use the new [ChatGPT API](https://platform.openai.com/docs/api-reference/chat), but also allow user to configure their own [API keys](https://platform.openai.com/account/api-keys), enabling free and on-demand usage of their own quota.
 
-There's also a [Development][#development] section that provides developers with a collection of projects and articles to help them build better.
+There's also a [Development](#development) section that provides developers with a collection of projects and articles to help them build better.
 
 Curated by [![Twitter](https://img.shields.io/twitter/url.svg?label=%40novoreorx&style=social&url=https%3A%2F%2Ftwitter.com-novoreorx)](https://twitter.com/novoreorx)
 
@@ -86,11 +86,16 @@ Curated by [![Twitter](https://img.shields.io/twitter/url.svg?label=%40novoreorx
 
 ## Chatbots
 
-- Telegram: 
-
-- Feishu: [bestony/ChatGPT-Feishu](https://github.com/bestony/ChatGPT-Feishu), [Leizhenpeng feishu-chatGpt](https://github.com/Leizhenpeng/feishu-chatGpt)
-
-- WeChat: [zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat), [ChatGPT for Wechat](https://chatgpt4wechat.aow.me/)
+- Telegram
+    - [karfly/chatgpt\_telegram\_bot](https://github.com/karfly/chatgpt_telegram_bot)
+    - [n3d1117/chatgpt-telegram-bot](https://github.com/n3d1117/chatgpt-telegram-bot)
+    - [RainEggplant/chatgpt-telegram-bot](https://github.com/RainEggplant/chatgpt-telegram-bot)
+- WeChat
+    - [zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat)
+    - [ChatGPT for Wechat](https://chatgpt4wechat.aow.me/)
+- Feishu
+    - [bestony/ChatGPT-Feishu](https://github.com/bestony/ChatGPT-Feishu)
+    - [Leizhenpeng feishu-chatGpt](https://github.com/Leizhenpeng/feishu-chatGpt)
 
 
 ## Development
