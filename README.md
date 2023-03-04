@@ -9,19 +9,15 @@ Curated by [![Twitter](https://img.shields.io/twitter/url.svg?label=%40novoreorx
 
 ## Plugins and Extensions
 
-
 - Chrome Extensions
 
     - [Glarity](https://glarity.app/)
 
-        Summary for Google search results or YouTube Videos with ChatGPT API.
+        Summary for Google search results or YouTube Videos with ChatGPT API. This extension also supports ChatGPT Webapp's API that requires no configuration.
 
-        This extension also supports ChatGPT Webapp's API that requires no configuration.
     - [ChatGPT Sidebar](https://chatgpt-sidebar.com/)
 
-        Select any text,  explain it, translate it, summarize it or rewrite it, do anything with the ChatGPT Sidebar!
-
-        This extension also supports ChatGPT Webapp's API that requires no configuration.
+        Open a sidebar in any webpage, and ask ChatGPT for anything about the content of the page. Like explain, translate, summarize or rewrite it. You can customize prompts for easier access. This extension also supports ChatGPT Webapp's API that requires no configuration.
 
 - [Obsidian](https://obsidian.md/) Plugins
 
@@ -53,7 +49,7 @@ Curated by [![Twitter](https://img.shields.io/twitter/url.svg?label=%40novoreorx
 
         Shortcuts for Siri to connect ChatGPT 3.5 turbo model, supports continuous conversations
     - [Siri Pro](https://www.icloud.com/shortcuts/6889d862918e479693be11fd9a0293b2)
-        
+
         A enhanced shortcut based on **ChatGPT Siri**. Original tweet: [@DottChen](https://twitter.com/DottChen/status/1631309329684123650)
 
 
