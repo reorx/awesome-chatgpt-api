@@ -120,6 +120,10 @@
 
     作者和其他推友关于这个应用实现细节的技术讨论: [@mukul0x](https://twitter.com/mukul0x/status/1625673579399446529), [@goldengrape](https://twitter.com/goldengrape/status/1632184344881274882)
 
+- [NITM GPT](https://github.com/deskbtm/nitmgpt)
+
+    通过 GPT3 过滤广告通知和垃圾消息的安卓应用。
+
 
 ## 聊天机器人
 

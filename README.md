@@ -125,6 +125,10 @@ Curated by [Reorx](https://reorx.com), you are welcome to suggest new projects v
 
     The author explored the utilization of vector embeddings derived from the text that closely matches the prompt in the original tweet: [@mukul0x](https://twitter.com/mukul0x/status/1625673579399446529)
 
+- [NITM GPT](https://github.com/deskbtm/nitmgpt)
+
+    An Android application that filters ads, spam, notifications using GPT AI.
+
 
 ## Chatbots
 
