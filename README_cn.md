@@ -100,7 +100,7 @@
 
     通过命令行与 ChatGPT API 进行交互式会话，支持通过文件输入上下文。
 
-## Apps
+## 应用
 
 - [OpenCat](https://opencat.app/)
 
@@ -115,7 +115,7 @@
     一键总结含字幕的哔哩哔哩视频内容。源码: [JimmyLv/BiliGPT](https://github.com/JimmyLv/BiliGPT)
 
 
-## Chatbots
+## 聊天机器人
 
 - Telegram
     - [karfly/chatgpt\_telegram\_bot](https://github.com/karfly/chatgpt_telegram_bot)
@@ -129,9 +129,9 @@
     - [Leizhenpeng feishu-chatGpt](https://github.com/Leizhenpeng/feishu-chatGpt)
 
 
-## Development
+## 开发
 
-### Projects
+### 开源项目
 
 - [ChatGPT-API Demo - ddiu8081/chatgpt-demo](https://github.com/ddiu8081/chatgpt-demo)
 
@@ -160,8 +160,7 @@
     在线的 tiktoken 库使用界面，帮助你计算 prompt 的 token 数量。源码: [dqbd/tiktokenizer](https://github.com/dqbd/tiktokenizer)
 
 
-## Articles
+### 技术文章
 
 - [I got early access to ChatGPT API and then pushed it to it’s limits. Here’s what you need to know. — Buildt](https://www.buildt.ai/blog/vm3qozd4qfrbbyzukqhynrwm9vb9tq)
 - [Thread: ChatGPT API 相比 ChatGPT 的一些优点](https://twitter.com/novoreorx/status/1631250035852861440)
-- [个人用户如何使用 ChatGPT API](https://blog.retompi.com/post/use-chatgpt-api/#drafts)
