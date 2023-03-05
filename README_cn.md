@@ -104,7 +104,7 @@
 
 - [OpenCat](https://opencat.app/)
 
-    MacOS 原生的 ChatGPT API 客户端应用。
+    MacOS 原生的 ChatGPT API 客户端应用。原推: [@waylybaye](https://twitter.com/waylybaye/status/1631818567640584193)
 
 - [OpenAI Translator](https://translator.lance.moe/)
 
@@ -124,6 +124,9 @@
 
     通过 GPT3 过滤广告通知和垃圾消息的安卓应用。
 
+- [ChatGPT](https://github.com/deskbtm/nitmgpt)
+
+    通过 [Pake](https://github.com/tw93/Pake) 构建的 ChatGPT 应用，支持 Mac、Windows、Linux。
 
 ## 聊天机器人
 

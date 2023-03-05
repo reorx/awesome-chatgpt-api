@@ -108,7 +108,7 @@ Curated by [Reorx](https://reorx.com), you are welcome to suggest new projects v
 
 - [OpenCat](https://opencat.app/)
 
-    A native desktop ChatGPT client that utilizes your own API key, providing a faster and enhanced chat experience.
+    A native desktop ChatGPT client that utilizes your own API key, providing a faster and enhanced chat experience. Original tweet: [@waylybaye](https://twitter.com/waylybaye/status/1631818567640584193)
 
 - [OpenAI Translator](https://translator.lance.moe/)
 
@@ -128,6 +128,10 @@ Curated by [Reorx](https://reorx.com), you are welcome to suggest new projects v
 - [NITM GPT](https://github.com/deskbtm/nitmgpt)
 
     An Android application that filters ads, spam, notifications using GPT AI.
+
+- [ChatGPT](https://github.com/deskbtm/nitmgpt)
+
+    The ChatGPT application, built using [Pake](https://github.com/tw93/Pake), supports Mac, Windows, and Linux.
 
 
 ## Chatbots
