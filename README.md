@@ -57,7 +57,7 @@ Curated by [Reorx](https://reorx.com), you are welcome to suggest new projects v
 
     - [OpenAI Translator Bob Plugin](https://github.com/yetone/bob-plugin-openai-translator)
 
-        ChatGPT API based Bob plugin for text translation, text refinement, and grammar correction.
+        ChatGPT API based Bob plugin for text translation, text refinement, and grammar correction. It has a derived version that specifically emphasizes the task of proofreading: [OpenAI Polisher Bob Plugin](https://github.com/yetone/bob-plugin-openai-polisher).
 
 - Apple Shortcuts
 

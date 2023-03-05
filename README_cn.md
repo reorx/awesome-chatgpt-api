@@ -53,7 +53,7 @@
 
     - [OpenAI Translator Bob Plugin](https://github.com/yetone/bob-plugin-openai-translator)
 
-        基于 ChatGPT API 的文本翻译、文本润色、语法纠错 Bob 插件。
+        基于 ChatGPT API 的文本翻译、文本润色、语法纠错 Bob 插件。另有一个专注于润色的衍生版本: [OpenAI Polisher Bob Plugin](https://github.com/yetone/bob-plugin-openai-polisher)。
 
 - 苹果捷径
 
