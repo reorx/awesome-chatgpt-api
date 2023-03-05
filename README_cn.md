@@ -100,6 +100,10 @@
 
     通过命令行与 ChatGPT API 进行交互式会话，支持通过文件输入上下文。
 
+- [ai-cli](https://github.com/yufeikang/ai-cli)
+
+    这个cli工具可以让你方便的在命令行中使用chatGPT。你可以和他聊天支持上下文，也可以让他帮你回答单个问题。也可以帮你翻译文本。并且支持markdown在终端中的渲染。
+
 ## 应用
 
 - [OpenCat](https://opencat.app/)

@@ -104,6 +104,10 @@ Curated by [Reorx](https://reorx.com), you are welcome to suggest new projects v
 
     CLI application for working with ChatGPT API interactively or in file based sessions. Supports promt engineering and most configurations.
 
+- [ai-cli](https://github.com/yufeikang/ai-cli)
+
+    This CLI tool allows you to easily use chatGPT in the command line. You can chat with it, ask it questions, and get text translations. It also supports rendering Markdown in the terminal.
+    
 ## Apps
 
 - [OpenCat](https://opencat.app/)
