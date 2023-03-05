@@ -159,6 +159,14 @@
 
     在线的 tiktoken 库使用界面，帮助你计算 prompt 的 token 数量。源码: [dqbd/tiktokenizer](https://github.com/dqbd/tiktokenizer)
 
+## Websites
+- [ChatPDF](https://www.chatpdf.com/)
+
+    适用于从大型PDF文件中快速提取信息。可以尝试处理手册、论文、法律合同、图书或研究论文等文本。
+    
+- [Poe - Fast AI Chat](https://poe.com)
+
+    由Quora开发，集成了ChatGPT、Sage、Claude等人工智能机器人，无需输入API Token即可使用。
 
 ## Articles
 
