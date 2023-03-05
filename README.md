@@ -161,7 +161,15 @@ Curated by [Reorx](https://reorx.com), you are welcome to suggest new projects v
 
     Online playground for openai's tiktoken library, calculating the correct number of tokens for a given prompt. Source code: [dqbd/tiktokenizer](https://github.com/dqbd/tiktokenizer)
 
+## Websites
+- [ChatPDF](https://www.chatpdf.com/)
 
+    It works great to quickly extract information from large PDF files. Try talking to manuals, essays, legal contracts, books or research papers.
+    
+- [Poe - Fast AI Chat](https://poe.com)
+
+    Developed by Quora, it integrates AI bots such as ChatGPT, Sage, Claude, etc., no need to enter API Key.
+    
 ## Articles
 
 - [I got early access to ChatGPT API and then pushed it to it’s limits. Here’s what you need to know. — Buildt](https://www.buildt.ai/blog/vm3qozd4qfrbbyzukqhynrwm9vb9tq)
