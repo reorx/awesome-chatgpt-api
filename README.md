@@ -118,6 +118,13 @@ Curated by [Reorx](https://reorx.com), you are welcome to suggest new projects v
 
     One-click summary of the subtitled Bilibili Video. Source code: [JimmyLv/BiliGPT](https://github.com/JimmyLv/BiliGPT)
 
+- [ResearchGPT](https://researchgpt.ue.r.appspot.com/)
+
+    This is a flask app provides an interface to enable a conversation with a research paper.
+    Source code: [ResearchGPT](https://github.com/mukulpatnaik/researchgpt).
+
+    The author explored the utilization of vector embeddings derived from the text that closely matches the prompt in the original tweet: [@mukul0x](https://twitter.com/mukul0x/status/1625673579399446529)
+
 
 ## Chatbots
 

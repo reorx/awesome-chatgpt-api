@@ -114,6 +114,12 @@
 
     一键总结含字幕的哔哩哔哩视频内容。源码: [JimmyLv/BiliGPT](https://github.com/JimmyLv/BiliGPT)
 
+- [ResearchGPT](https://researchgpt.ue.r.appspot.com/)
+
+    使你可以与 PDF 文件对话的应用，适合论文阅读和研究等学习需求。源码: [ResearchGPT](https://github.com/mukulpatnaik/researchgpt)
+
+    作者和其他推友关于这个应用实现细节的技术讨论: [@mukul0x](https://twitter.com/mukul0x/status/1625673579399446529), [@goldengrape](https://twitter.com/goldengrape/status/1632184344881274882)
+
 
 ## 聊天机器人
 
