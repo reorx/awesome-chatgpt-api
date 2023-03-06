@@ -74,9 +74,11 @@ Curated by [Reorx](https://reorx.com), you are welcome to suggest new projects v
 
 - [Keyboard Maestro](https://www.keyboardmaestro.com/) Macros
 
-    - [Copy to Ask ChatGPT](https://p15.p3.n0.cdn.getcloudapp.com/items/geuEZvwA/aeed10cb-a35d-404f-a17f-da1d46c9c9c7.kmmacros)
+    - [Copy to Ask ChatGPT](https://blog.retompi.com/post/use-chatgpt-api/#keyboard-maestro)
 
         Select and copy texts to ask ChatGPT with a keyboard shortcut. [Download link](https://p15.p3.n0.cdn.getcloudapp.com/items/geuEZvwA/aeed10cb-a35d-404f-a17f-da1d46c9c9c7.kmmacros)
+
+    - [My Six ChatGPT Assistants](https://pinchlime.com/newsletters/my-six-chatgpt-assistants/)
 
 
 ## CLI
@@ -106,6 +108,14 @@ Curated by [Reorx](https://reorx.com), you are welcome to suggest new projects v
 - [verdverm/chatgpt](https://github.com/verdverm/chatgpt)
 
     CLI application for working with ChatGPT API interactively or in file based sessions. Supports promt engineering and most configurations.
+
+- [ai-cli](https://github.com/yufeikang/ai-cli)
+
+    This CLI tool allows you to easily use chatGPT in the command line. You can chat with it, ask it questions, and get text translations. It also supports rendering Markdown in the terminal.
+
+- [ChatGPT-for-Translation](https://github.com/Raychanan/ChatGPT-for-Translation)
+
+    Python tool for translating text files. It provides bilingual translation, multithreading, and automatic handling of excessive request frequency.
 
 ## Apps
 
@@ -139,17 +149,27 @@ Curated by [Reorx](https://reorx.com), you are welcome to suggest new projects v
     - [karfly/chatgpt\_telegram\_bot](https://github.com/karfly/chatgpt_telegram_bot)
     - [n3d1117/chatgpt-telegram-bot](https://github.com/n3d1117/chatgpt-telegram-bot)
     - [RainEggplant/chatgpt-telegram-bot](https://github.com/RainEggplant/chatgpt-telegram-bot)
+    - [TBXark/ChatGPT-Telegram-Workers](https://github.com/TBXark/ChatGPT-Telegram-Workers)
+
+        Deploy your own Telegram ChatGPT bot on Cloudflare Workers with ease.
 - WeChat
     - [zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat)
     - [ChatGPT for Wechat](https://chatgpt4wechat.aow.me/)
 - Feishu
     - [bestony/ChatGPT-Feishu](https://github.com/bestony/ChatGPT-Feishu)
     - [Leizhenpeng feishu-chatGpt](https://github.com/Leizhenpeng/feishu-chatGpt)
+    - [key7men/openai-feishu-bot](https://github.com/key7men/openai-feishu-bot)
+- Teams
+    - [formulahendry/chatgpt-teams-bot](https://github.com/formulahendry/chatgpt-teams-bot)
 
 
 ## Development
 
 ### Projects
+
+- [OpenAI Cookbook](https://github.com/openai/openai-cookbook)
+
+    Official examples and guides for using the OpenAI API, including how to embedding long inputs, stream completions, format better inputs and much more.
 
 - [ChatGPT-API Demo - ddiu8081/chatgpt-demo](https://github.com/ddiu8081/chatgpt-demo)
 
@@ -174,6 +194,10 @@ Curated by [Reorx](https://reorx.com), you are welcome to suggest new projects v
 - [Tiktokenizer](https://tiktokenizer.vercel.app/)
 
     Online playground for openai's tiktoken library, calculating the correct number of tokens for a given prompt. Source code: [dqbd/tiktokenizer](https://github.com/dqbd/tiktokenizer)
+
+- [GPT3.5-H5-lite-page](https://jichao99.github.io/GPT3.5-H5-lite-page/)
+
+    A GPT3.5 web page that is highly lightweight and can be deployed statically without requiring a server. Only HTML, CSS, and jQuery is used. Source code: [JiChao99/GPT3.5-H5-lite-page](https://github.com/JiChao99/GPT3.5-H5-lite-page)
 
 
 ### Articles
