@@ -179,6 +179,10 @@ Curated by [Reorx](https://reorx.com), you are welcome to suggest new projects v
 
     Online playground for openai's tiktoken library, calculating the correct number of tokens for a given prompt. Source code: [dqbd/tiktokenizer](https://github.com/dqbd/tiktokenizer)
 
+- [GPT3.5-H5-lite-page](https://jichao99.github.io/GPT3.5-H5-lite-page/)
+
+    a GPT3.5 web page, extremely lightweight and can be deployed statically, with no need for a server. just use `html` `css` `jquery`. Source code: [JiChao99/GPT3.5-H5-lite-page](https://github.com/JiChao99/GPT3.5-H5-lite-page)   
+
 
 ### Articles
 
