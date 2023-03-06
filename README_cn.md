@@ -174,6 +174,10 @@
 
     在线的 tiktoken 库使用界面，帮助你计算 prompt 的 token 数量。源码: [dqbd/tiktokenizer](https://github.com/dqbd/tiktokenizer)
 
+- [GPT3.5-H5-lite-page](https://jichao99.github.io/GPT3.5-H5-lite-page/)
+
+    一个 GPT3.5 的网页 轻量级，可以直接进行静态部署 不需要服务端 只使用了 `html` `css` `jquery`。 源码: [JiChao99/GPT3.5-H5-lite-page](https://github.com/JiChao99/GPT3.5-H5-lite-page)
+
 
 ### 技术文章
 
