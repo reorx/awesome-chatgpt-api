@@ -140,6 +140,7 @@ Curated by [Reorx](https://reorx.com), you are welcome to suggest new projects v
     - [karfly/chatgpt\_telegram\_bot](https://github.com/karfly/chatgpt_telegram_bot)
     - [n3d1117/chatgpt-telegram-bot](https://github.com/n3d1117/chatgpt-telegram-bot)
     - [RainEggplant/chatgpt-telegram-bot](https://github.com/RainEggplant/chatgpt-telegram-bot)
+    - [TBXark/ChatGPT-Telegram-Workers](https://github.com/TBXark/ChatGPT-Telegram-Workers)
 - WeChat
     - [zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat)
     - [ChatGPT for Wechat](https://chatgpt4wechat.aow.me/)
