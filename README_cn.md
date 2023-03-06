@@ -16,6 +16,9 @@
     - [ChatGPT Sidebar](https://chatgpt-sidebar.com/)
 
         在任何网页中打开侧边栏，询问 ChatGPT 关于页面内容的任何事情，如解释、翻译、概括或重写。你可以自定义 prompts 以便更轻松地使用。该扩展还支持 ChatGPT Webapp 的 API，无需配置即可使用。
+    - [Monica](https://monica.im/)
+
+        由中国团队开发的 ChatGPT API Chrome 扩展程序，您的个人 AI 助手，可以与你聊任何事情，使用80多个模板生成文案，并翻译、改写和解释任何网页上的文字。
 
 - [Obsidian](https://obsidian.md/) 插件
 
@@ -123,10 +126,6 @@
 - [NITM GPT](https://github.com/deskbtm/nitmgpt)
 
     通过 GPT3 过滤广告通知和垃圾消息的安卓应用。
-
-- [ChatGPT](https://github.com/tw93/Pake)
-
-    通过 `Pake` 构建的 ChatGPT 应用，支持 Mac、Windows、Linux。
 
 ## 聊天机器人
 

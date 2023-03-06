@@ -20,6 +20,9 @@ Curated by [Reorx](https://reorx.com), you are welcome to suggest new projects v
     - [ChatGPT Sidebar](https://chatgpt-sidebar.com/)
 
         Open a sidebar in any webpage, and ask ChatGPT for anything about the content of the page. Like explain, translate, summarize or rewrite it. You can customize prompts for easier access. This extension also supports ChatGPT Webapp's API that requires no configuration.
+    - [Monica](https://monica.im/)
+
+        Monica is an extension powered by ChatGPT API that can chat with you about anything, generate copywriting using over 80 templates, and translate, rephrase, and explain text on any web page. It's available on all websites and can be accessed by hitting Cmd+M.
 
 - [Obsidian](https://obsidian.md/) Plugins
 
@@ -128,10 +131,6 @@ Curated by [Reorx](https://reorx.com), you are welcome to suggest new projects v
 - [NITM GPT](https://github.com/deskbtm/nitmgpt)
 
     An Android application that filters ads, spam, notifications using GPT AI.
-
-- [ChatGPT](https://github.com/tw93/Pake)
-
-    The ChatGPT application, built using `Pake`, supports Mac, Windows, and Linux.
 
 
 ## Chatbots
