@@ -79,6 +79,10 @@
     用于制作双语 epub 电子书的 Python 脚本。原推: [@yihong0618](https://twitter.com/yihong0618/status/1630948132564631552)
 
     Web UI [streamlit](https://goldengrape-bilingual-book-maker-streamlit-app-x7nhof.streamlit.app/)。原推: [tweet](https://twitter.com/goldengrape/status/1631549869306572800).
+    
+- [ChatGPT-for-Translation](https://github.com/Raychanan/ChatGPT-for-Translation)
+    
+    对文本文件进行翻译的 Python 脚本。同时提供双语翻译、多线程和自动处理过高的请求频率。
 
 - [AI Commits](https://github.com/Nutlope/aicommits)
 

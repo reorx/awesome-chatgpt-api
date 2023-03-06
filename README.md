@@ -83,6 +83,10 @@ Curated by [Reorx](https://reorx.com), you are welcome to suggest new projects v
     Make bilingual epub books Using AI translate. Original tweet [@yihong0618](https://twitter.com/yihong0618/status/1630948132564631552)
 
     There's a web UI at [streamlit](https://goldengrape-bilingual-book-maker-streamlit-app-x7nhof.streamlit.app/), made by the author of this [tweet](https://twitter.com/goldengrape/status/1631549869306572800).
+    
+- [ChatGPT-for-Translation](https://github.com/Raychanan/ChatGPT-for-Translation)
+    
+    Python tool for translating text files. It provides bilingual translation, multithreading, and automatic handling of excessive request frequency.
 
 - [AI Commits](https://github.com/Nutlope/aicommits)
 
