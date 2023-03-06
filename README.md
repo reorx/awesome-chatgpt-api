@@ -71,9 +71,11 @@ Curated by [Reorx](https://reorx.com), you are welcome to suggest new projects v
 
 - [Keyboard Maestro](https://www.keyboardmaestro.com/) Macros
 
-    - [Copy to Ask ChatGPT](https://p15.p3.n0.cdn.getcloudapp.com/items/geuEZvwA/aeed10cb-a35d-404f-a17f-da1d46c9c9c7.kmmacros)
+    - [Copy to Ask ChatGPT](https://blog.retompi.com/post/use-chatgpt-api/#keyboard-maestro)
 
         Select and copy texts to ask ChatGPT with a keyboard shortcut. [Download link](https://p15.p3.n0.cdn.getcloudapp.com/items/geuEZvwA/aeed10cb-a35d-404f-a17f-da1d46c9c9c7.kmmacros)
+
+    - [My Six ChatGPT Assistants](https://pinchlime.com/newsletters/my-six-chatgpt-assistants/)
 
 
 ## CLI
@@ -83,10 +85,6 @@ Curated by [Reorx](https://reorx.com), you are welcome to suggest new projects v
     Make bilingual epub books Using AI translate. Original tweet [@yihong0618](https://twitter.com/yihong0618/status/1630948132564631552)
 
     There's a web UI at [streamlit](https://goldengrape-bilingual-book-maker-streamlit-app-x7nhof.streamlit.app/), made by the author of this [tweet](https://twitter.com/goldengrape/status/1631549869306572800).
-    
-- [ChatGPT-for-Translation](https://github.com/Raychanan/ChatGPT-for-Translation)
-    
-    Python tool for translating text files. It provides bilingual translation, multithreading, and automatic handling of excessive request frequency.
 
 - [AI Commits](https://github.com/Nutlope/aicommits)
 
@@ -111,7 +109,11 @@ Curated by [Reorx](https://reorx.com), you are welcome to suggest new projects v
 - [ai-cli](https://github.com/yufeikang/ai-cli)
 
     This CLI tool allows you to easily use chatGPT in the command line. You can chat with it, ask it questions, and get text translations. It also supports rendering Markdown in the terminal.
-    
+
+- [ChatGPT-for-Translation](https://github.com/Raychanan/ChatGPT-for-Translation)
+
+    Python tool for translating text files. It provides bilingual translation, multithreading, and automatic handling of excessive request frequency.
+
 ## Apps
 
 - [OpenCat](https://opencat.app/)
@@ -145,6 +147,8 @@ Curated by [Reorx](https://reorx.com), you are welcome to suggest new projects v
     - [n3d1117/chatgpt-telegram-bot](https://github.com/n3d1117/chatgpt-telegram-bot)
     - [RainEggplant/chatgpt-telegram-bot](https://github.com/RainEggplant/chatgpt-telegram-bot)
     - [TBXark/ChatGPT-Telegram-Workers](https://github.com/TBXark/ChatGPT-Telegram-Workers)
+
+        Deploy your own Telegram ChatGPT bot on Cloudflare Workers with ease.
 - WeChat
     - [zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat)
     - [ChatGPT for Wechat](https://chatgpt4wechat.aow.me/)
@@ -159,6 +163,10 @@ Curated by [Reorx](https://reorx.com), you are welcome to suggest new projects v
 ## Development
 
 ### Projects
+
+- [OpenAI Cookbook](https://github.com/openai/openai-cookbook)
+
+    Official examples and guides for using the OpenAI API, including how to embedding long inputs, stream completions, format better inputs and much more.
 
 - [ChatGPT-API Demo - ddiu8081/chatgpt-demo](https://github.com/ddiu8081/chatgpt-demo)
 
@@ -186,7 +194,7 @@ Curated by [Reorx](https://reorx.com), you are welcome to suggest new projects v
 
 - [GPT3.5-H5-lite-page](https://jichao99.github.io/GPT3.5-H5-lite-page/)
 
-    a GPT3.5 web page, extremely lightweight and can be deployed statically, with no need for a server. just use `html` `css` `jquery`. Source code: [JiChao99/GPT3.5-H5-lite-page](https://github.com/JiChao99/GPT3.5-H5-lite-page)   
+    A GPT3.5 web page that is highly lightweight and can be deployed statically without requiring a server. Only HTML, CSS, and jQuery is used. Source code: [JiChao99/GPT3.5-H5-lite-page](https://github.com/JiChao99/GPT3.5-H5-lite-page)
 
 
 ### Articles

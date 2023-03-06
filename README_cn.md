@@ -71,6 +71,8 @@
 
         使用键盘快捷方式选择并复制文本以向 ChatGPT 提问。[下载链接](https://p15.p3.n0.cdn.getcloudapp.com/items/geuEZvwA/aeed10cb-a35d-404f-a17f-da1d46c9c9c7.kmmacros)。
 
+    - [我的六個專屬 ChatGPT 助手](https://pinchlime.com/newsletters/my-six-chatgpt-assistants/)
+
 
 ## CLI
 
@@ -79,10 +81,6 @@
     用于制作双语 epub 电子书的 Python 脚本。原推: [@yihong0618](https://twitter.com/yihong0618/status/1630948132564631552)
 
     Web UI [streamlit](https://goldengrape-bilingual-book-maker-streamlit-app-x7nhof.streamlit.app/)。原推: [tweet](https://twitter.com/goldengrape/status/1631549869306572800).
-    
-- [ChatGPT-for-Translation](https://github.com/Raychanan/ChatGPT-for-Translation)
-    
-    对文本文件进行翻译的 Python 脚本。同时提供双语翻译、多线程和自动处理过高的请求频率。
 
 - [AI Commits](https://github.com/Nutlope/aicommits)
 
@@ -107,6 +105,10 @@
 - [ai-cli](https://github.com/yufeikang/ai-cli)
 
     这个cli工具可以让你方便的在命令行中使用chatGPT。你可以和他聊天支持上下文，也可以让他帮你回答单个问题。也可以帮你翻译文本。并且支持markdown在终端中的渲染。
+
+- [ChatGPT-for-Translation](https://github.com/Raychanan/ChatGPT-for-Translation)
+
+    对文本文件进行翻译的 Python 脚本。同时提供双语翻译、多线程和自动处理过高的请求频率。
 
 ## 应用
 
@@ -140,6 +142,8 @@
     - [n3d1117/chatgpt-telegram-bot](https://github.com/n3d1117/chatgpt-telegram-bot)
     - [RainEggplant/chatgpt-telegram-bot](https://github.com/RainEggplant/chatgpt-telegram-bot)
     - [TBXark/ChatGPT-Telegram-Workers](https://github.com/TBXark/ChatGPT-Telegram-Workers)
+
+      在 Cloudflare Workers 上轻松部署自己的 Telegram ChatGPT 机器人。
 - WeChat
     - [zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat)
     - [ChatGPT for Wechat](https://chatgpt4wechat.aow.me/)
@@ -154,6 +158,10 @@
 ## 开发
 
 ### 开源项目
+
+- [OpenAI Cookbook](https://github.com/openai/openai-cookbook)
+
+    OpenAI 官方示例和指南，介绍如何使用 OpenAI API，包括如何嵌入长输入、流式完成、格式化更好的输入等等。
 
 - [ChatGPT-API Demo - ddiu8081/chatgpt-demo](https://github.com/ddiu8081/chatgpt-demo)
 
@@ -183,7 +191,7 @@
 
 - [GPT3.5-H5-lite-page](https://jichao99.github.io/GPT3.5-H5-lite-page/)
 
-    一个 GPT3.5 的网页 轻量级，可以直接进行静态部署 不需要服务端 只使用了 `html` `css` `jquery`。 源码: [JiChao99/GPT3.5-H5-lite-page](https://github.com/JiChao99/GPT3.5-H5-lite-page)
+    一个 GPT3.5 的轻量级网页应用，可直接静态部署无需服务端，只使用了 HTML, CSS, jQuery。 源码: [JiChao99/GPT3.5-H5-lite-page](https://github.com/JiChao99/GPT3.5-H5-lite-page)
 
 
 ### 技术文章
