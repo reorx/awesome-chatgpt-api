@@ -124,9 +124,9 @@
 
     通过 GPT3 过滤广告通知和垃圾消息的安卓应用。
 
-- [ChatGPT](https://github.com/deskbtm/nitmgpt)
+- [ChatGPT](https://github.com/tw93/Pake)
 
-    通过 [Pake](https://github.com/tw93/Pake) 构建的 ChatGPT 应用，支持 Mac、Windows、Linux。
+    通过 `Pake` 构建的 ChatGPT 应用，支持 Mac、Windows、Linux。
 
 ## 聊天机器人
 

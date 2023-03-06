@@ -129,9 +129,9 @@ Curated by [Reorx](https://reorx.com), you are welcome to suggest new projects v
 
     An Android application that filters ads, spam, notifications using GPT AI.
 
-- [ChatGPT](https://github.com/deskbtm/nitmgpt)
+- [ChatGPT](https://github.com/tw93/Pake)
 
-    The ChatGPT application, built using [Pake](https://github.com/tw93/Pake), supports Mac, Windows, and Linux.
+    The ChatGPT application, built using `Pake`, supports Mac, Windows, and Linux.
 
 
 ## Chatbots
