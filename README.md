@@ -147,6 +147,8 @@ Curated by [Reorx](https://reorx.com), you are welcome to suggest new projects v
     - [bestony/ChatGPT-Feishu](https://github.com/bestony/ChatGPT-Feishu)
     - [Leizhenpeng feishu-chatGpt](https://github.com/Leizhenpeng/feishu-chatGpt)
     - [key7men/openai-feishu-bot](https://github.com/key7men/openai-feishu-bot)
+- Teams
+    - [formulahendry/chatgpt-teams-bot](https://github.com/formulahendry/chatgpt-teams-bot)
 
 
 ## Development
