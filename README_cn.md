@@ -74,6 +74,35 @@
     - [我的六個專屬 ChatGPT 助手](https://pinchlime.com/newsletters/my-six-chatgpt-assistants/)
 
 
+## 应用
+
+- [Chat with GPT](chatwithgpt.netlify.app)
+
+    一个开源的 ChatGPT Web UI，具有 TTS 等附加功能。源码: [cogentapps/chat-with-gpt](https://github.com/cogentapps/chat-with-gpt)
+
+- [OpenCat](https://opencat.app/)
+
+    MacOS 原生的 ChatGPT API 客户端应用。
+
+- [OpenAI Translator](https://translator.lance.moe/)
+
+    基于 ChatGPT API 的翻译应用，支持 PWA。源码: [LanceMoe/openai-translator](https://github.com/LanceMoe/openai-translator)
+
+- [BiliGPT](https://b.jimmylv.cn/)
+
+    一键总结含字幕的哔哩哔哩视频内容。源码: [JimmyLv/BiliGPT](https://github.com/JimmyLv/BiliGPT)
+
+- [ResearchGPT](https://researchgpt.ue.r.appspot.com/)
+
+    使你可以与 PDF 文件对话的应用，适合论文阅读和研究等学习需求。源码: [ResearchGPT](https://github.com/mukulpatnaik/researchgpt)
+
+    作者和其他推友关于这个应用实现细节的技术讨论: [@mukul0x](https://twitter.com/mukul0x/status/1625673579399446529), [@goldengrape](https://twitter.com/goldengrape/status/1632184344881274882)
+
+- [NITM GPT](https://github.com/deskbtm/nitmgpt)
+
+    通过 GPT3 过滤广告通知和垃圾消息的安卓应用。
+
+
 ## CLI
 
 - [bilingual\_book\_maker](https://github.com/yihong0618/bilingual_book_maker)
@@ -109,34 +138,6 @@
 - [ChatGPT-for-Translation](https://github.com/Raychanan/ChatGPT-for-Translation)
 
     对文本文件进行翻译的 Python 脚本。同时提供双语翻译、多线程和自动处理过高的请求频率。
-
-## 应用
-
-- [Chat with GPT](chatwithgpt.netlify.app)
-
-    一个开源的 ChatGPT Web UI，具有 TTS 等附加功能。源码: [cogentapps/chat-with-gpt](https://github.com/cogentapps/chat-with-gpt)
-
-- [OpenCat](https://opencat.app/)
-
-    MacOS 原生的 ChatGPT API 客户端应用。
-
-- [OpenAI Translator](https://translator.lance.moe/)
-
-    基于 ChatGPT API 的翻译应用，支持 PWA。源码: [LanceMoe/openai-translator](https://github.com/LanceMoe/openai-translator)
-
-- [BiliGPT](https://b.jimmylv.cn/)
-
-    一键总结含字幕的哔哩哔哩视频内容。源码: [JimmyLv/BiliGPT](https://github.com/JimmyLv/BiliGPT)
-
-- [ResearchGPT](https://researchgpt.ue.r.appspot.com/)
-
-    使你可以与 PDF 文件对话的应用，适合论文阅读和研究等学习需求。源码: [ResearchGPT](https://github.com/mukulpatnaik/researchgpt)
-
-    作者和其他推友关于这个应用实现细节的技术讨论: [@mukul0x](https://twitter.com/mukul0x/status/1625673579399446529), [@goldengrape](https://twitter.com/goldengrape/status/1632184344881274882)
-
-- [NITM GPT](https://github.com/deskbtm/nitmgpt)
-
-    通过 GPT3 过滤广告通知和垃圾消息的安卓应用。
 
 
 ## 聊天机器人
@@ -195,7 +196,6 @@
 - [GPT3.5-H5-lite-page](https://jichao99.github.io/GPT3.5-H5-lite-page/)
 
     一个 GPT3.5 的轻量级网页应用，可直接静态部署无需服务端，只使用了 HTML, CSS, jQuery。 源码: [JiChao99/GPT3.5-H5-lite-page](https://github.com/JiChao99/GPT3.5-H5-lite-page)
-
 
 ### 技术文章
 

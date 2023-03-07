@@ -78,6 +78,36 @@ Curated by [Reorx](https://reorx.com), you are welcome to suggest new projects v
     - [My Six ChatGPT Assistants](https://pinchlime.com/newsletters/my-six-chatgpt-assistants/)
 
 
+## Apps
+
+- [Chat with GPT](chatwithgpt.netlify.app)
+
+    An open source ChatGPT web UI with additional features like TTS. Source code: [cogentapps/chat-with-gpt](https://github.com/cogentapps/chat-with-gpt)
+
+- [OpenCat](https://opencat.app/)
+
+    A native desktop ChatGPT client that utilizes your own API key, providing a faster and enhanced chat experience.
+
+- [OpenAI Translator](https://translator.lance.moe/)
+
+    A translator app that uses OpenAI GPT-3 to translate between languages. It is a PWA that can be installed on your phone or desktop. Source code: [LanceMoe/openai-translator](https://github.com/LanceMoe/openai-translator)
+
+- [BiliGPT](https://b.jimmylv.cn/)
+
+    One-click summary of the subtitled Bilibili Video. Source code: [JimmyLv/BiliGPT](https://github.com/JimmyLv/BiliGPT)
+
+- [ResearchGPT](https://researchgpt.ue.r.appspot.com/)
+
+    This is a flask app provides an interface to enable a conversation with a research paper.
+    Source code: [ResearchGPT](https://github.com/mukulpatnaik/researchgpt).
+
+    The author explored the utilization of vector embeddings derived from the text that closely matches the prompt in the original tweet: [@mukul0x](https://twitter.com/mukul0x/status/1625673579399446529)
+
+- [NITM GPT](https://github.com/deskbtm/nitmgpt)
+
+    An Android application that filters ads, spam, notifications using GPT AI.
+
+
 ## CLI
 
 - [bilingual\_book\_maker](https://github.com/yihong0618/bilingual_book_maker)
@@ -113,35 +143,6 @@ Curated by [Reorx](https://reorx.com), you are welcome to suggest new projects v
 - [ChatGPT-for-Translation](https://github.com/Raychanan/ChatGPT-for-Translation)
 
     Python tool for translating text files. It provides bilingual translation, multithreading, and automatic handling of excessive request frequency.
-
-## Apps
-
-- [Chat with GPT](chatwithgpt.netlify.app)
-
-    An open source ChatGPT web UI with additional features like TTS. Source code: [cogentapps/chat-with-gpt](https://github.com/cogentapps/chat-with-gpt)
-
-- [OpenCat](https://opencat.app/)
-
-    A native desktop ChatGPT client that utilizes your own API key, providing a faster and enhanced chat experience.
-
-- [OpenAI Translator](https://translator.lance.moe/)
-
-    A translator app that uses OpenAI GPT-3 to translate between languages. It is a PWA that can be installed on your phone or desktop. Source code: [LanceMoe/openai-translator](https://github.com/LanceMoe/openai-translator)
-
-- [BiliGPT](https://b.jimmylv.cn/)
-
-    One-click summary of the subtitled Bilibili Video. Source code: [JimmyLv/BiliGPT](https://github.com/JimmyLv/BiliGPT)
-
-- [ResearchGPT](https://researchgpt.ue.r.appspot.com/)
-
-    This is a flask app provides an interface to enable a conversation with a research paper.
-    Source code: [ResearchGPT](https://github.com/mukulpatnaik/researchgpt).
-
-    The author explored the utilization of vector embeddings derived from the text that closely matches the prompt in the original tweet: [@mukul0x](https://twitter.com/mukul0x/status/1625673579399446529)
-
-- [NITM GPT](https://github.com/deskbtm/nitmgpt)
-
-    An Android application that filters ads, spam, notifications using GPT AI.
 
 
 ## Chatbots
@@ -198,7 +199,6 @@ Curated by [Reorx](https://reorx.com), you are welcome to suggest new projects v
 - [GPT3.5-H5-lite-page](https://jichao99.github.io/GPT3.5-H5-lite-page/)
 
     A GPT3.5 web page that is highly lightweight and can be deployed statically without requiring a server. Only HTML, CSS, and jQuery is used. Source code: [JiChao99/GPT3.5-H5-lite-page](https://github.com/JiChao99/GPT3.5-H5-lite-page)
-
 
 ### Articles
 
