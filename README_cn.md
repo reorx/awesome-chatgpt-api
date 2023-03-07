@@ -176,13 +176,7 @@
 
     OpenAI 官方示例和指南，介绍如何使用 OpenAI API，包括如何嵌入长输入、流式完成、格式化更好的输入等等。
 
-- [ChatGPT-API Demo - ddiu8081/chatgpt-demo](https://github.com/ddiu8081/chatgpt-demo)
 
-    ChatGPT web 应用 demo，使用 Astro 和 TypeScript 开发。
-
-- [ChatGPT Web](https://github.com/Chanzhaoyu/chatgpt-web)
-
-    ChatGPT web 应用 demo，使用 Vue3 和 Express 开发。
 
 - [Paul Graham GPT](https://github.com/mckaywrigley/paul-graham-gpt)
 
@@ -201,6 +195,18 @@
 - [Tiktokenizer](https://tiktokenizer.vercel.app/)
 
     在线的 tiktoken 库使用界面，帮助你计算 prompt 的 token 数量。源码: [dqbd/tiktokenizer](https://github.com/dqbd/tiktokenizer)
+
+- [Elasticsearch + GPT3 Answerer](https://github.com/hunkim/es-gpt)
+
+    拦截 Elasticsearch 的结果并将其发送到 GPT3，以提供准确和相关的答案来回答您的查询。
+
+- [ChatGPT-API Demo - ddiu8081/chatgpt-demo](https://github.com/ddiu8081/chatgpt-demo)
+
+    ChatGPT web 应用 demo，使用 Astro 和 TypeScript 开发。
+
+- [ChatGPT Web](https://github.com/Chanzhaoyu/chatgpt-web)
+
+    ChatGPT web 应用 demo，使用 Vue3 和 Express 开发。
 
 - [GPT3.5-H5-lite-page](https://jichao99.github.io/GPT3.5-H5-lite-page/)
 

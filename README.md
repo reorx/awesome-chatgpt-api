@@ -181,13 +181,7 @@ Curated by [Reorx](https://reorx.com), you are welcome to suggest new projects v
 
     Official examples and guides for using the OpenAI API, including how to embedding long inputs, stream completions, format better inputs and much more.
 
-- [ChatGPT-API Demo - ddiu8081/chatgpt-demo](https://github.com/ddiu8081/chatgpt-demo)
 
-    A ChatGPT web app demo built with Astro and TypeScript.
-
-- [ChatGPT Web](https://github.com/Chanzhaoyu/chatgpt-web)
-
-    A ChatGPT web app demo built with Vue3 and Express.
 
 - [Paul Graham GPT](https://github.com/mckaywrigley/paul-graham-gpt)
 
@@ -204,6 +198,18 @@ Curated by [Reorx](https://reorx.com), you are welcome to suggest new projects v
 - [Tiktokenizer](https://tiktokenizer.vercel.app/)
 
     Online playground for openai's tiktoken library, calculating the correct number of tokens for a given prompt. Source code: [dqbd/tiktokenizer](https://github.com/dqbd/tiktokenizer)
+
+- [Elasticsearch + GPT3 Answerer](https://github.com/hunkim/es-gpt)
+
+    Intercepts Elasticsearch results and sends them to GPT3 to provide accurate and relevant answers to your queries.
+
+- [ChatGPT-API Demo - ddiu8081/chatgpt-demo](https://github.com/ddiu8081/chatgpt-demo)
+
+    A ChatGPT web app demo built with Astro and TypeScript.
+
+- [ChatGPT Web](https://github.com/Chanzhaoyu/chatgpt-web)
+
+    A ChatGPT web app demo built with Vue3 and Express.
 
 - [GPT3.5-H5-lite-page](https://jichao99.github.io/GPT3.5-H5-lite-page/)
 
