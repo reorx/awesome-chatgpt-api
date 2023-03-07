@@ -176,7 +176,9 @@
 
     OpenAI 官方示例和指南，介绍如何使用 OpenAI API，包括如何嵌入长输入、流式完成、格式化更好的输入等等。
 
+- [DocsGPT](https://github.com/arc53/docsgpt)
 
+    使用 OpenAI API 构建文档的搜索和聊天助手。
 
 - [Paul Graham GPT](https://github.com/mckaywrigley/paul-graham-gpt)
 

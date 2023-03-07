@@ -181,7 +181,9 @@ Curated by [Reorx](https://reorx.com), you are welcome to suggest new projects v
 
     Official examples and guides for using the OpenAI API, including how to embedding long inputs, stream completions, format better inputs and much more.
 
+- [DocsGPT](https://github.com/arc53/docsgpt)
 
+    An open-source solution that streamlines the process of finding information in project documentation. With its integration of the powerful GPT models, developers can easily ask questions about a project and receive accurate answers.
 
 - [Paul Graham GPT](https://github.com/mckaywrigley/paul-graham-gpt)
 
