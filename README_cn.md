@@ -112,6 +112,10 @@
 
 ## 应用
 
+- [Chat with GPT](chatwithgpt.netlify.app)
+
+    一个开源的 ChatGPT Web UI，具有 TTS 等附加功能。源码: [cogentapps/chat-with-gpt](https://github.com/cogentapps/chat-with-gpt)
+
 - [OpenCat](https://opencat.app/)
 
     MacOS 原生的 ChatGPT API 客户端应用。
@@ -148,8 +152,8 @@
 - Feishu
     - [bestony/ChatGPT-Feishu](https://github.com/bestony/ChatGPT-Feishu)
     - [Leizhenpeng feishu-chatGpt](https://github.com/Leizhenpeng/feishu-chatGpt)
-    - [key7men/openai-feishu-bot](https://github.com/key7men/openai-feishu-bot)
     - [go-zoox/chatgpt-for-chatbot-feishu](https://github.com/go-zoox/chatgpt-for-chatbot-feishu)
+    - [key7men/openai-feishu-bot](https://github.com/key7men/openai-feishu-bot)
 - Teams
     - [formulahendry/chatgpt-teams-bot](https://github.com/formulahendry/chatgpt-teams-bot)
 

@@ -116,9 +116,9 @@ Curated by [Reorx](https://reorx.com), you are welcome to suggest new projects v
 
 ## Apps
 
-- [Chat with GPT](https://github.com/cogentapps/chat-with-gpt)
+- [Chat with GPT](chatwithgpt.netlify.app)
 
-    An open source ChatGPT web UI with additional features.
+    An open source ChatGPT web UI with additional features like TTS. Source code: [cogentapps/chat-with-gpt](https://github.com/cogentapps/chat-with-gpt)
 
 - [OpenCat](https://opencat.app/)
 
@@ -157,8 +157,8 @@ Curated by [Reorx](https://reorx.com), you are welcome to suggest new projects v
 - Feishu
     - [bestony/ChatGPT-Feishu](https://github.com/bestony/ChatGPT-Feishu)
     - [Leizhenpeng feishu-chatGpt](https://github.com/Leizhenpeng/feishu-chatGpt)
-    - [key7men/openai-feishu-bot](https://github.com/key7men/openai-feishu-bot)
     - [go-zoox/chatgpt-for-chatbot-feishu](https://github.com/go-zoox/chatgpt-for-chatbot-feishu)
+    - [key7men/openai-feishu-bot](https://github.com/key7men/openai-feishu-bot)
 - Teams
     - [formulahendry/chatgpt-teams-bot](https://github.com/formulahendry/chatgpt-teams-bot)
 
