@@ -147,6 +147,9 @@
 
     对文本文件进行翻译的 Python 脚本。同时提供双语翻译、多线程和自动处理过高的请求频率。
 
+- [PyChatGPT-CLI](https://github.com/callmexss/pychatgpt-cli)
+
+    基于官方 OpenAI API 封装的 ChatGPT 命令行工具，方便（开发时）在终端中快速提问。
 
 ## 聊天机器人
 
