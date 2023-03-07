@@ -116,6 +116,10 @@ Curated by [Reorx](https://reorx.com), you are welcome to suggest new projects v
 
 ## Apps
 
+- [Chat with GPT](https://github.com/cogentapps/chat-with-gpt)
+
+    An open source ChatGPT web UI with additional features.
+
 - [OpenCat](https://opencat.app/)
 
     A native desktop ChatGPT client that utilizes your own API key, providing a faster and enhanced chat experience.
