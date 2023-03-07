@@ -193,14 +193,6 @@ Curated by [Reorx](https://reorx.com), you are welcome to suggest new projects v
 
     Some insightful tweets about this project and token limitation: [@chuangbo](https://twitter.com/chuangbo/status/1631461656151887873), [@dotey](https://twitter.com/dotey/status/1631779232455053313)
 
-- [LlamaIndex 🦙 \(GPT Index\)](https://github.com/jerryjliu/gpt_index)
-
-    LlamaIndex (GPT Index) is a project that provides a central interface to connect your LLM's with external data. It has a set of data structures that allow you to index your data for various LLM tasks, and remove concerns over prompt size limitations.
-
-- [Tiktokenizer](https://tiktokenizer.vercel.app/)
-
-    Online playground for openai's tiktoken library, calculating the correct number of tokens for a given prompt. Source code: [dqbd/tiktokenizer](https://github.com/dqbd/tiktokenizer)
-
 - [Elasticsearch + GPT3 Answerer](https://github.com/hunkim/es-gpt)
 
     Intercepts Elasticsearch results and sends them to GPT3 to provide accurate and relevant answers to your queries.
@@ -216,6 +208,20 @@ Curated by [Reorx](https://reorx.com), you are welcome to suggest new projects v
 - [GPT3.5-H5-lite-page](https://jichao99.github.io/GPT3.5-H5-lite-page/)
 
     A GPT3.5 web page that is highly lightweight and can be deployed statically without requiring a server. Only HTML, CSS, and jQuery is used. Source code: [JiChao99/GPT3.5-H5-lite-page](https://github.com/JiChao99/GPT3.5-H5-lite-page)
+
+### Tools
+
+- [LlamaIndex 🦙 \(GPT Index\)](https://github.com/jerryjliu/gpt_index)
+
+    LlamaIndex (GPT Index) is a project that provides a central interface to connect your LLM's with external data. It has a set of data structures that allow you to index your data for various LLM tasks, and remove concerns over prompt size limitations.
+
+- [Tiktokenizer](https://tiktokenizer.vercel.app/)
+
+    Online playground for openai's tiktoken library, calculating the correct number of tokens for a given prompt. Source code: [dqbd/tiktokenizer](https://github.com/dqbd/tiktokenizer)
+
+- [OpenAI GPT-3.5 Price Calculator](https://openai.deepakness.com/)
+
+    Calculate how much it will cost to generate certain number of words by using OpenAI GPT-3.5 API.
 
 ### Articles
 

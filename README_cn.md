@@ -189,15 +189,6 @@
     一些与这个项目和突破 token 数量限制相关的推文:
     [@chuangbo](https://twitter.com/chuangbo/status/1631461656151887873), [@dotey](https://twitter.com/dotey/status/1631779232455053313)
 
-- [LlamaIndex 🦙 \(GPT Index\)](https://github.com/jerryjliu/gpt_index)
-
-    LlamaIndex (原名 GPT Index) 是一个用于处理 LLM 外部数据的工具库。
-    它提供一系列数据结构帮助开发者为各种 LLM 任务索引数据，解决 prompt 大小限制的问题。
-
-- [Tiktokenizer](https://tiktokenizer.vercel.app/)
-
-    在线的 tiktoken 库使用界面，帮助你计算 prompt 的 token 数量。源码: [dqbd/tiktokenizer](https://github.com/dqbd/tiktokenizer)
-
 - [Elasticsearch + GPT3 Answerer](https://github.com/hunkim/es-gpt)
 
     拦截 Elasticsearch 的结果并将其发送到 GPT3，以提供准确和相关的答案来回答您的查询。
@@ -213,6 +204,21 @@
 - [GPT3.5-H5-lite-page](https://jichao99.github.io/GPT3.5-H5-lite-page/)
 
     一个 GPT3.5 的轻量级网页应用，可直接静态部署无需服务端，只使用了 HTML, CSS, jQuery。 源码: [JiChao99/GPT3.5-H5-lite-page](https://github.com/JiChao99/GPT3.5-H5-lite-page)
+
+### 工具
+
+- [LlamaIndex 🦙 \(GPT Index\)](https://github.com/jerryjliu/gpt_index)
+
+    LlamaIndex (原名 GPT Index) 是一个用于处理 LLM 外部数据的工具库。
+    它提供一系列数据结构帮助开发者为各种 LLM 任务索引数据，解决 prompt 大小限制的问题。
+
+- [Tiktokenizer](https://tiktokenizer.vercel.app/)
+
+    在线的 tiktoken 库使用界面，帮助你计算 prompt 的 token 数量。源码: [dqbd/tiktokenizer](https://github.com/dqbd/tiktokenizer)
+
+- [OpenAI GPT-3.5 Price Calculator](https://openai.deepakness.com/)
+
+    计算使用 OpenAI GPT-3.5 API 生成特定数量单词的成本。
 
 ### 技术文章
 
