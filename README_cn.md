@@ -2,7 +2,7 @@
 
 基于 [ChatGPT API](https://platform.openai.com/docs/api-reference/chat)，且允许配置自己的 [API key](https://platform.openai.com/account/api-keys) 的工具和应用的精选列表。其中也包含一些[开发](#development)相关的项目和文章。
 
-由 [![Twitter](https://img.shields.io/twitter/url.svg?label=%40novoreorx&style=social&url=https%3A%2F%2Ftwitter.com-novoreorx)](https://twitter.com/novoreorx) 收集整理，欢迎在 Twitter 或通过 PR 向我提交新的作品。
+由 [![Twitter](https://img.shields.io/twitter/url.svg?label=%40novoreorx&style=social&url=https%3A%2F%2Ftwitter.com-novoreorx)](https://twitter.com/novoreorx) 收集整理，欢迎在 Twitter 或通过 PR 向我提交新的作品，但请确保您已经阅读了[提交须知](https://github.com/reorx/awesome-chatgpt-api/issues/21)。
 
 
 ## 插件和扩展
