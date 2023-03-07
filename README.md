@@ -152,6 +152,9 @@ Curated by [Reorx](https://reorx.com), you are welcome to suggest new projects v
 
     Python tool for translating text files. It provides bilingual translation, multithreading, and automatic handling of excessive request frequency.
 
+- [PyChatGPT-CLI](https://github.com/callmexss/pychatgpt-cli)
+    
+    A command-line ChatGPT tool using official OpenAI API.
 
 ## Chatbots
 
