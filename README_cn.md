@@ -131,6 +131,10 @@
 
     一个 Commitizen 适配器与命令行工具使用 OpenAI API 生成 Git 约定式提交格式提交消息。 [文档/OpenAI](https://cz-git.qbb.sh/zh/recipes/openai)
 
+- [i18n-cli](https://github.com/pandodao/i18n-cli)
+
+    在命令行使用 OpenAI API 翻译 JSON 格式的本地化文件。
+
 - [verdverm/chatgpt](https://github.com/verdverm/chatgpt)
 
     通过命令行与 ChatGPT API 进行交互式会话，支持通过文件输入上下文。

@@ -136,6 +136,10 @@ Curated by [Reorx](https://reorx.com), you are welcome to suggest new projects v
 
     A Commitizen CLI and Commitizen adapter generate standardized commit messages with AI. [Recipes/OpenAI](https://cz-git.qbb.sh/recipes/openai)
 
+- [i18n-cli](https://github.com/pandodao/i18n-cli)
+
+    A command-line interface (CLI) tool that utilizes the OpenAI API to translate locale files based on JSON format.
+
 - [verdverm/chatgpt](https://github.com/verdverm/chatgpt)
 
     CLI application for working with ChatGPT API interactively or in file based sessions. Supports promt engineering and most configurations.
