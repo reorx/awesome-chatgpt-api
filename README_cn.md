@@ -155,12 +155,12 @@
 ## 聊天机器人
 
 - Telegram
-    - [franalgaba/chatgpt-telegram-bot-serverless](https://github.com/franalgaba/chatgpt-telegram-bot-serverless): 开发语言 **Python**.
     - [karfly/chatgpt\_telegram\_bot](https://github.com/karfly/chatgpt_telegram_bot): 开发语言 **Python**.
     - [n3d1117/chatgpt-telegram-bot](https://github.com/n3d1117/chatgpt-telegram-bot): 开发语言 **Python**.
     - [RainEggplant/chatgpt-telegram-bot](https://github.com/RainEggplant/chatgpt-telegram-bot): 开发语言 **JavaScript**.
     - [leafduo/chatgpt-telegram-bot](https://github.com/leafduo/chatgpt-telegram-bot): 开发语言 **Go**.
     - [TBXark/ChatGPT-Telegram-Workers](https://github.com/TBXark/ChatGPT-Telegram-Workers): 在 Cloudflare Workers 上部署自己的 Telegram ChatGPT 机器人。
+    - [franalgaba/chatgpt-telegram-bot-serverless](https://github.com/franalgaba/chatgpt-telegram-bot-serverless): 在 AWS Lambda 上部署自己的 Telegram ChatGPT 机器人。
 - WeChat
     - [zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat)
     - [ChatGPT for Wechat](https://chatgpt4wechat.aow.me/)
