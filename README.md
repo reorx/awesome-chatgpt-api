@@ -111,6 +111,10 @@ Curated by [Reorx](https://reorx.com), you are welcome to suggest new projects v
 
     An Android application that filters ads, spam, notifications using GPT AI.
 
+- [ChatGPT Translator](https://github.com/simpleapples/chatgpt-translator)
+
+    ChatGPT Translator is an open-source desktop app that allows you to translate text using GPT language model.
+
 
 ## CLI
 
