@@ -124,7 +124,7 @@ Curated by [Reorx](https://reorx.com), you are welcome to suggest new projects v
 
     A CLI that writes your git commit messages for you with AI.
 
-- [turbo commit](https://github.com/Sett17/turboCommit)
+- [turbocommit](https://github.com/Sett17/turboCommit)
 
     CLI that uses the staged diff and optional message to create Conventional commits.
 
