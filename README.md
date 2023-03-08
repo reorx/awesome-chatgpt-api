@@ -136,6 +136,10 @@ Curated by [Reorx](https://reorx.com), you are welcome to suggest new projects v
 
     A CLI that writes your git commit messages for you with AI.
 
+- [turbocommit](https://github.com/Sett17/turboCommit)
+
+    CLI that uses the staged diff and optional message to create Conventional commits.
+
 - [xiaogpt](https://github.com/yihong0618/xiaogpt)
 
     Play ChatGPT with Xiaomi AI Speaker.
