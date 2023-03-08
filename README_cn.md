@@ -106,6 +106,10 @@
 
     通过 GPT3 过滤广告通知和垃圾消息的安卓应用。
 
+- [ChatGPT Translator](https://github.com/simpleapples/chatgpt-translator)
+
+    ChatGPT Translator 是一个基于 ChatGPT 和 Electron 的开源、跨平台桌面翻译软件。
+
 
 ## CLI
 
