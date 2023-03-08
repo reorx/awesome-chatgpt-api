@@ -169,6 +169,8 @@ Curated by [Reorx](https://reorx.com), you are welcome to suggest new projects v
     - [Leizhenpeng feishu-chatGpt](https://github.com/Leizhenpeng/feishu-chatGpt)
     - [go-zoox/chatgpt-for-chatbot-feishu](https://github.com/go-zoox/chatgpt-for-chatbot-feishu)
     - [key7men/openai-feishu-bot](https://github.com/key7men/openai-feishu-bot)
+- DingTalk
+    - [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk): Written in **Go**.
 - Teams
     - [formulahendry/chatgpt-teams-bot](https://github.com/formulahendry/chatgpt-teams-bot)
 
