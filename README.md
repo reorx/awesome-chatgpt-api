@@ -156,6 +156,7 @@ Curated by [Reorx](https://reorx.com), you are welcome to suggest new projects v
 ## Chatbots
 
 - Telegram
+    - [franalgaba/chatgpt-telegram-bot-serverless](https://github.com/franalgaba/chatgpt-telegram-bot-serverless): Free and in AWS serverless bot in **Python**.
     - [karfly/chatgpt\_telegram\_bot](https://github.com/karfly/chatgpt_telegram_bot): Written in **Python**.
     - [n3d1117/chatgpt-telegram-bot](https://github.com/n3d1117/chatgpt-telegram-bot): Written in **Python**.
     - [RainEggplant/chatgpt-telegram-bot](https://github.com/RainEggplant/chatgpt-telegram-bot): Written in **JavaScript**.

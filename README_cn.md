@@ -151,6 +151,7 @@
 ## 聊天机器人
 
 - Telegram
+    - [franalgaba/chatgpt-telegram-bot-serverless](https://github.com/franalgaba/chatgpt-telegram-bot-serverless): 开发语言 **Python**.
     - [karfly/chatgpt\_telegram\_bot](https://github.com/karfly/chatgpt_telegram_bot): 开发语言 **Python**.
     - [n3d1117/chatgpt-telegram-bot](https://github.com/n3d1117/chatgpt-telegram-bot): 开发语言 **Python**.
     - [RainEggplant/chatgpt-telegram-bot](https://github.com/RainEggplant/chatgpt-telegram-bot): 开发语言 **JavaScript**.
