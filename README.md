@@ -84,6 +84,10 @@ Curated by [Reorx](https://reorx.com), you are welcome to suggest new projects v
 
     ChatPDF is an innovative tool that allows users to verbally communicate with their PDF files, making it easier to extract information from large documents such as manuals, legal contracts, and research papers.
 
+- [ChatBox](https://github.com/Bin-Huang/chatbox)
+
+    ChatBox is a cross-platform desktop client for OpenAI API, also a prompt debugging and management tool.
+
 - [ChatKit](https://chatkit.app/)
 
     A lightweight ChatGPT Web UI that allows setting URLs as context for conversations.

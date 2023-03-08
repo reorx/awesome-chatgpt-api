@@ -80,6 +80,10 @@
 
     基于 ChatGPT API 的 PDF 内容分析工具。上传 PDF 文件后，可以对它提问任何关于这份 PDF 的问题，适合快速提取各种 paper 论文的摘要，支持中文输出。
 
+- [ChatBox](https://github.com/Bin-Huang/chatbox)
+
+    ChatBox 是一个 OpenAI API 的跨平台桌面客户端，也是一个 prompt 调试和管理工具。
+
 - [ChatKit](https://chatkit.app/)
 
     一个轻量的 ChatGPT Web UI，可设定 URL 作为讨论的上下文。
