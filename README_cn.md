@@ -118,6 +118,10 @@
 - [AI Commits](https://github.com/Nutlope/aicommits)
 
     一个用 ChatGPT API 生成 Git 提交消息的命令行工具。
+    
+- [turbocommit](https://github.com/Sett17/turboCommit)
+
+    CLI，使用阶段性差异和可选信息来创建常规提交。
 
 - [xiaogpt](https://github.com/yihong0618/xiaogpt)
 
