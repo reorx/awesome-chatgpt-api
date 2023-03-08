@@ -84,6 +84,10 @@ Curated by [Reorx](https://reorx.com), you are welcome to suggest new projects v
 
     ChatPDF is an innovative tool that allows users to verbally communicate with their PDF files, making it easier to extract information from large documents such as manuals, legal contracts, and research papers.
 
+- [ChatKit](https://chatkit.app/)
+
+    A lightweight ChatGPT Web UI that allows setting URLs as context for conversations.
+
 - [Chat with GPT](chatwithgpt.netlify.app)
 
     An open source ChatGPT web UI with additional features like TTS. Source code: [cogentapps/chat-with-gpt](https://github.com/cogentapps/chat-with-gpt)
