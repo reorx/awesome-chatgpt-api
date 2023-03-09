@@ -88,7 +88,7 @@
 
     一个轻量的 ChatGPT Web UI，可设定 URL 作为讨论的上下文。
 
-- [Chat with GPT](chatwithgpt.netlify.app)
+- [Chat with GPT](https://chatwithgpt.netlify.app)
 
     一个开源的 ChatGPT Web UI，具有 TTS 等附加功能。源码: [cogentapps/chat-with-gpt](https://github.com/cogentapps/chat-with-gpt)
 
@@ -130,7 +130,7 @@
 - [AI Commits](https://github.com/Nutlope/aicommits)
 
     一个用 ChatGPT API 生成 Git 提交消息的命令行工具。
-    
+
 - [turbocommit](https://github.com/Sett17/turboCommit)
 
     CLI，使用阶段性差异和可选信息来创建常规提交。
