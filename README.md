@@ -92,7 +92,7 @@ Curated by [Reorx](https://reorx.com), you are welcome to suggest new projects v
 
     A lightweight ChatGPT Web UI that allows setting URLs as context for conversations.
 
-- [Chat with GPT](chatwithgpt.netlify.app)
+- [Chat with GPT](https://chatwithgpt.netlify.app)
 
     An open source ChatGPT web UI with additional features like TTS. Source code: [cogentapps/chat-with-gpt](https://github.com/cogentapps/chat-with-gpt)
 
