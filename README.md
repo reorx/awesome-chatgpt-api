@@ -123,6 +123,10 @@ Curated by [Reorx](https://reorx.com), you are welcome to suggest new projects v
 
     ChatGPT Translator is an open-source desktop app that allows you to translate text using GPT language model.
 
+- [AI Subtitle Translator](https://ai.cgsv.top/)
+
+    Translate local or Youtube/Bilibili subtitle using GPT-3.5 API. Source Code [AI Subtitle](https://github.com/cgsvv/AISubtitle)
+
 
 ## CLI
 
