@@ -118,6 +118,9 @@
 
     ChatGPT Translator 是一个基于 ChatGPT 和 Electron 的开源、跨平台桌面翻译软件。
 
+- [AI字幕翻译](https://ai.cgsv.top/)
+
+    利用GPT-3.5翻译本地字幕文件或者B站/油管字幕。源码 [AI Subtitle](https://github.com/cgsvv/AISubtitle)
 
 ## CLI
 
