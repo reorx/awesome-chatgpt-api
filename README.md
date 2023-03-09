@@ -27,6 +27,10 @@ Curated by [Reorx](https://reorx.com), you are welcome to suggest new projects v
 
         Generate ideas, attractive titles, summaries, outlines, and whole paragraphs based on your notes in Obsidian.
 
+    - [AI Assistant](https://github.com/nguyenvanduocit/obsidian-ai-assistant)
+
+        A plugin for Obsidian that uses OpenAI's API to assist users in their note-taking and writing process: file rename, generate text, summarize, chat UI.
+
 - [Logseq](https://logseq.com/) Plugins
 
     - [Logseq Plugin GPT3 OpenAI](https://github.com/briansunter/logseq-plugin-gpt3-openai)
@@ -167,6 +171,10 @@ Curated by [Reorx](https://reorx.com), you are welcome to suggest new projects v
 - [ChatGPT-for-Translation](https://github.com/Raychanan/ChatGPT-for-Translation)
 
     Python tool for translating text files. It provides bilingual translation, multithreading, and automatic handling of excessive request frequency.
+    
+- [ai-commit](https://github.com/nguyenvanduocit/ai-commit)
+
+    AI-Commit is a command line tool that uses OpenAI's language generation capabilities to generate commit messages.
 
 
 ## Chatbots
