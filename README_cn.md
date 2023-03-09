@@ -179,6 +179,7 @@
     - [leafduo/chatgpt-telegram-bot](https://github.com/leafduo/chatgpt-telegram-bot): 开发语言 **Go**.
     - [TBXark/ChatGPT-Telegram-Workers](https://github.com/TBXark/ChatGPT-Telegram-Workers): 在 Cloudflare Workers 上部署自己的 Telegram ChatGPT 机器人。
     - [franalgaba/chatgpt-telegram-bot-serverless](https://github.com/franalgaba/chatgpt-telegram-bot-serverless): 在 AWS Lambda 上部署自己的 Telegram ChatGPT 机器人。
+    - [feitian124/ai-tg-bot](https://github.com/feitian124/ai-tg-bot): 开发语言 **Go**, 只有一个二进制文件没其它依赖，使用一个用户对应一个bot一个goroute的良好设计.
 - WeChat
     - [zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat)
     - [ChatGPT for Wechat](https://chatgpt4wechat.aow.me/)

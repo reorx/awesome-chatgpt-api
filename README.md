@@ -185,6 +185,7 @@ Curated by [Reorx](https://reorx.com), you are welcome to suggest new projects v
     - [leafduo/chatgpt-telegram-bot](https://github.com/leafduo/chatgpt-telegram-bot): Written in **Go**.
     - [TBXark/ChatGPT-Telegram-Workers](https://github.com/TBXark/ChatGPT-Telegram-Workers): This one has been specifically made for **Cloudflare Workers**.
     - [franalgaba/chatgpt-telegram-bot-serverless](https://github.com/franalgaba/chatgpt-telegram-bot-serverless): Free and in AWS serverless bot in **Python**.
+    - [feitian124/ai-tg-bot](https://github.com/feitian124/ai-tg-bot): Written in **Go**, one binary file no other dependencies,  well design with one user one bot one goroute pattern.
 - WeChat
     - [zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat)
     - [ChatGPT for Wechat](https://chatgpt4wechat.aow.me/)
