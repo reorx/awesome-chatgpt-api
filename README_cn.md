@@ -163,6 +163,9 @@
 
     对文本文件进行翻译的 Python 脚本。同时提供双语翻译、多线程和自动处理过高的请求频率。
 
+- [chatgpt-cli](https://github.com/efJerryYang/chatgpt-cli/)
+
+    支持 Markdown 的 ChatGPT CLI 工具，使用 OpenAI 官方 API。提供多个命令实现官方 web 客户端近似的功能以方便使用，会话以 JSON 格式保存到本地。
 
 ## 聊天机器人
 

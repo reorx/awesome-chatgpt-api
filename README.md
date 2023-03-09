@@ -168,6 +168,9 @@ Curated by [Reorx](https://reorx.com), you are welcome to suggest new projects v
 
     Python tool for translating text files. It provides bilingual translation, multithreading, and automatic handling of excessive request frequency.
 
+- [chatgpt-cli](https://github.com/efJerryYang/chatgpt-cli/)
+
+    A markdown-supported command-line interface tool that connects to ChatGPT using OpenAI's API key. Commands provided enable you to use this tool much like you would use the official web client. Conversations are saved as JSON format in your machine.
 
 ## Chatbots
 
