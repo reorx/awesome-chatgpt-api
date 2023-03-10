@@ -15,7 +15,7 @@ Curated by [Reorx](https://reorx.com), you are welcome to suggest new projects v
 
     - [Glarity](https://glarity.app/)
 
-        Summary for Google search results or YouTube Videos with ChatGPT API. This extension also supports ChatGPT Webapp's API that requires no configuration.
+         Summarize Google search results or YouTube videos with ChatGPT API, also supports Yahoo! ニュース、PubMed、PMC、NewsPicks、Github、Nikkei、 Bing、Google Patents. This extension also supports ChatGPT Webapp's API which requires no configuration.
 
     - [ChatGPT Sidebar](https://chatgpt-sidebar.com/)
 
