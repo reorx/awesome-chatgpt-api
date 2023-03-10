@@ -11,7 +11,7 @@
 
     - [Glarity](https://glarity.app/)
 
-        使用 ChatGPT API 生成 Google 搜索结果或 YouTube 视频的摘要。该扩展还支持 ChatGPT Webapp 的 API，无需配置即可使用。
+        使用 ChatGPT API 生成 Google 搜索结果或 YouTube 视频的摘要，同时支持 Yahoo! JAPAN ニュース、PubMed、PMC、NewsPicks、Github、Nikkei、Bing、Google Patents。该扩展还支持 ChatGPT Webapp 的 API，无需配置即可使用。
 
     - [ChatGPT Sidebar](https://chatgpt-sidebar.com/)
 
