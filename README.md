@@ -186,6 +186,10 @@ Curated by [Reorx](https://reorx.com), you are welcome to suggest new projects v
 
     A markdown-supported command-line interface tool that connects to ChatGPT using OpenAI's API key. Commands provided enable you to use this tool much like you would use the official web client. Conversations are saved as JSON format in your machine.
 
+- [subtitle-translator](https://github.com/gnehs/subtitle-translator)
+
+    A subtitle translation CLI tool based on ChatGPT developed using NodeJS. It also has a Electron GUI version [subtitle-translator-electron](https://github.com/gnehs/subtitle-translator-electron)
+
 ## Chatbots
 
 - Telegram
