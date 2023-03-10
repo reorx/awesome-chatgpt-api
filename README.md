@@ -21,6 +21,10 @@ Curated by [Reorx](https://reorx.com), you are welcome to suggest new projects v
 
         Open a sidebar in any webpage, and ask ChatGPT for anything about the content of the page. Like explain, translate, summarize or rewrite it. You can customize prompts for easier access. This extension also supports ChatGPT Webapp's API that requires no configuration.
 
+    - [ChatHub](https://chrome.google.com/webstore/detail/chathub-all-in-one-chatbo/iaakpnchhognanibcahlpcplchdfmgma)
+
+        ChatHub is an all-in-one chatbot client currently supporting ChatGPT and the new Bing Chat. It allows for chatting with multiple chatbots simultaneously, making it easy to compare their answers. Source code: [chathub-dev/chathub](https://github.com/chathub-dev/chathub)
+
 - [Obsidian](https://obsidian.md/) Plugins
 
     - [Obsidian Text Generator Plugin](https://github.com/nhaouari/obsidian-textgenerator-plugin)

@@ -17,6 +17,10 @@
 
         在任何网页中打开侧边栏，询问 ChatGPT 关于页面内容的任何事情，如解释、翻译、概括或重写。你可以自定义 prompts 以便更轻松地使用。该扩展还支持 ChatGPT Webapp 的 API，无需配置即可使用。
 
+    - [ChatHub](https://chrome.google.com/webstore/detail/chathub-all-in-one-chatbo/iaakpnchhognanibcahlpcplchdfmgma)
+
+        ChatHub是一款多合一聊天机器人客户端，目前支持ChatGPT和新的Bing Chat。它允许同时与多个聊天机器人进行交流，方便比较它们的答案。 Source code: [chathub-dev/chathub](https://github.com/chathub-dev/chathub)
+
 - [Obsidian](https://obsidian.md/) 插件
 
     - [Obsidian Text Generator Plugin](https://github.com/nhaouari/obsidian-textgenerator-plugin)
