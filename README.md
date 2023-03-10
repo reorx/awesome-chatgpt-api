@@ -121,7 +121,7 @@ Curated by [Reorx](https://reorx.com), you are welcome to suggest new projects v
 - [ResearchGPT](https://researchgpt.ue.r.appspot.com/)
 
     This is a flask app provides an interface to enable a conversation with a research paper.
-    Source code: [ResearchGPT](https://github.com/mukulpatnaik/researchgpt).
+    Source code: [mukulpatnaik/ResearchGPT](https://github.com/mukulpatnaik/researchgpt).
 
     The author explored the utilization of vector embeddings derived from the text that closely matches the prompt in the original tweet: [@mukul0x](https://twitter.com/mukul0x/status/1625673579399446529)
 
@@ -135,7 +135,11 @@ Curated by [Reorx](https://reorx.com), you are welcome to suggest new projects v
 
 - [AI Subtitle Translator](https://ai.cgsv.top/)
 
-    Translate local or Youtube/Bilibili subtitle using GPT-3.5 API. Source Code [AI Subtitle](https://github.com/cgsvv/AISubtitle)
+    Translate local or Youtube/Bilibili subtitle using GPT-3.5 API. Source Code: [AI Subtitle](https://github.com/cgsvv/AISubtitle)
+
+- [Visual ChatGPT](https://github.com/microsoft/visual-chatgpt)
+
+    Visual ChatGPT is a web app that connects ChatGPT and a series of Visual Foundation Models to enable sending and receiving images during chatting.
 
 
 ## CLI

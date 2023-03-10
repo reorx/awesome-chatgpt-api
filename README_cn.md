@@ -131,6 +131,10 @@
 
     利用GPT-3.5翻译本地字幕文件或者B站/油管字幕。源码 [AI Subtitle](https://github.com/cgsvv/AISubtitle)
 
+- [Visual ChatGPT](https://github.com/microsoft/visual-chatgpt)
+
+    Visual ChatGPT是一个Web应用程序，它连接ChatGPT和一系列视觉基础模型，使得在聊天过程中可以发送和接收图像。
+
 ## CLI
 
 - [bilingual\_book\_maker](https://github.com/yihong0618/bilingual_book_maker)
@@ -178,6 +182,10 @@
 - [chatgpt-cli](https://github.com/efJerryYang/chatgpt-cli/)
 
     支持 Markdown 的 ChatGPT CLI 工具，使用 OpenAI 官方 API。提供多个命令实现官方 web 客户端近似的功能以方便使用，会话以 JSON 格式保存到本地。
+
+- [subtitle-translator](https://github.com/gnehs/subtitle-translator)
+
+    使用ChatGPT翻译字幕，使用 NodeJS 开发的基于 ChatGPT 的字幕翻译 CLI 工具。它同时还有一个使用 Electron 开发的桌面版本 [subtitle-translator-electron](https://github.com/gnehs/subtitle-translator-electron)
 
 ## 聊天机器人
 
