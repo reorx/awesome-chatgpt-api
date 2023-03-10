@@ -81,6 +81,12 @@ Curated by [Reorx](https://reorx.com), you are welcome to suggest new projects v
 
     - [My Six ChatGPT Assistants](https://pinchlime.com/newsletters/my-six-chatgpt-assistants/)
 
+- GitHub App
+
+    - [CR.GPT](https://github.com/apps/cr-gpt)
+
+        A code review robot powered by ChatGPT
+
 
 ## Apps
 

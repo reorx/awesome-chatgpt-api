@@ -77,6 +77,11 @@
 
     - [我的六個專屬 ChatGPT 助手](https://pinchlime.com/newsletters/my-six-chatgpt-assistants/)
 
+- GitHub App
+
+    - [CR.GPT](https://github.com/apps/cr-gpt)
+
+        由 ChatGPT 驱动的代码审查机器人
 
 ## 应用
 
