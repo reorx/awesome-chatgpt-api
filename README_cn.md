@@ -135,6 +135,10 @@
 
     Visual ChatGPT是一个Web应用程序，它连接ChatGPT和一系列视觉基础模型，使得在聊天过程中可以发送和接收图像。
 
+- [TypingMind](https://www.typingmind.com/)
+
+    TypingMind 增强了和ChatGPT的交互界面，内置了Prompt Library和预设的Character，使用自己的OpenAI API配置。
+
 ## CLI
 
 - [bilingual\_book\_maker](https://github.com/yihong0618/bilingual_book_maker)
