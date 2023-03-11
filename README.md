@@ -31,6 +31,12 @@ Curated by [Reorx](https://reorx.com), you are welcome to suggest new projects v
 
         Generate ideas, attractive titles, summaries, outlines, and whole paragraphs based on your notes in Obsidian.
 
+- [Roam Research](https://roamresearch.com/) Plugins
+    
+    - [roam-ai](https://github.com/LayBacc/roam-ai)
+       
+      Generate text based on the current block; Generate an image using DALL-E 2; Rephrase
+
 - [Logseq](https://logseq.com/) Plugins
 
     - [Logseq Plugin GPT3 OpenAI](https://github.com/briansunter/logseq-plugin-gpt3-openai)
