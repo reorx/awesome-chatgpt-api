@@ -1,0 +1,18 @@
+languageCode = "cn"
+languageName = "Chinese"
+displayName = "🇨🇳中文"
+isoCode = "cn"
+weight = 2
+rtl = false
+
+title = "Awesome ChatGPT API"
+description = "Awesome ChatGPT API 是一个使用 ChatGPT API 的应用程序和工具的集合。"
+# copyright = "Copy, _right?_ :thinking_face:"
+
+dateFormat = "2 January 2006"
+
+[params]
+  # mainSections = ["section1", "section2"]
+
+[author]
+  name = "Reorx"

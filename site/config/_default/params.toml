@@ -1,0 +1,74 @@
+# -- Theme Options --
+# These options control how the theme functions and allow you to
+# customise the display of your website.
+#
+# Refer to the theme docs for more details about each of these parameters.
+# https://jpanther.github.io/congo/docs/configuration/#theme-parameters
+
+colorScheme = "congo"
+defaultAppearance = "light" # valid options: light or dark
+autoSwitchAppearance = true
+
+enableSearch = false
+enableCodeCopy = false
+
+# robots = ""
+
+[header]
+  layout = "basic" # valid options: basic, hamburger, hybrid, custom
+  # logo = "img/logo.jpg"
+  showTitle = true
+
+[footer]
+  showCopyright = true
+  showThemeAttribution = true
+  showAppearanceSwitcher = false
+  showScrollToTop = true
+
+[homepage]
+  layout = "page" # valid options: page, profile, custom
+  showRecent = true
+  recentLimit = 5
+
+[article]
+  showDate = true
+  showDateUpdated = false
+  showAuthor = true
+  showBreadcrumbs = true
+  showDraftLabel = true
+  showEdit = false
+  # editURL = "https://github.com/username/repo/"
+  editAppendPath = true
+  showHeadingAnchors = true
+  showPagination = true
+  invertPagination = false
+  showReadingTime = true
+  showTableOfContents = true
+  showTaxonomies = false
+  showWordCount = false
+  showComments = false
+  # sharingLinks = ["facebook", "twitter", "mastodon", "pinterest", "reddit", "linkedin", "email"]
+
+[list]
+  showBreadcrumbs = false
+  showSummary = false
+  showTableOfContents = true
+  showTaxonomies = false
+  groupByYear = true
+  paginationWidth = 1
+
+[sitemap]
+  excludedKinds = ["taxonomy", "term"]
+
+[taxonomy]
+  showTermCount = true
+
+[fathomAnalytics]
+  # site = "ABC12345"
+  # domain = "llama.yoursite.com"
+
+[verification]
+  # google = ""
+  # bing = ""
+  # pinterest = ""
+  # yandex = ""

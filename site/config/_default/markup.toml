@@ -1,0 +1,13 @@
+# -- Markup --
+# These settings are required for the theme to function.
+
+[goldmark]
+[goldmark.renderer]
+  unsafe = true
+
+[highlight]
+  noClasses = false
+
+[tableOfContents]
+  startLevel = 2
+  endLevel = 4
