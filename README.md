@@ -101,7 +101,7 @@ Curated by [Reorx](https://reorx.com), you are welcome to suggest new projects v
 - [ChatKit](https://chatkit.app/)
 
     A lightweight ChatGPT Web UI that allows setting URLs as context for conversations.
-
+    
 - [Chat with GPT](https://chatwithgpt.netlify.app)
 
     An open source ChatGPT web UI with additional features like TTS. Source code: [cogentapps/chat-with-gpt](https://github.com/cogentapps/chat-with-gpt)
@@ -141,6 +141,9 @@ Curated by [Reorx](https://reorx.com), you are welcome to suggest new projects v
 
     Visual ChatGPT is a web app that connects ChatGPT and a series of Visual Foundation Models to enable sending and receiving images during chatting.
 
+- [TypingMind](https://www.typingmind.com/)
+
+    A better UI for ChatGPT, with prompt library and run locally on browser.
 
 ## CLI
 
