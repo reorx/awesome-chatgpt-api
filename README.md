@@ -167,6 +167,10 @@ Curated by [Reorx](https://reorx.com), you are welcome to suggest new projects v
 
     A CLI that writes your git commit messages for you with AI.
 
+- [cz-git](https://github.com/Zhengqbbb/cz-git)
+
+    A Commitizen CLI and Commitizen adapter generate standardized commit messages with AI. [Recipes/OpenAI](https://cz-git.qbb.sh/recipes/openai)
+
 - [turbocommit](https://github.com/Sett17/turboCommit)
 
     CLI that uses the staged diff and optional message to create Conventional commits.
@@ -179,14 +183,6 @@ Curated by [Reorx](https://reorx.com), you are welcome to suggest new projects v
 
     A CLI that helps you build your vocabulary with AI.
 
-- [cz-git](https://github.com/Zhengqbbb/cz-git)
-
-    A Commitizen CLI and Commitizen adapter generate standardized commit messages with AI. [Recipes/OpenAI](https://cz-git.qbb.sh/recipes/openai)
-
-- [i18n-cli](https://github.com/pandodao/i18n-cli)
-
-    A command-line interface (CLI) tool that utilizes the OpenAI API to translate locale files based on JSON format.
-
 - [verdverm/chatgpt](https://github.com/verdverm/chatgpt)
 
     CLI application for working with ChatGPT API interactively or in file based sessions. Supports promt engineering and most configurations.
@@ -195,13 +191,21 @@ Curated by [Reorx](https://reorx.com), you are welcome to suggest new projects v
 
     This CLI tool allows you to easily use chatGPT in the command line. You can chat with it, ask it questions, and get text translations. It also supports rendering Markdown in the terminal.
 
-- [ChatGPT-for-Translation](https://github.com/Raychanan/ChatGPT-for-Translation)
-
-    Python tool for translating text files. It provides bilingual translation, multithreading, and automatic handling of excessive request frequency.
-
 - [chatgpt-cli](https://github.com/efJerryYang/chatgpt-cli/)
 
     A markdown-supported command-line interface tool that connects to ChatGPT using OpenAI's API key. Commands provided enable you to use this tool much like you would use the official web client. Conversations are saved as JSON format in your machine.
+
+- [chatGPT-shell-cli](https://github.com/0xacx/chatGPT-shell-cli)
+
+    A simple, lightweight shell script to use OpenAI's chatGPT and DALL-E from the terminal.
+
+- [i18n-cli](https://github.com/pandodao/i18n-cli)
+
+    A command-line interface (CLI) tool that utilizes the OpenAI API to translate locale files based on JSON format.
+
+- [ChatGPT-for-Translation](https://github.com/Raychanan/ChatGPT-for-Translation)
+
+    Python tool for translating text files. It provides bilingual translation, multithreading, and automatic handling of excessive request frequency.
 
 - [subtitle-translator](https://github.com/gnehs/subtitle-translator)
 

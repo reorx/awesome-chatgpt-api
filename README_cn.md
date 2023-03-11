@@ -161,6 +161,10 @@
 
     一个用 ChatGPT API 生成 Git 提交消息的命令行工具。
 
+- [cz-git](https://github.com/Zhengqbbb/cz-git)
+
+    一个 Commitizen 适配器与命令行工具使用 OpenAI API 生成 Git 约定式提交格式提交消息。 [文档/OpenAI](https://cz-git.qbb.sh/zh/recipes/openai)
+
 - [turbocommit](https://github.com/Sett17/turboCommit)
 
     CLI，使用阶段性差异和可选信息来创建常规提交。
@@ -173,14 +177,6 @@
 
     一个利用了 AI 技术的智能生词本工具，可以帮你快速构建起自己的生词库，学习起来事半功倍。
 
-- [cz-git](https://github.com/Zhengqbbb/cz-git)
-
-    一个 Commitizen 适配器与命令行工具使用 OpenAI API 生成 Git 约定式提交格式提交消息。 [文档/OpenAI](https://cz-git.qbb.sh/zh/recipes/openai)
-
-- [i18n-cli](https://github.com/pandodao/i18n-cli)
-
-    在命令行使用 OpenAI API 翻译 JSON 格式的本地化文件。
-
 - [verdverm/chatgpt](https://github.com/verdverm/chatgpt)
 
     通过命令行与 ChatGPT API 进行交互式会话，支持通过文件输入上下文。
@@ -189,13 +185,21 @@
 
     这个cli工具可以让你方便的在命令行中使用chatGPT。你可以和他聊天支持上下文，也可以让他帮你回答单个问题。也可以帮你翻译文本。并且支持markdown在终端中的渲染。
 
-- [ChatGPT-for-Translation](https://github.com/Raychanan/ChatGPT-for-Translation)
-
-    对文本文件进行翻译的 Python 脚本。同时提供双语翻译、多线程和自动处理过高的请求频率。
-
 - [chatgpt-cli](https://github.com/efJerryYang/chatgpt-cli/)
 
     支持 Markdown 的 ChatGPT CLI 工具，使用 OpenAI 官方 API。提供多个命令实现官方 web 客户端近似的功能以方便使用，会话以 JSON 格式保存到本地。
+
+- [chatGPT-shell-cli](https://github.com/0xacx/chatGPT-shell-cli)
+
+    一个简单、轻量级的 shell 脚本，可从终端使用 OpenAI 的 ChatGPT 和 DALL-E。
+
+- [i18n-cli](https://github.com/pandodao/i18n-cli)
+
+    在命令行使用 OpenAI API 翻译 JSON 格式的本地化文件。
+
+- [ChatGPT-for-Translation](https://github.com/Raychanan/ChatGPT-for-Translation)
+
+    对文本文件进行翻译的 Python 脚本。同时提供双语翻译、多线程和自动处理过高的请求频率。
 
 - [subtitle-translator](https://github.com/gnehs/subtitle-translator)
 
