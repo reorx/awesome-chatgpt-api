@@ -21,6 +21,10 @@
 
         ChatHub是一款多合一聊天机器人客户端，目前支持ChatGPT和新的Bing Chat。它允许同时与多个聊天机器人进行交流，方便比较它们的答案。 Source code: [chathub-dev/chathub](https://github.com/chathub-dev/chathub)
 
+    - [OpenAI Translator](https://github.com/yetone/openai-translator)
+
+        使用 OpenAI API 翻译文本的 Chrome 扩展，并具有润色和摘要等其他功能。
+
 - [Obsidian](https://obsidian.md/) 插件
 
     - [Obsidian Text Generator Plugin](https://github.com/nhaouari/obsidian-textgenerator-plugin)

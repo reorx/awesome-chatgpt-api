@@ -25,6 +25,10 @@ Curated by [Reorx](https://reorx.com), you are welcome to suggest new projects v
 
         ChatHub is an all-in-one chatbot client currently supporting ChatGPT and the new Bing Chat. It allows for chatting with multiple chatbots simultaneously, making it easy to compare their answers. Source code: [chathub-dev/chathub](https://github.com/chathub-dev/chathub)
 
+    - [OpenAI Translator](https://github.com/yetone/openai-translator)
+
+        A Chrome extension that uses the OpenAI API to translate text, with additional features like polishing and summarization.
+
 - [Obsidian](https://obsidian.md/) Plugins
 
     - [Obsidian Text Generator Plugin](https://github.com/nhaouari/obsidian-textgenerator-plugin)
