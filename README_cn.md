@@ -33,6 +33,12 @@
 
         在 Logseq 中使用 ChatGPT 以及其他 AI 模型的插件。
 
+- [Roam Research](https://roamresearch.com/) Plugins
+
+    - [roam-ai](https://github.com/LayBacc/roam-ai)
+
+        包含三个功能: 根据当前块生成文本；使用DALL-E 2生成图像；重新表述。
+
 - [Popclip](https://pilotmoon.com/popclip/) 扩展
 
     - [ChatGPT — PopClip Extensions](https://pilotmoon.com/popclip/extensions/page/ChatGPT)
@@ -137,7 +143,7 @@
 
 - [TypingMind](https://www.typingmind.com/)
 
-    TypingMind 增强了和ChatGPT的交互界面，内置了Prompt Library和预设的Character，使用自己的OpenAI API配置。
+    更好的 ChatGPT 界面，具有快速响应、聊天搜索、集成、提示库等增强功能。
 
 ## CLI
 

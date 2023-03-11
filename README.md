@@ -31,17 +31,17 @@ Curated by [Reorx](https://reorx.com), you are welcome to suggest new projects v
 
         Generate ideas, attractive titles, summaries, outlines, and whole paragraphs based on your notes in Obsidian.
 
-- [Roam Research](https://roamresearch.com/) Plugins
-    
-    - [roam-ai](https://github.com/LayBacc/roam-ai)
-       
-      Generate text based on the current block; Generate an image using DALL-E 2; Rephrase
-
 - [Logseq](https://logseq.com/) Plugins
 
     - [Logseq Plugin GPT3 OpenAI](https://github.com/briansunter/logseq-plugin-gpt3-openai)
 
         A plugin for GPT-3 AI assisted note taking in Logseq.
+
+- [Roam Research](https://roamresearch.com/) Plugins
+
+    - [roam-ai](https://github.com/LayBacc/roam-ai)
+
+        Generate text based on the current block; Generate an image using DALL-E 2; Rephrase
 
 - [Popclip](https://pilotmoon.com/popclip/) Extensions
 
@@ -107,7 +107,7 @@ Curated by [Reorx](https://reorx.com), you are welcome to suggest new projects v
 - [ChatKit](https://chatkit.app/)
 
     A lightweight ChatGPT Web UI that allows setting URLs as context for conversations.
-    
+
 - [Chat with GPT](https://chatwithgpt.netlify.app)
 
     An open source ChatGPT web UI with additional features like TTS. Source code: [cogentapps/chat-with-gpt](https://github.com/cogentapps/chat-with-gpt)
@@ -149,7 +149,7 @@ Curated by [Reorx](https://reorx.com), you are welcome to suggest new projects v
 
 - [TypingMind](https://www.typingmind.com/)
 
-    A better UI for ChatGPT, with prompt library and run locally on browser.
+    A better UI for ChatGPT, with enhanced features like fast response, chat search, integrations, prompt library, etc.
 
 ## CLI
 
