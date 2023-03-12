@@ -1,6 +1,7 @@
 ---
 title: "2023-03-07 项目更新"
 date: 2023-03-07
+summary: 使用OpenAI的GPT-3 API已经开发了各种应用程序、CLI、聊天机器人和工具。其中包括ChatPDF、OpenCat、OpenAI翻译器、i18n-cli和LlamaIndex。
 ---
 以下是今天添加或更新的项目：
 

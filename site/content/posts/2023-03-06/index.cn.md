@@ -1,6 +1,7 @@
 ---
 title: "2023-03-06 项目更新"
 date: 2023-03-06
+summary: 已添加或更新了几个利用ChatGPT的项目，包括Keyboard Maestro宏、CLI工具、Telegram机器人和Microsoft Teams机器人。此外，还发布了一篇展示由ChatGPT驱动的六个个人助手的文章以及一个带有示例和指南的OpenAI Cookbook。
 ---
 以下是今天新增或更新的项目：
 

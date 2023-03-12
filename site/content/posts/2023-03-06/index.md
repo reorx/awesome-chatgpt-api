@@ -1,6 +1,7 @@
 ---
-title: "New projects for 2023-03-06"
+title: "Updates for 2023-03-06"
 date: 2023-03-06
+summary: Several projects utilizing ChatGPT have been added or updated, including a Keyboard Maestro macro, a CLI tool, a Telegram bot, and a Microsoft Teams bot. Additionally, an article showcasing six personal assistants powered by ChatGPT and an OpenAI Cookbook with examples and guides have been released.
 ---
 Here's the projects added or updated today:
 

@@ -1,6 +1,7 @@
 ---
-title: "New projects for 2023-03-05"
+title: "Updates for 2023-03-05"
 date: 2023-03-05
+summary: Several projects have been added or updated, including plugins for Obsidian and Logseq, PopClip extensions, a Bob plugin, a Siri enhanced shortcut, and various CLI applications. There are also apps for text translation, grammar correction, ad filtering, and conversation with research papers.
 ---
 Here's the projects added or updated today:
 
@@ -9,7 +10,7 @@ Here's the projects added or updated today:
 - [ChatGPT — PopClip Extensions](https://pilotmoon.com/popclip/extensions/page/ChatGPT) - Send the selected text to ChatGPT and append the response.
 - [ChatGPT Proofreader extension for Popclip](https://reorx.com/makers-daily/003-chatgpt-proofreader-extension-popclip/) - Proofread the selected text and append the enhanced result.
 - [ChatGPT Grammar Check PopClip Extension](https://github.com/hirakujira/ChatGPT-Grammar-Check-PopClip-Extension) - Similar to the ChatGPT Proofreader extension, with a different prompt and a downloadable package.
-- [OpenAI Polisher Bob Plugin](https://github.com/yetone/bob-plugin-openai-polisher) - ChatGPT API based Bob plugin for text translation, text refinement, and grammar correction. 
+- [OpenAI Polisher Bob Plugin](https://github.com/yetone/bob-plugin-openai-polisher) - ChatGPT API based Bob plugin for text translation, text refinement, and grammar correction.
 - [ChatGPT Siri Enhanced Shortcut](https://twitter.com/DottChen/status/1631309329684123650) - A enhanced shortcut based on **ChatGPT Siri**.
 - [Copy to Ask ChatGPT Keyboard Maestro Macro](https://p15.p3.n0.cdn.getcloudapp.com/items/geuEZvwA/aeed10cb-a35d-404f-a17f-da1d46c9c9c7.kmmacros) - Select and copy texts to ask ChatGPT with a keyboard shortcut.
 - [cz-git OpenAI Adapter](https://cz-git.qbb.sh/recipes/openai) - A Commitizen CLI and Commitizen adapter generate standardized commit messages with AI.

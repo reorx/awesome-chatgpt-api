@@ -1,6 +1,7 @@
 ---
-title: "New projects for 2023-03-09"
+title: "Updates for 2023-03-09"
 date: 2023-03-09
+summary: New projects and updates include ChatBox, a desktop client for OpenAI API, chatgpt-cli, a command-line interface tool for ChatGPT, AI Subtitle Translator using GPT-3.5 API, and turbocommit for creating conventional commits.
 ---
 Here's the projects added or updated today:
 

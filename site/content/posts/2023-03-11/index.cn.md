@@ -1,6 +1,7 @@
 ---
 title: "2023-03-11 新增项目"
 date: 2023-03-11
+summary: 今天，Roam Research 插件更新了 roam-ai 功能，可以从当前块生成文本和图像，并重新表述。TypingMind 为 ChatGPT 推出了新的 UI，带有提示库和基于浏览器的运行。
 ---
 以下是今日新增或更新的项目：
 

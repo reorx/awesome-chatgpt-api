@@ -1,6 +1,7 @@
 ---
-title: "New projects for 2023-03-10"
+title: "Updates for 2023-03-10"
 date: 2023-03-10
+summary: Several projects have been added or updated, including Glarity, a browser extension that summarizes search results with ChatGPT API, and ChatHub, an all-in-one chatbot client. CR.GPT is a code review robot, while Visual ChatGPT allows for sending and receiving images during chatting. Additionally, subtitle-translator is a CLI tool for subtitle translation.
 ---
 Here's the projects added or updated today:
 

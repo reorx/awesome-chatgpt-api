@@ -1,6 +1,7 @@
 ---
-title: "New projects for 2023-03-12"
+title: "Updates for 2023-03-12"
 date: 2023-03-12
+summary: Several projects were added or updated today, including a Chrome extension for text translation, a Roam Research plugin with image generation, and a CLI tool for AI-assisted commit messages.
 ---
 Here's the projects added or updated today:
 

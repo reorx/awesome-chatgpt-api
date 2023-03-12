@@ -1,6 +1,7 @@
 ---
 title: "2023-03-09 新增项目"
 date: 2023-03-09
+summary: 新项目和更新包括ChatBox，这是OpenAI API的桌面客户端，chatgpt-cli是用于ChatGPT的命令行接口工具，使用GPT-3.5 API的AI字幕翻译器以及用于创建传统提交的turbocommit。
 ---
 以下是今天新增或更新的项目：
 

@@ -1,6 +1,7 @@
 ---
 title: "2023-03-08 项目更新"
 date: 2023-03-08
+summary: ChatKit提供了一个轻量级的ChatGPT Web UI，可以将URL设置为对话的上下文。 ChatGPT Translator是一个开源桌面应用程序，使用GPT语言模型来翻译文本。 DingTalk是一个Go编写的项目。
 ---
 以下是今天新增或更新的项目：
 

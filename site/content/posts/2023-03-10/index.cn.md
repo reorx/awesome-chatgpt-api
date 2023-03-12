@@ -1,6 +1,7 @@
 ---
 title: "2023-03-10 新增项目"
 date: 2023-03-10
+summary: 已添加或更新了多个项目，包括 Glarity，一款使用 ChatGPT API 汇总搜索结果的浏览器扩展程序，以及 ChatHub，一款全能聊天机器人客户端。CR.GPT 是一个代码审查机器人，而 Visual ChatGPT 允许在聊天过程中发送和接收图像。此外，“subtitle-translator”是用于字幕翻译的 CLI 工具。
 ---
 以下是今天新增或更新的项目：
 

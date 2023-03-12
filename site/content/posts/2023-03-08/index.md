@@ -1,6 +1,7 @@
 ---
-title: "New projects for 2023-03-08"
+title: "Updates for 2023-03-08"
 date: 2023-03-08
+summary: ChatKit offers a lightweight ChatGPT Web UI that enables setting URLs as context for conversations. ChatGPT Translator is an open-source desktop app that uses GPT language model to translate text. DingTalk is a Go-written project.
 ---
 Here's the projects added or updated today:
 

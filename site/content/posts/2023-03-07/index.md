@@ -1,6 +1,7 @@
 ---
-title: "New projects for 2023-03-07"
+title: "Updates for 2023-03-07"
 date: 2023-03-07
+summary: Various apps, CLIs, chatbots, and tools have been developed using OpenAI's GPT-3 API. These include ChatPDF, OpenCat, OpenAI Translator, i18n-cli, and LlamaIndex.
 ---
 Here's the projects added or updated today:
 
@@ -38,7 +39,7 @@ Here's the projects added or updated today:
     - A python package to interface with OpenAI's GPT-3 API.
 
 - [cz-git/recipes-openai](https://cz-git.qbb.sh/recipes/openai)
-    - A Commitizen CLI and Commitizen adapter generate standardized commit messages with AI. 
+    - A Commitizen CLI and Commitizen adapter generate standardized commit messages with AI.
 
 ## Chatbots
 
