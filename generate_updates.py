@@ -77,10 +77,22 @@ Write a changelog based on the following diff. In case you don't know, diff is a
     content = generator_message['content'].strip()
     print('content:\n', content)
 
+    summary_prompt = """Generate a summary within 25 words for the following blog content, using a tone of conscious and informative. Assuming the audiences know the context, ignore words about "using ChatGPT API".\n"""
+    summary_message = session.chat({
+        'role': 'user',
+        'content': f'{summary_prompt}\n{content}',
+    })
+    summary = summary_message['content'].strip()
+    summary_cn = session.chat({
+        'role': 'user',
+        'content': f'翻译下面的英文:\n{summary}',
+    })['content'].strip()
+
     post = f"""\
 ---
-title: "New projects for {date}"
+title: "Updates for {date}"
 date: {date}
+summary: {summary}
 ---
 {content}
 """
@@ -102,6 +114,7 @@ date: {date}
 ---
 title: "{date} 项目更新"
 date: {date}
+summary: {summary_cn}
 ---
 {content_cn}
 """
