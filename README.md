@@ -6,6 +6,8 @@ Curated list of apps and tools that not only use the new [ChatGPT API](https://p
 
 There's also a [Development](#development) section that provides developers with a collection of projects and articles to help them build better.
 
+Visit the website to get latest updates: [awesome-chatgpt-api.top](https://awesome-chatgpt-api.top/)
+
 > Curated by [Reorx](https://reorx.com), you are welcome to suggest new projects via Twitter or PRs, but please ensure you have read the [Collection Standard](https://github.com/reorx/awesome-chatgpt-api/issues/21).
 
 

@@ -7,6 +7,8 @@ description: hello
 
 > 由 [Reorx](https://twitter.com/novoreorx) 收集整理，欢迎在 Twitter 或通过 PR 向我提交新的作品，但请确保您已经阅读了[提交须知](https://github.com/reorx/awesome-chatgpt-api/issues/21)。
 
+{{< sub_form >}}
+
 [完整集合](posts/the-awesome/)
 - [插件和扩展](posts/the-awesome/#插件和扩展)
 - [应用](posts/the-awesome/#应用)

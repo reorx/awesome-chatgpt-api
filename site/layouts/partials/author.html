@@ -1,0 +1,33 @@
+{{ partial "partials/sub_form.html" . }}
+
+{{ if .Params.showAuthor | default (.Site.Params.article.showAuthor | default true) }}
+  <div class="flex">
+    {{ with .Site.Author.image }}
+      {{ $authorImage := resources.Get . }}
+      {{ if $authorImage }}
+        {{ $authorImage := $authorImage.Fill "192x192" }}
+        <img
+          class="!mt-0 !mb-0 h-24 w-24 rounded-full ltr:mr-4 rtl:ml-4"
+          width="96"
+          height="96"
+          alt="{{ $.Site.Author.name | default "Author" }}"
+          src="{{ $authorImage.RelPermalink }}"
+        />
+      {{ end }}
+    {{ end }}
+    <div class="place-self-center">
+      {{ with .Site.Author.name | markdownify | emojify }}
+        <div class="text-[0.6rem] uppercase leading-3 text-neutral-500 dark:text-neutral-400">
+          {{ i18n "author.byline_title" | markdownify | emojify }}
+        </div>
+        <div class="font-semibold leading-6 text-neutral-800 dark:text-neutral-300">
+          {{ . }}
+        </div>
+      {{ end }}
+      {{ with .Site.Author.bio | markdownify | emojify }}
+        <div class="text-sm text-neutral-700 dark:text-neutral-400">{{ . }}</div>
+      {{ end }}
+      <div class="text-2xl sm:text-lg">{{ partialCached "author-links.html" . }}</div>
+    </div>
+  </div>
+{{ end }}

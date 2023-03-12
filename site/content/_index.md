@@ -9,6 +9,8 @@ There's also a [Development](#development) section that provides developers with
 
 > Curated by [Reorx](https://reorx.com), you are welcome to suggest new projects via Twitter or PRs, but please ensure you have read the [Collection Standard](https://github.com/reorx/awesome-chatgpt-api/issues/21).
 
+{{< sub_form >}}
+
 [Full Collection](posts/the-awesome/)
 - [Plugins and Extensions](posts/the-awesome/#plugins-and-extensions)
 - [Apps](posts/the-awesome/#apps)
