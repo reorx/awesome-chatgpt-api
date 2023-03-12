@@ -1,0 +1,9 @@
+ul.flex.flex-row.list-none {
+  font-size: .8em;
+  margin-left: 2em;
+  color: #777;
+  font-weight: 400;
+}
+ul.flex.flex-row.list-none::before {
+  content: "🌐"
+}

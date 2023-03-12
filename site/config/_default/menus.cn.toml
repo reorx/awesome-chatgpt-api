@@ -11,9 +11,18 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "Posts"
+  name = "更新日志"
   pageRef = "posts"
   weight = 10
+
+[[main]]
+  name = "GitHub"
+  url = "https://github.com/reorx/awesome-chatgpt-api"
+  weight = 40
+  [main.params]
+    icon = "github"
+    showName = false
+    target = "_blank"
 
 [[main]]
   identifier = "search"
