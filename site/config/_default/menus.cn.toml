@@ -16,6 +16,11 @@
   weight = 10
 
 [[main]]
+  name = "RSS"
+  url = "/index.xml"
+  weight = 30
+
+[[main]]
   name = "GitHub"
   url = "https://github.com/reorx/awesome-chatgpt-api"
   weight = 40
