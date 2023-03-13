@@ -1,6 +1,4 @@
-# Awesome ChatGPT API
-
-> [中文](README.cn.md)
+# Awesome ChatGPT API > [中文](README.cn.md)
 
 Curated list of apps and tools that not only use the new [ChatGPT API](https://platform.openai.com/docs/api-reference/chat), but also allow users to configure their own [API keys](https://platform.openai.com/account/api-keys), enabling free and on-demand usage of their own quota.
 
@@ -212,6 +210,10 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
 - [subtitle-translator](https://github.com/gnehs/subtitle-translator)
 
     A subtitle translation CLI tool based on ChatGPT developed using NodeJS. It also has a Electron GUI version [subtitle-translator-electron](https://github.com/gnehs/subtitle-translator-electron)
+    
+- [CliAI](https://github.com/BaksiLi/cliai)
+
+    A CLI tool that aims to provide the best experience in terminal and more prompt engineering options for the OpenAI’s API.
 
 ## Chatbots
 

@@ -205,6 +205,10 @@
 
     使用ChatGPT翻译字幕，使用 NodeJS 开发的基于 ChatGPT 的字幕翻译 CLI 工具。它同时还有一个使用 Electron 开发的桌面版本 [subtitle-translator-electron](https://github.com/gnehs/subtitle-translator-electron)
 
+- [CliAI](https://github.com/BaksiLi/cliai)
+
+    提供最佳的交互体验和更多 Prompt Engineering 选项的命令行工具。
+
 ## 聊天机器人
 
 - Telegram
