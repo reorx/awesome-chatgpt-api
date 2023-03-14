@@ -212,6 +212,10 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
 - [subtitle-translator](https://github.com/gnehs/subtitle-translator)
 
     A subtitle translation CLI tool based on ChatGPT developed using NodeJS. It also has a Electron GUI version [subtitle-translator-electron](https://github.com/gnehs/subtitle-translator-electron)
+    
+- [CliAI](https://github.com/BaksiLi/cliai)
+
+    A CLI tool that aims to provide the best experience in terminal and more prompt engineering options for the OpenAI’s API.
 
 ## Chatbots
 
