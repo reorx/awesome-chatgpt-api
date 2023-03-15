@@ -156,6 +156,10 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
 - [TypingMind](https://www.typingmind.com/)
 
     A better UI for ChatGPT, with enhanced features like fast response, chat search, integrations, prompt library, etc.
+    
+- [Multimedia GPT](https://github.com/fengyuli2002/multimedia-gpt)
+
+    Multimedia GPT connects OpenAI GPT with vision and audio. Users can now send images, videos, and audio recordings and get a response in both text and image formats.
 
 ## CLI
 
