@@ -101,6 +101,10 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
 
 
 ## Apps
+- [ChatDocs](https://www.chatdocs.wiki/)
+
+    ChatDocs is a new chat bot for API documentation that is going to revolutionize the way developer access information.
+It's like using ChatGPT that was trained on your API product documentation 🚀
 
 - [ChatPDF](https://www.chatpdf.com/)
 
