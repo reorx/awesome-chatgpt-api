@@ -158,6 +158,10 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
     A better UI for ChatGPT, with enhanced features like fast response, chat search, integrations, prompt library, etc.
 
 ## CLI
+- [GPTerminator](https://github.com/AineeJames/ChatGPTerminator)
+
+    GPTerminator is a python package that provides a convenient way to interact with OpenAI's chat completion and image generation API's using your command line interface.
+
 
 - [bilingual\_book\_maker](https://github.com/yihong0618/bilingual_book_maker)
 
