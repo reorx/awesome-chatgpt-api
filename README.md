@@ -158,10 +158,7 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
     A better UI for ChatGPT, with enhanced features like fast response, chat search, integrations, prompt library, etc.
 
 ## CLI
-- [README-AI](https://github.com/eli64s/README-AI)
-  
-    Command-line tool for crafting aesthetic, structured, and informative README.md files. Powered by OpenAI's language model API.
-    
+
 - [bilingual\_book\_maker](https://github.com/yihong0618/bilingual_book_maker)
 
     Make bilingual epub books Using AI translate. Original tweet [@yihong0618](https://twitter.com/yihong0618/status/1630948132564631552)
@@ -219,6 +216,10 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
 - [Multimedia GPT](https://github.com/fengyuli2002/multimedia-gpt)
 
     Multimedia GPT connects OpenAI GPT with vision and audio. Users can now send images, videos, and audio recordings and get a response in both text and image formats.
+
+- [README-AI](https://github.com/eli64s/README-AI)
+
+    Command-line tool for crafting aesthetic, structured, and informative README.md files. Powered by OpenAI's language model API.
 
 
 ## Chatbots
