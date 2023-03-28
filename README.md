@@ -213,6 +213,11 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
 
     A subtitle translation CLI tool based on ChatGPT developed using NodeJS. It also has a Electron GUI version [subtitle-translator-electron](https://github.com/gnehs/subtitle-translator-electron)
 
+- [Multimedia GPT](https://github.com/fengyuli2002/multimedia-gpt)
+
+    Multimedia GPT connects OpenAI GPT with vision and audio. Users can now send images, videos, and audio recordings and get a response in both text and image formats.
+
+
 ## Chatbots
 
 - Telegram
