@@ -309,9 +309,14 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
 
     Online playground for openai's tiktoken library, calculating the correct number of tokens for a given prompt. Source code: [dqbd/tiktokenizer](https://github.com/dqbd/tiktokenizer)
 
+- [ChatGPT Wrapper](https://github.com/mmabrouk/chatgpt-wrapper)
+
+    ChatGPT Wrapper is an open-source unofficial Power CLI, Python API and Flask API that lets you interact programmatically with ChatGPT/GPT4. Several different backends are supported to connect to the ChatGPT models, including browser-based and REST-based options.
+
 - [OpenAI GPT-3.5 Price Calculator](https://openai.deepakness.com/)
 
     Calculate how much it will cost to generate certain number of words by using OpenAI GPT-3.5 API.
+
 
 ### Articles
 
