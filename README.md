@@ -159,6 +159,11 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
 
 ## CLI
 
+- [GPTerminator](https://github.com/AineeJames/ChatGPTerminator)
+
+    GPTerminator is a python package that provides a convenient way to interact with OpenAI's chat completion and image generation API's using your command line interface.
+
+
 - [bilingual\_book\_maker](https://github.com/yihong0618/bilingual_book_maker)
 
     Make bilingual epub books Using AI translate. Original tweet [@yihong0618](https://twitter.com/yihong0618/status/1630948132564631552)
