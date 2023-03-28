@@ -265,9 +265,17 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
 
     A ChatGPT web app demo built with Astro and TypeScript.
 
+- [ChatGPT-Vercel](https://github.com/ourongxing/chatgpt-vercel)
+
+    Another ChatGPT web app based on ddiu8081/chatgpt-demo, specifically made for deploying on Vercel.
+
 - [ChatGPT Web](https://github.com/Chanzhaoyu/chatgpt-web)
 
     A ChatGPT web app demo built with Vue3 and Express.
+
+- [Chatbot UI](https://github.com/mckaywrigley/chatbot-ui)
+
+    A simple chatbot starter kit for OpenAI's chat model using Next.js, TypeScript, and Tailwind CSS.
 
 - [GPT3.5-H5-lite-page](https://jichao99.github.io/GPT3.5-H5-lite-page/)
 
