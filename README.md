@@ -159,10 +159,13 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
 
 ## CLI
 
+- [naming](https://github.com/davidleitw/naming)
+
+    naming is a command line tool that suggests intuitive and descriptive names for your functions and variables, improving the readability of your code. It uses ChatGPT API to generate program naming suggestions tailored to your code.
+
 - [GPTerminator](https://github.com/AineeJames/ChatGPTerminator)
 
     GPTerminator is a python package that provides a convenient way to interact with OpenAI's chat completion and image generation API's using your command line interface.
-
 
 - [bilingual\_book\_maker](https://github.com/yihong0618/bilingual_book_maker)
 
