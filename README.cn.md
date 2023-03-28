@@ -150,6 +150,9 @@
     更好的 ChatGPT 界面，具有快速响应、聊天搜索、集成、提示库等增强功能。
 
 ## CLI
+- [README-AI](https://github.com/eli64s/README-AI)
+
+    使用 OpenAI 语言模型 API，为编写美观、结构化和信息丰富的 README.md 文件而设计的命令行工具。
 
 - [bilingual\_book\_maker](https://github.com/yihong0618/bilingual_book_maker)
 
