@@ -53,7 +53,7 @@ def main():
         create_post(date, hashs, 'README.md', session)
 
 
-def create_post(date, hashs, filename, session):
+def create_post(date, hashs, filename, session, create_cn=False):
     lg.info(f'create post for {date}')
     diff = get_diff_for_hashs(hashs, filename)
     if not diff:
@@ -83,10 +83,6 @@ Write a changelog based on the following diff. In case you don't know, diff is a
         'content': f'{summary_prompt}\n{content}',
     })
     summary = summary_message['content'].strip()
-    summary_cn = session.chat({
-        'role': 'user',
-        'content': f'翻译下面的英文:\n{summary}',
-    })['content'].strip()
 
     post = f"""\
 ---
@@ -101,27 +97,32 @@ summary: {summary}
     with open(filename, 'w') as f:
         f.write(post)
 
-    translator_prompt = """\
-翻译下面的英文，生成中文的更新日志。
-"""
-    translator_message = session.chat({
-        'role': 'user',
-        'content': f'{translator_prompt}\n{content}',
-    })
-    content_cn = translator_message['content'].strip()
+    if create_cn:
+        translator_prompt = """\
+    翻译下面的英文，生成中文的更新日志。
+    """
+        translator_message = session.chat({
+            'role': 'user',
+            'content': f'{translator_prompt}\n{content}',
+        })
+        content_cn = translator_message['content'].strip()
+        summary_cn = session.chat({
+            'role': 'user',
+            'content': f'翻译下面的英文:\n{summary}',
+        })['content'].strip()
 
-    post_cn = f"""\
----
-title: "{date} 项目更新"
-date: {date}
-summary: {summary_cn}
----
-{content_cn}
+        post_cn = f"""\
+    ---
+    title: "{date} 项目更新"
+    date: {date}
+    summary: {summary_cn}
+    ---
+    {content_cn}
 """
-    filename_cn = f'{post_dir}/index.cn.md'
-    lg.info(f'write post {filename_cn}')
-    with open(filename_cn, 'w') as f:
-        f.write(post_cn)
+        filename_cn = f'{post_dir}/index.cn.md'
+        lg.info(f'write post {filename_cn}')
+        with open(filename_cn, 'w') as f:
+            f.write(post_cn)
 
 
 def get_diff_for_hashs(hashs, filename):

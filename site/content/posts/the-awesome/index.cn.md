@@ -97,6 +97,7 @@ date: 2023-03-04
 
         由 ChatGPT 驱动的代码审查机器人
 
+
 ## 应用
 
 - [ChatPDF](https://www.chatpdf.com/)
@@ -153,6 +154,7 @@ date: 2023-03-04
 
     更好的 ChatGPT 界面，具有快速响应、聊天搜索、集成、提示库等增强功能。
 
+
 ## CLI
 
 - [bilingual\_book\_maker](https://github.com/yihong0618/bilingual_book_maker)
@@ -208,6 +210,11 @@ date: 2023-03-04
 - [subtitle-translator](https://github.com/gnehs/subtitle-translator)
 
     使用ChatGPT翻译字幕，使用 NodeJS 开发的基于 ChatGPT 的字幕翻译 CLI 工具。它同时还有一个使用 Electron 开发的桌面版本 [subtitle-translator-electron](https://github.com/gnehs/subtitle-translator-electron)
+
+- [README-AI](https://github.com/eli64s/README-AI)
+
+    使用 OpenAI 语言模型 API，为编写美观、结构化和信息丰富的 README.md 文件而设计的命令行工具。
+
 
 ## 聊天机器人
 

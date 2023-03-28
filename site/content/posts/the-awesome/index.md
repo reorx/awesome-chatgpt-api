@@ -8,6 +8,8 @@ Curated list of apps and tools that not only use the new [ChatGPT API](https://p
 
 There's also a [Development](#development) section that provides developers with a collection of projects and articles to help them build better.
 
+Visit the website to get latest updates: [awesome-chatgpt-api.top](https://awesome-chatgpt-api.top/)
+
 > Curated by [Reorx](https://reorx.com), you are welcome to suggest new projects via Twitter or PRs, but please ensure you have read the [Collection Standard](https://github.com/reorx/awesome-chatgpt-api/issues/21).
 
 
@@ -159,6 +161,11 @@ There's also a [Development](#development) section that provides developers with
 
 ## CLI
 
+- [GPTerminator](https://github.com/AineeJames/ChatGPTerminator)
+
+    GPTerminator is a python package that provides a convenient way to interact with OpenAI's chat completion and image generation API's using your command line interface.
+
+
 - [bilingual\_book\_maker](https://github.com/yihong0618/bilingual_book_maker)
 
     Make bilingual epub books Using AI translate. Original tweet [@yihong0618](https://twitter.com/yihong0618/status/1630948132564631552)
@@ -213,6 +220,15 @@ There's also a [Development](#development) section that provides developers with
 
     A subtitle translation CLI tool based on ChatGPT developed using NodeJS. It also has a Electron GUI version [subtitle-translator-electron](https://github.com/gnehs/subtitle-translator-electron)
 
+- [Multimedia GPT](https://github.com/fengyuli2002/multimedia-gpt)
+
+    Multimedia GPT connects OpenAI GPT with vision and audio. Users can now send images, videos, and audio recordings and get a response in both text and image formats.
+
+- [README-AI](https://github.com/eli64s/README-AI)
+
+    Command-line tool for crafting aesthetic, structured, and informative README.md files. Powered by OpenAI's language model API.
+
+
 ## Chatbots
 
 - Telegram
@@ -222,6 +238,11 @@ There's also a [Development](#development) section that provides developers with
     - [leafduo/chatgpt-telegram-bot](https://github.com/leafduo/chatgpt-telegram-bot): Written in **Go**.
     - [TBXark/ChatGPT-Telegram-Workers](https://github.com/TBXark/ChatGPT-Telegram-Workers): This one has been specifically made for **Cloudflare Workers**.
     - [franalgaba/chatgpt-telegram-bot-serverless](https://github.com/franalgaba/chatgpt-telegram-bot-serverless): Free and in AWS serverless bot in **Python**.
+    - [iamwavecut/telegram-chatgpt-bot](https://github.com/iamwavecut/telegram-chatgpt-bot): Written in **Go** and comes with the **Dockerfile** for easy setup.
+- Slack
+    - [myGPTReader](https://github.com/madawei2699/myGPTReader)
+
+        myGPTReader is a slack bot that can read any webpage, ebook, video(YouTube) or document and summarize it with chatGPT. It can also talk to you via voice using the content in the channel.
 - WeChat
     - [zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat)
     - [ChatGPT for Wechat](https://chatgpt4wechat.aow.me/)
@@ -264,9 +285,17 @@ There's also a [Development](#development) section that provides developers with
 
     A ChatGPT web app demo built with Astro and TypeScript.
 
+- [ChatGPT-Vercel](https://github.com/ourongxing/chatgpt-vercel)
+
+    Another ChatGPT web app based on ddiu8081/chatgpt-demo, specifically made for deploying on Vercel.
+
 - [ChatGPT Web](https://github.com/Chanzhaoyu/chatgpt-web)
 
     A ChatGPT web app demo built with Vue3 and Express.
+
+- [Chatbot UI](https://github.com/mckaywrigley/chatbot-ui)
+
+    A simple chatbot starter kit for OpenAI's chat model using Next.js, TypeScript, and Tailwind CSS.
 
 - [GPT3.5-H5-lite-page](https://jichao99.github.io/GPT3.5-H5-lite-page/)
 
@@ -282,9 +311,14 @@ There's also a [Development](#development) section that provides developers with
 
     Online playground for openai's tiktoken library, calculating the correct number of tokens for a given prompt. Source code: [dqbd/tiktokenizer](https://github.com/dqbd/tiktokenizer)
 
+- [ChatGPT Wrapper](https://github.com/mmabrouk/chatgpt-wrapper)
+
+    ChatGPT Wrapper is an open-source unofficial Power CLI, Python API and Flask API that lets you interact programmatically with ChatGPT/GPT4. Several different backends are supported to connect to the ChatGPT models, including browser-based and REST-based options.
+
 - [OpenAI GPT-3.5 Price Calculator](https://openai.deepakness.com/)
 
     Calculate how much it will cost to generate certain number of words by using OpenAI GPT-3.5 API.
+
 
 ### Articles
 
