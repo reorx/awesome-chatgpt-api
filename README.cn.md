@@ -272,6 +272,10 @@
 
     一个 GPT3.5 的轻量级网页应用，可直接静态部署无需服务端，只使用了 HTML, CSS, jQuery。 源码: [JiChao99/GPT3.5-H5-lite-page](https://github.com/JiChao99/GPT3.5-H5-lite-page)
 
+- [gptcache](https://github.com/zilliztech/gptcache)
+
+    一个强大的缓存库，可用于加速和降低依赖 LLM 服务的聊天应用程序的成本，可用作 AIGC 应用程序的memcache，类似于 Redis 用于传统应用程序的方式。
+
 ### 工具
 
 - [LlamaIndex 🦙 \(GPT Index\)](https://github.com/jerryjliu/gpt_index)
