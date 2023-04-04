@@ -68,7 +68,7 @@ def create_post(date, hashs, filename, session, create_cn=False):
 # Write a changelog based on the following diff. organize the items in markdown list, each item starts with a markdown link, and a descripition is added below. The generated text starts with "Here's the projects added or updated today:"
 # """
     generator_prompt = """\
-Write a changelog based on the following diff. In case you don't know, diff is a format to show the changes of two commits, only the lines starts with + or - is the changed content. focus on what are added, ignore what are removed. organize the items in markdown list, each item starts with a markdown link, and a descripition is added below. The generated text starts with "Here's the projects added or updated today:"
+Write a changelog based on the following diff. You should be aware that diff is a format to show the changes of two commits, only the lines starts with + are the added content. You should only extract the added content, organize the items in markdown list, each item starts with a markdown link, and a descripition is added below. The generated text starts with "Here's the projects added or updated today:"
 """
     generator_message = session.chat({
         'role': 'user',
