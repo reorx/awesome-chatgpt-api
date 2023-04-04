@@ -15,6 +15,10 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
 
 - Chrome Extensions
 
+    - [ChatGPT Box](https://github.com/josStorer/chatGPTBox)
+
+        Deep ChatGPT integrations in your browser. Supports call up the chat dialog box on any page at any time, summarize any page with right-click menu, Independent conversation page, multiple API and much more. This extension is available on Chrome, Edge, Safari and Firefox.
+
     - [Glarity](https://glarity.app/)
 
          Summarize Google search results or YouTube videos with ChatGPT API, also supports Yahoo! ニュース、PubMed、PMC、NewsPicks、Github、Nikkei、 Bing、Google Patents. This extension also supports ChatGPT Webapp's API which requires no configuration.
