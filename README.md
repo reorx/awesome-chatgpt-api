@@ -304,11 +304,15 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
 
 - [Chatbot UI](https://github.com/mckaywrigley/chatbot-ui)
 
-    A simple chatbot starter kit for OpenAI's chat model using Next.js, TypeScript, and Tailwind CSS.
+    Chatbot UI is an advanced chatbot kit for OpenAI's chat models built on top of Chatbot UI Lite using Next.js, TypeScript, and Tailwind CSS.
 
 - [GPT3.5-H5-lite-page](https://jichao99.github.io/GPT3.5-H5-lite-page/)
 
     A GPT3.5 web page that is highly lightweight and can be deployed statically without requiring a server. Only HTML, CSS, and jQuery is used. Source code: [JiChao99/GPT3.5-H5-lite-page](https://github.com/JiChao99/GPT3.5-H5-lite-page)
+
+- [Next.js ChatGPT](https://github.com/enricoros/nextjs-chatgpt-app)
+
+    Built using Next.js and TypeScript, this is a responsive chat web application powered by OpenAI's GPT-4, with chat streaming, code highlighting, code execution, development presets, and more.
 
 ### Tools
 
