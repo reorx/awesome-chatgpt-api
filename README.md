@@ -11,6 +11,22 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
 > Curated by [Reorx](https://reorx.com), you are welcome to suggest new projects via Twitter or PRs, but please ensure you have read the [Collection Standard](https://github.com/reorx/awesome-chatgpt-api/issues/21).
 
 
+**Table of Contents**
+
+- [Plugins and Extensions](#plugins-and-extensions)
+- [Web Apps](#web-apps)
+  - [ChatGPT-like Web UI](#chatgpt-like-web-ui)
+  - [Special-purpose](#special-purpose)
+- [Desktop & Mobile Apps](#desktop--mobile-apps)
+  - [ChatGPT-like Web UI](#chatgpt-like-web-ui)
+  - [Special-purpose](#special-purpose)
+- [CLI](#cli)
+- [Chatbots](#chatbots)
+- [Development](#development)
+  - [Projects](#projects)
+  - [Tools](#tools)
+  - [Articles](#articles)
+
 ## Plugins and Extensions
 
 - Chrome Extensions
