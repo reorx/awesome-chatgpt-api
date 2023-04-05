@@ -104,31 +104,47 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
         A code review robot powered by ChatGPT
 
 
-## Apps
+## Web Apps
 
-- [ChatPDF](https://www.chatpdf.com/)
 
-    ChatPDF is an innovative tool that allows users to verbally communicate with their PDF files, making it easier to extract information from large documents such as manuals, legal contracts, and research papers.
-
-- [ChatBox](https://github.com/Bin-Huang/chatbox)
-
-    ChatBox is a cross-platform desktop client for OpenAI API, also a prompt debugging and management tool.
+### ChatGPT-like Web UI
 
 - [ChatKit](https://chatkit.app/)
 
     A lightweight ChatGPT Web UI that allows setting URLs as context for conversations.
 
-- [Chat with GPT](https://chatwithgpt.netlify.app)
+- [TypingMind](https://www.typingmind.com/)
+
+    A better UI for ChatGPT, with enhanced features like fast response, chat search, integrations, prompt library, etc.
+
+- [Chatbot UI](https://github.com/mckaywrigley/chatbot-ui) <img src="https://img.shields.io/badge/-self--hosted-1adc61" />
+
+    Chatbot UI is an advanced chatbot kit for OpenAI's chat models built on top of Chatbot UI Lite using Next.js, TypeScript, and Tailwind CSS.
+
+- [Chat with GPT](https://chatwithgpt.netlify.app) <img src="https://img.shields.io/badge/-self--hosted-1adc61" />
 
     An open source ChatGPT web UI with additional features like TTS. Source code: [cogentapps/chat-with-gpt](https://github.com/cogentapps/chat-with-gpt)
 
-- [OpenCat](https://opencat.app/)
+- [ChatGPT Web](https://github.com/Chanzhaoyu/chatgpt-web) <img src="https://img.shields.io/badge/-self--hosted-1adc61" />
 
-    A native desktop ChatGPT client that utilizes your own API key, providing a faster and enhanced chat experience.
+    A ChatGPT web app demo built with Vue3 and Express.
 
-- [MacGPT](https://www.macgpt.com/)
+- [Next.js ChatGPT](https://github.com/enricoros/nextjs-chatgpt-app) <img src="https://img.shields.io/badge/-self--hosted-1adc61" />
 
-    A native desktop ChatGPT app, with features like access ChatGPT from anywhere on your Mac with the Global, bring ChatGPT directly into your textfields with MacGPT Inline, and quickly access chatGPT from your menu bar.
+    Built using Next.js and TypeScript, this is a responsive chat web application powered by OpenAI's GPT-4, with chat streaming, code highlighting, code execution, development presets, and more.
+
+- [ChatGPT-API Demo](https://github.com/ddiu8081/chatgpt-demo) <img src="https://img.shields.io/badge/-self--hosted-1adc61" />
+
+    A ChatGPT web app demo built with Astro and TypeScript.
+
+    Related project: [ChatGPT-Vercel](https://github.com/ourongxing/chatgpt-vercel) is another ChatGPT web app based on ddiu8081/chatgpt-demo, specifically made for deploying on Vercel.
+
+
+### Special-purpose
+
+- [ChatPDF](https://www.chatpdf.com/)
+
+    ChatPDF is an innovative tool that allows users to verbally communicate with their PDF files, making it easier to extract information from large documents such as manuals, legal contracts, and research papers.
 
 - [OpenAI Translator](https://translator.lance.moe/)
 
@@ -149,14 +165,6 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
 
     Specialized ChatGPT application for scientific research work, optimized for academic paper proofreading experience, supports custom shortcut buttons, supports markdown table display, Tex formula dual display, improved code display function, added local Python project analysis/self-analysis function.
 
-- [NITM GPT](https://github.com/deskbtm/nitmgpt)
-
-    An Android application that filters ads, spam, notifications using GPT AI.
-
-- [ChatGPT Translator](https://github.com/simpleapples/chatgpt-translator)
-
-    ChatGPT Translator is an open-source desktop app that allows you to translate text using GPT language model.
-
 - [AI Subtitle Translator](https://ai.cgsv.top/)
 
     Translate local or Youtube/Bilibili subtitle using GPT-3.5 API. Source Code: [AI Subtitle](https://github.com/cgsvv/AISubtitle)
@@ -165,9 +173,39 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
 
     Visual ChatGPT is a web app that connects ChatGPT and a series of Visual Foundation Models to enable sending and receiving images during chatting.
 
-- [TypingMind](https://www.typingmind.com/)
 
-    A better UI for ChatGPT, with enhanced features like fast response, chat search, integrations, prompt library, etc.
+## Desktop & Mobile Apps
+
+
+### ChatGPT-like Web UI
+
+- [ChatBox](https://github.com/Bin-Huang/chatbox)
+
+    ChatBox is a cross-platform desktop client for OpenAI API, also a prompt debugging and management tool.
+
+- [OpenCat](https://opencat.app/)
+
+    A native desktop ChatGPT client that utilizes your own API key, providing a faster and enhanced chat experience.
+
+- [MacGPT](https://www.macgpt.com/)
+
+    A native desktop ChatGPT app, with features like access ChatGPT from anywhere on your Mac with the Global, bring ChatGPT directly into your textfields with MacGPT Inline, and quickly access chatGPT from your menu bar.
+
+
+### Special-purpose
+
+- [ChatGPT Translator](https://github.com/simpleapples/chatgpt-translator)
+
+    ChatGPT Translator is an open-source desktop app that allows you to translate text using GPT language model.
+
+- [OpenAI Translator](https://github.com/yetone/openai-translator)
+
+    Browser extension and cross-platform desktop application for translation based on ChatGPT API.
+
+- [NITM GPT](https://github.com/deskbtm/nitmgpt)
+
+    An Android application that filters ads, spam, notifications using GPT AI.
+
 
 ## CLI
 
@@ -294,29 +332,6 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
 
     Intercepts Elasticsearch results and sends them to GPT3 to provide accurate and relevant answers to your queries.
 
-- [ChatGPT-API Demo - ddiu8081/chatgpt-demo](https://github.com/ddiu8081/chatgpt-demo)
-
-    A ChatGPT web app demo built with Astro and TypeScript.
-
-- [ChatGPT-Vercel](https://github.com/ourongxing/chatgpt-vercel)
-
-    Another ChatGPT web app based on ddiu8081/chatgpt-demo, specifically made for deploying on Vercel.
-
-- [ChatGPT Web](https://github.com/Chanzhaoyu/chatgpt-web)
-
-    A ChatGPT web app demo built with Vue3 and Express.
-
-- [Chatbot UI](https://github.com/mckaywrigley/chatbot-ui)
-
-    Chatbot UI is an advanced chatbot kit for OpenAI's chat models built on top of Chatbot UI Lite using Next.js, TypeScript, and Tailwind CSS.
-
-- [GPT3.5-H5-lite-page](https://jichao99.github.io/GPT3.5-H5-lite-page/)
-
-    A GPT3.5 web page that is highly lightweight and can be deployed statically without requiring a server. Only HTML, CSS, and jQuery is used. Source code: [JiChao99/GPT3.5-H5-lite-page](https://github.com/JiChao99/GPT3.5-H5-lite-page)
-
-- [Next.js ChatGPT](https://github.com/enricoros/nextjs-chatgpt-app)
-
-    Built using Next.js and TypeScript, this is a responsive chat web application powered by OpenAI's GPT-4, with chat streaming, code highlighting, code execution, development presets, and more.
 
 ### Tools
 
