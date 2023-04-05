@@ -126,6 +126,10 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
 
     A native desktop ChatGPT client that utilizes your own API key, providing a faster and enhanced chat experience.
 
+- [MacGPT](https://www.macgpt.com/)
+
+    A native desktop ChatGPT app, with features like access ChatGPT from anywhere on your Mac with the Global, bring ChatGPT directly into your textfields with MacGPT Inline, and quickly access chatGPT from your menu bar.
+
 - [OpenAI Translator](https://translator.lance.moe/)
 
     A translator app that uses OpenAI GPT-3 to translate between languages. It is a PWA that can be installed on your phone or desktop. Source code: [LanceMoe/openai-translator](https://github.com/LanceMoe/openai-translator)
