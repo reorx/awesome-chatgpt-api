@@ -106,6 +106,11 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
 
         A enhanced shortcut based on **ChatGPT Siri**. Original tweet: [@DottChen](https://twitter.com/DottChen/status/1631309329684123650)
 
+    - [Share to ChatGPT](https://github.com/reorx/Share-to-ChatGPT-Shortcut)
+
+        Share to ChatGPT is an Apple Shortcut that allows users to share highlighted text to ChatGPT while also including personalized prompts, the response message will automatically be copied to the user's clipboard.
+
+
 - [Keyboard Maestro](https://www.keyboardmaestro.com/) Macros
 
     - [Copy to Ask ChatGPT](https://blog.retompi.com/post/use-chatgpt-api/#keyboard-maestro)
