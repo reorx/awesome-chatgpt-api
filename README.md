@@ -27,6 +27,7 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
   - [Tools](#tools)
   - [Articles](#articles)
 
+
 ## Plugins and Extensions
 
 - Chrome Extensions
@@ -157,6 +158,11 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
 
 
 ### Special-purpose
+
+- [ChatFiles](https://github.com/guangzhengli/ChatFiles)
+
+    A web app that let you upload your file and have a conversation with it.
+    This repository uses jerryjliu/llama_index to split large text, is based on mckaywrigley/chatbot-ui, and is inspired by madawei2699/myGPTReader
 
 - [ChatPDF](https://www.chatpdf.com/)
 
