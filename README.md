@@ -48,6 +48,11 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
 
         ChatHub is an all-in-one chatbot client currently supporting ChatGPT and the new Bing Chat. It allows for chatting with multiple chatbots simultaneously, making it easy to compare their answers. Source code: [chathub-dev/chathub](https://github.com/chathub-dev/chathub)
 
+    - [TeamSmart AI](https://www.teamsmart.ai/)
+
+        TeamSmart AI is a Chrome browser extension designed to boost your productivity and enhance your ChatGPT experience. It allows you to assemble a team of AI assistants to help you with your daily tasks. It can be used with your own OpenAI API key.
+
+
     - [OpenAI Translator](https://github.com/yetone/openai-translator)
 
         A Chrome extension that uses the OpenAI API to translate text, with additional features like polishing and summarization.
