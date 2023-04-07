@@ -88,7 +88,7 @@ Write a changelog based on the following diff. You should be aware that diff is 
 ---
 title: "Updates for {date}"
 date: {date}
-summary: {summary}
+summary: "{summary}"
 ---
 {content}
 """
