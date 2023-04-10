@@ -150,6 +150,10 @@
 
     更好的 ChatGPT 界面，具有快速响应、聊天搜索、集成、提示库等增强功能。
 
+- [AssisChat](https://assischat.com)
+
+    运行在 iOS 端的 ChatGPT API 客户端，可通过系统的分享功能实现不跳出其他 app 使用 ChatGPT 进行翻译、润色等操作。
+
 
 ## CLI
 

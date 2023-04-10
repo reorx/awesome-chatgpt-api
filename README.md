@@ -223,6 +223,11 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
 
     A native desktop ChatGPT app, with features like access ChatGPT from anywhere on your Mac with the Global, bring ChatGPT directly into your textfields with MacGPT Inline, and quickly access chatGPT from your menu bar.
 
+- [AssisChat](https://assischat.com)
+
+    A ChatGPT API client running on the iOS. It can be used to translate and polish text without leaving other apps by utilizing the system's share feature.
+
+
 
 ### Special-purpose
 
