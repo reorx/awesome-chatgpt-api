@@ -144,6 +144,10 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
 
     A better UI for ChatGPT, with enhanced features like fast response, chat search, integrations, prompt library, etc.
 
+- [ChatGPT Next Web](https://github.com/Yidadaa/ChatGPT-Next-Web)<img src="https://img.shields.io/badge/-self--hosted-1adc61" />
+
+    One-Click to deploy well-designed ChatGPT web UI on Vercel. The interface is polished to support pesponsive design, dark mode and PWA. With features like builtin prompts library, conversation compression, and export chat history as Markdown file.
+
 - [Chatbot UI](https://github.com/mckaywrigley/chatbot-ui) <img src="https://img.shields.io/badge/-self--hosted-1adc61" />
 
     Chatbot UI is an advanced chatbot kit for OpenAI's chat models built on top of Chatbot UI Lite using Next.js, TypeScript, and Tailwind CSS.
