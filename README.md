@@ -324,6 +324,9 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
 
     naming is a command line tool that suggests intuitive and descriptive names for your functions and variables, improving the readability of your code. It uses ChatGPT API to generate program naming suggestions tailored to your code.
 
+- [DoctorGPT](https://github.com/ingyamilmolinar/doctorgpt)
+
+    DoctorGPT brings GPT into production for application log error diagnising.
 
 ## Chatbots
 
