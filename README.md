@@ -231,6 +231,10 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
 
     A ChatGPT API client running on the iOS. It can be used to translate and polish text without leaving other apps by utilizing the system's share feature.
 
+- [OpenChit](https://apps.apple.com/cn/app/openchit/id6446192123)
+
+    A ChatGPT API client running on the iOS. With features like voice input and TTS.
+
 
 
 ### Special-purpose
