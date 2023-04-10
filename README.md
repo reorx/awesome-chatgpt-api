@@ -134,7 +134,7 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
 ## Web Apps
 
 
-### ChatGPT-like Web UI
+### ChatGPT-like UI
 
 - [ChatKit](https://chatkit.app/)
 
@@ -213,7 +213,7 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
 ## Desktop & Mobile Apps
 
 
-### ChatGPT-like Web UI
+### ChatGPT-like UI
 
 - [ChatBox](https://github.com/Bin-Huang/chatbox)
 
@@ -384,7 +384,7 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
 
     LlamaIndex (GPT Index) is a project that provides a central interface to connect your LLM's with external data. It has a set of data structures that allow you to index your data for various LLM tasks, and remove concerns over prompt size limitations.
 
-- [gptcache](https://github.com/zilliztech/gptcache)
+- [gptcache](https://github.com/zilliztech/gptcache) ⭐️
 
     a powerful caching library that can be used to speed up and lower the cost of chat applications that rely on the LLM service. GPT Cache works as a memcache for AIGC applications, similar to how Redis works for traditional applications.
 
