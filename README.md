@@ -326,7 +326,7 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
 
 - [DoctorGPT](https://github.com/ingyamilmolinar/doctorgpt)
 
-    DoctorGPT brings GPT into production for application log error diagnising.
+    DoctorGPT brings GPT into production for application log error diagnosing.
 
 ## Chatbots
 
