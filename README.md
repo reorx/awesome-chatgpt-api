@@ -52,10 +52,15 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
 
         TeamSmart AI is a Chrome browser extension designed to boost your productivity and enhance your ChatGPT experience. It allows you to assemble a team of AI assistants to help you with your daily tasks. It can be used with your own OpenAI API key.
 
-
     - [OpenAI Translator](https://github.com/yetone/openai-translator)
 
         A Chrome extension that uses the OpenAI API to translate text, with additional features like polishing and summarization.
+
+    - [ChatGPT » summarize everything!](https://chrome.google.com/webstore/detail/chatgpt-%C2%BB-summarize-every/cbgecfllfhmmnknmamkejadjmnmpfjmp)
+
+        A Chrome extension that summarizes any website with ChatGPT.
+        Other features including summarizes the transcript of any Youtube Video and customizes template. This extension also supports ChatGPT Webapp's API which requires no configuration.
+
 
 - [Obsidian](https://obsidian.md/) Plugins
 
