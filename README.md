@@ -328,6 +328,10 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
 - [naming](https://github.com/davidleitw/naming)
 
     naming is a command line tool that suggests intuitive and descriptive names for your functions and variables, improving the readability of your code. It uses ChatGPT API to generate program naming suggestions tailored to your code.
+    
+- [AI Shell](https://github.com/BuilderIO/ai-shell)
+
+    A CLI that converts natural language to shell commands. Inspired by the Github Copilot X CLI, but open source for everyone.
 
 - [DoctorGPT](https://github.com/ingyamilmolinar/doctorgpt)
 
