@@ -407,6 +407,8 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
 - [ChatGPT Wrapper](https://github.com/mmabrouk/chatgpt-wrapper)
 
     ChatGPT Wrapper is an open-source unofficial Power CLI, Python API and Flask API that lets you interact programmatically with ChatGPT/GPT4. Several different backends are supported to connect to the ChatGPT models, including browser-based and REST-based options.
+    
+- [chatgpt-dev-friendly-wrapper](https://github.com/codeastra2/ChatGPTDevFriendly): Pip package over the ChatGPT Official API for more API robustness, metrics, context management and easier development.
 
 - [OpenAI GPT-3.5 Price Calculator](https://openai.deepakness.com/)
 
