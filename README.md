@@ -120,7 +120,6 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
 
         Share to ChatGPT is an Apple Shortcut that allows users to share highlighted text to ChatGPT while also including personalized prompts, the response message will automatically be copied to the user's clipboard.
 
-
 - [Keyboard Maestro](https://www.keyboardmaestro.com/) Macros
 
     - [Copy to Ask ChatGPT](https://blog.retompi.com/post/use-chatgpt-api/#keyboard-maestro)
@@ -134,6 +133,12 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
     - [CR.GPT](https://github.com/apps/cr-gpt)
 
         A code review robot powered by ChatGPT
+
+- [LaunchBar](https://www.obdev.at/products/launchbar/) Actions
+
+    - [ChipiChat](https://github.com/quinncomendant/ChipiChat.lbaction)
+
+        A LaunchBar action to interact with the ChatGPT API. Responses are received directly in LaunchBar and can be browsed, opened, previewed with Quick Look, inserted, or sent to another action. Conversation history is preserved for context. ChatGPT system messages are configurable via personas.
 
 
 ## Web Apps
