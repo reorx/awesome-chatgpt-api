@@ -255,6 +255,10 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
 - [NITM GPT](https://github.com/deskbtm/nitmgpt)
 
     An Android application that filters ads, spam, notifications using GPT AI.
+    
+- [Polyglot](https://github.com/liou666/polyglot) 
+
+    Desktop AI language practice application based on ChatGPT API and Azure TTS
 
 
 ## CLI
