@@ -61,6 +61,15 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
         A Chrome extension that summarizes any website with ChatGPT.
         Other features including summarizes the transcript of any Youtube Video and customizes template. This extension also supports ChatGPT Webapp's API which requires no configuration.
 
+- [Emacs](https://www.gnu.org/software/emacs/) Packages
+
+    - [GPTel](https://github.com/karthink/gptel)
+    
+        Add a major mode to Emacs that acts similar to ChatGPT web page. It supports multiple chat sessions and can send any text selection to ChatGPT API to get answers, proofreading, code suggestions, etc. 
+        
+    - [org-ai](https://github.com/rksm/org-ai) 
+    
+        Add a block to Emacs note-taking package org-mode that can chat with ChatGPT and use DALL-E to generate an image. It supports speech-to-text input and text-to-speech reading out.
 
 - [Obsidian](https://obsidian.md/) Plugins
 

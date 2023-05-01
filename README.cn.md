@@ -25,6 +25,16 @@
 
         使用 OpenAI API 翻译文本的 Chrome 扩展，并具有润色和摘要等其他功能。
 
+- [Emacs](https://www.gnu.org/software/emacs/) 插件
+
+    - [GPTel](https://github.com/karthink/gptel)
+    
+        为 Emacs 添加了一个新的 major mode, 可以像 ChatGPT 网页一样聊天，支持多个聊天会话，支持将选中的任意文本发送给 ChatGPT, 以得到回答、请求润色、代码建议，等等。
+        
+    - [org-ai](https://github.com/rksm/org-ai) 
+    
+        为 Emacs 下的笔记插件 org-mode 添加了一个新的自定义块，在该块中可以和 ChatGPT 聊天，可以使用 DALL-E 生成图片。可以使用语音输入，可以将 ChatGPT 的回答用语音播放。
+
 - [Obsidian](https://obsidian.md/) 插件
 
     - [Obsidian Text Generator Plugin](https://github.com/nhaouari/obsidian-textgenerator-plugin)
