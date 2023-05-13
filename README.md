@@ -279,6 +279,10 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
 
 ## CLI
 
+- [ShellGPT](https://github.com/TheR1D/shell_gpt)
+
+    A command-line productivity tool powered by ChatGPT. Features include generate shell commands, code snippets, comments, and documentation.
+
 - [bilingual\_book\_maker](https://github.com/yihong0618/bilingual_book_maker)
 
     Make bilingual epub books Using AI translate. Original tweet [@yihong0618](https://twitter.com/yihong0618/status/1630948132564631552)
