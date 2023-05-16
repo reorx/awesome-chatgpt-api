@@ -279,6 +279,10 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
 
 ## CLI
 
+- [copyAIdit](https://gitlab.com/castedo/openai-utils)
+
+    Simple single file Python script and customizable example prompts/settings for diff-friendly copyediting/proofreading of text files (e.g., LaTeX, markdown).
+
 - [ShellGPT](https://github.com/TheR1D/shell_gpt)
 
     A command-line productivity tool powered by ChatGPT. Features include generate shell commands, code snippets, comments, and documentation.
