@@ -365,7 +365,9 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
 
     aider is a command-line chat tool that allows you to code with GPT-4 in the terminal. Ask GPT for features, improvements, or bug fixes and aider will apply the suggested changes to your source files. Each change is automatically committed to git with a descriptive commit message.
 
+- [mods](https://github.com/charmbracelet/mods)
 
+    mods works by reading standard in and prefacing it with a prompt supplied in the mods arguments. Optionally it formats output as Markdown, which you can pipe to markdown rendering CLIs. Example: `mods -f "what are your thoughts on improving this code?" < main.go | glow`
 
 ## Chatbots
 
