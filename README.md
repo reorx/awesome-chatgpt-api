@@ -267,14 +267,18 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
 - [OpenAI Translator](https://github.com/yetone/openai-translator)
 
     Browser extension and cross-platform desktop application for translation based on ChatGPT API.
-
-- [NITM GPT](https://github.com/deskbtm/nitmgpt)
-
-    An Android application that filters ads, spam, notifications using GPT AI.
     
 - [Polyglot](https://github.com/liou666/polyglot) 
 
     Desktop AI language practice application based on ChatGPT API and Azure TTS
+
+- [NITM GPT](https://github.com/deskbtm/nitmgpt)
+
+    An Android application that filters ads, spam, notifications using GPT AI.
+
+- [CommuniqAI](https://play.google.com/store/apps/details?id=dev.mtc.ga)
+
+    An Android application that helps you stay in touch by scheduling and automating SMS text messages (and calls and email) while leveraging ChatGPT for message generation.
 
 
 ## CLI
