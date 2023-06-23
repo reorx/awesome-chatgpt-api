@@ -257,6 +257,10 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
 - [MindMac](https://mindmac.app)
 
     Effortlessly manage your chats and folders while monitoring costs with intuitive macOS app, powered by ChatGPT API and designed for maximum productivity. Built-in prompt templates, support GPT-3.5 and GPT-4.
+  
+- [EasyChat AI](https://easychat-ai.app)
+
+    A native Windows desktop app for using ChatGPT using the latest Windows 11 UI design principles.
 
 ### Special-purpose
 
