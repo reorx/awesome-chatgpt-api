@@ -32,6 +32,10 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
 
 - Chrome Extensions
 
+    - [Immersive Translate](https://github.com/immersive-translate/immersive-translate)
+
+        A dual web page translation extension with immersive reading experience, you can add your own OpenAI key to use ChatGPT as a translation provider.
+
     - [ChatGPT Box](https://github.com/josStorer/chatGPTBox)
 
         Deep ChatGPT integrations in your browser. Supports call up the chat dialog box on any page at any time, summarize any page with right-click menu, Independent conversation page, multiple API and much more. This extension is available on Chrome, Edge, Safari and Firefox.
