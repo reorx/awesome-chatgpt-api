@@ -266,6 +266,10 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
 
     A native Windows desktop app for using ChatGPT using the latest Windows 11 UI design principles.
 
+- [WristAssist](https://github.com/DevEmpero/WristAssist)
+
+  A powerful ChatGPT app for all WearOS devices
+
 ### Special-purpose
 
 - [ChatGPT Translator](https://github.com/simpleapples/chatgpt-translator)
@@ -287,6 +291,10 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
 - [CommuniqAI](https://play.google.com/store/apps/details?id=dev.mtc.ga)
 
     An Android application that helps you stay in touch by scheduling and automating SMS text messages (and calls and email) while leveraging ChatGPT for message generation.
+
+- [WristAssist](https://github.com/DevEmpero/WristAssist)
+
+  A powerful ChatGPT app for all WearOS devices
 
 
 ## CLI
