@@ -292,10 +292,6 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
 
     An Android application that helps you stay in touch by scheduling and automating SMS text messages (and calls and email) while leveraging ChatGPT for message generation.
 
-- [WristAssist](https://github.com/DevEmperor/WristAssist)
-
-  A powerful ChatGPT app for all WearOS devices
-
 
 ## CLI
 
