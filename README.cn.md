@@ -433,6 +433,10 @@
 
     一个强大的缓存库，可以用来加速和降低依赖LLM服务的聊天应用程序的成本。GPT Cache作为AIGC应用程序的memcache，类似于Redis为传统应用程序工作的方式。
 
+- [Embedchain](https://github.com/embedchain/embedchain) 
+
+    用于在数据集上创建类似机器人的由 LLM 支持的 ChatGPT 的框架
+
 - [Tiktokenizer](https://tiktokenizer.vercel.app/)
 
     openai的tiktoken库的在线游乐场，为给定的提示计算正确的令牌数量。源代码: [dqbd/tiktokenizer](https://github.com/dqbd/tiktokenizer)
