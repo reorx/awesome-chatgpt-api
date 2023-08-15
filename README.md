@@ -266,6 +266,10 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
 
     A native Windows desktop app for using ChatGPT using the latest Windows 11 UI design principles.
 
+- [WristAssist](https://github.com/DevEmperor/WristAssist)
+
+  A powerful ChatGPT app for all WearOS devices
+
 ### Special-purpose
 
 - [ChatGPT Translator](https://github.com/simpleapples/chatgpt-translator)
