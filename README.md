@@ -444,6 +444,10 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
 
     a powerful caching library that can be used to speed up and lower the cost of chat applications that rely on the LLM service. GPT Cache works as a memcache for AIGC applications, similar to how Redis works for traditional applications.
 
+- [Embedchain](https://github.com/embedchain/embedchain) 
+
+    Framework to create LLM-powered ChatGPT like bots over your dataset
+
 - [Tiktokenizer](https://tiktokenizer.vercel.app/)
 
     Online playground for openai's tiktoken library, calculating the correct number of tokens for a given prompt. Source code: [dqbd/tiktokenizer](https://github.com/dqbd/tiktokenizer)
