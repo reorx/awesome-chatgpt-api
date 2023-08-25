@@ -268,7 +268,11 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
 
 - [WristAssist](https://github.com/DevEmperor/WristAssist)
 
-  A powerful ChatGPT app for all WearOS devices
+    A powerful ChatGPT app for all WearOS devices
+
+- [Monadic Chat](https://github.com/yohasebe/monadic-chat)
+
+    Monadic Chat is a highly configurable web application framework for creating and using intelligent chatbots, leveraging the power of OpenAI's Chat and Whisper APIs and the Ruby programming language.
 
 ### Special-purpose
 
