@@ -193,6 +193,12 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
 
     Related project: [ChatGPT-Vercel](https://github.com/ourongxing/chatgpt-vercel) is another ChatGPT web app based on ddiu8081/chatgpt-demo, specifically made for deploying on Vercel.
 
+- [ChatGPT-API-WEB](https://github.com/heimoshuiyu/chatgpt-api-web) <img src="https://img.shields.io/badge/-self--hosted-1adc61" />
+
+    Pure front-end project, no back-end, send requests directly from the browser. Protect your privacy and API key security. All data is stored locally in the browser. Designed for daily use of ChatGPT and debugging optimized prompts.
+
+    Support: Multiple sessions, save multiple APIs, customize OpenAI interface address, choose different models, set any API parameters, streaming output, set system messages, edit historical messages, auto-trim lengthy conversations, save conversation templates, cost statistics, adapt to dark mode, adapt to multiple languages.
+
 
 ### Special-purpose
 
