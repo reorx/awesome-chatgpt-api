@@ -187,6 +187,12 @@
 
     相关项目: [ChatGPT-Vercel](https://github.com/ourongxing/chatgpt-vercel) is another ChatGPT web app based on ddiu8081/chatgpt-demo, specifically made for deploying on Vercel.
 
+- [ChatGPT-API-WEB](https://github.com/heimoshuiyu/chatgpt-api-web) <img src="https://img.shields.io/badge/-self--hosted-1adc61" />
+
+    纯前端项目，没有后端，直接从浏览器发送请求。保障你的隐私和 API key 安全。所有数据都保存在浏览器本地。为日常使用 ChatGPT 及调试优化 prompt 设计。
+
+    支持：多会话、保存多个 API、自定义 OpenAI 接口地址、选择不同模型、设置任何 API 参数、流式输出、设置系统消息、编辑历史消息、自动裁剪过长对话、保存对话模板、费用统计、适配黑暗模式、适配多语言。
+
 
 ### 特殊用途
 
