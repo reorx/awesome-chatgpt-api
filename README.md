@@ -193,6 +193,10 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
 
     Related project: [ChatGPT-Vercel](https://github.com/ourongxing/chatgpt-vercel) is another ChatGPT web app based on ddiu8081/chatgpt-demo, specifically made for deploying on Vercel.
 
+- [GPTPortal](https://github.com/Zaki-1052/GPTPortal) <img src="https://img.shields.io/badge/-self--hosted-1adc61" />
+
+    A feature-rich open-source portal to chat with the GPT-4, Mistral, & Gemini APIs via a lightweight Node.js web app; includes customizable multimodal support via voice & images and closely replicates the basic UI/UX of ChatGPT.
+
 
 ### Special-purpose
 
