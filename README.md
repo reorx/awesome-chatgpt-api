@@ -385,6 +385,10 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
 
     mods works by reading standard in and prefacing it with a prompt supplied in the mods arguments. Optionally it formats output as Markdown, which you can pipe to markdown rendering CLIs. Example: `mods -f "what are your thoughts on improving this code?" < main.go | glow`
 
+- [AIGenPipeline](https://github.com/stoerr/AIGenPipeline) 
+
+    AI based code generation pipeline: command line tool and framework for systematic code generation using the OpenAI chat completion API e.g. in a build process. Updates the AI generated files only when the input files or prompts have changed. 
+
 ## Chatbots
 
 - Telegram
