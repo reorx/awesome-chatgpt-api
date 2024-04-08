@@ -153,6 +153,11 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
 
         A LaunchBar action to interact with the ChatGPT API. Responses are received directly in LaunchBar and can be browsed, opened, previewed with Quick Look, inserted, or sent to another action. Conversation history is preserved for context. ChatGPT system messages are configurable via personas.
 
+- CMS extensions
+
+    - [Composum AI](https://github.com/ist-dresden/composum-AI)
+ 
+      OpenAI based GenAI extension for the CMS Adobe Experience Manager (AEM) or the free Composum Pages CMS to analyze, discuss, suggest, translate, transform texts, incl. free prompting.
 
 ## Web Apps
 
