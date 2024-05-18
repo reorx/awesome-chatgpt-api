@@ -159,6 +159,10 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
 
 ### ChatGPT-like UI
 
+- [AICamp](https://aicamp.so)
+
+Minimal ChatGPT UI for your empmloyee. Create and Share chats, prompts , customGPTs. 
+
 - [ChatKit](https://chatkit.app/)
 
     A lightweight ChatGPT Web UI that allows setting URLs as context for conversations.
