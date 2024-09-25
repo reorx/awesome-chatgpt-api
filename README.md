@@ -288,6 +288,10 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
 
     An Android application that helps you stay in touch by scheduling and automating SMS text messages (and calls and email) while leveraging ChatGPT for message generation.
 
+- [RewriteBar](https://rewritebar.com/)
+
+    A MacOS app that allows you to rewrite text using the ChatGPT API. Select text in any app and choose one of the options in the RewriteBar to rewrite the selected text. You can create your own presets for specific workflows.
+
 
 ## CLI
 
