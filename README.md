@@ -469,6 +469,10 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
     An OpenAI API reverse proxy that can be deployed on Cloudflare Workers and Vercel Edge.
     Helpful for bypassing network restrictions or IP rate limits.
 
+- [Shimmy](https://github.com/Michael-A-Kuykendall/shimmy)
+
+    Self-hosted AI inference server with OpenAI API compatibility. Features include local model processing, hot model swapping, and zero cloud dependencies for privacy-focused AI applications.
+
 
 ### Articles
 
