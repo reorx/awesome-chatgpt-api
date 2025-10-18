@@ -299,10 +299,6 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
 
     A command-line productivity tool powered by ChatGPT. Features include generate shell commands, code snippets, comments, and documentation.
 
-- [Shimmy](https://github.com/Michael-A-Kuykendall/shimmy)
-
-    Self-hosted AI inference server with OpenAI API compatibility. Features include local model processing, hot model swapping, and zero cloud dependencies for privacy-focused AI applications.
-
 - [bilingual\_book\_maker](https://github.com/yihong0618/bilingual_book_maker)
 
     Make bilingual epub books Using AI translate. Original tweet [@yihong0618](https://twitter.com/yihong0618/status/1630948132564631552)
@@ -472,6 +468,10 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
 
     An OpenAI API reverse proxy that can be deployed on Cloudflare Workers and Vercel Edge.
     Helpful for bypassing network restrictions or IP rate limits.
+
+- [Shimmy](https://github.com/Michael-A-Kuykendall/shimmy)
+
+    Self-hosted AI inference server with OpenAI API compatibility. Features include local model processing, hot model swapping, and zero cloud dependencies for privacy-focused AI applications.
 
 
 ### Articles
