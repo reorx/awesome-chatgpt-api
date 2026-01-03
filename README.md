@@ -448,6 +448,10 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
 
     a powerful caching library that can be used to speed up and lower the cost of chat applications that rely on the LLM service. GPT Cache works as a memcache for AIGC applications, similar to how Redis works for traditional applications.
 
+- [Vedika Astrology API](https://vedika.io)
+
+    A Vedic astrology API that can be used as an OpenAI function/tool. Provides 108+ endpoints for horoscopes, birth charts, kundali matching, numerology, and panchang calculations. Includes an AI chatbot that can answer astrology questions in 22 languages. SDKs available for Python and JavaScript.
+
 - [Embedchain](https://github.com/embedchain/embedchain) 
 
     Framework to create LLM-powered ChatGPT like bots over your dataset
