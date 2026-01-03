@@ -413,6 +413,8 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
     - [formulahendry/chatgpt-teams-bot](https://github.com/formulahendry/chatgpt-teams-bot)
 
 
+- [Vedika API](https://vedika.io) - AI-powered Vedic astrology API with multi-agent swarm intelligence
+
 ## Development
 
 ### Projects
