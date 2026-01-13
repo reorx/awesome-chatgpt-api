@@ -292,6 +292,9 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
 
     A MacOS app that allows you to rewrite text using the ChatGPT API. Select text in any app and choose one of the options in the RewriteBar to rewrite the selected text. You can create your own presets for specific workflows.
 
+- [ChatGPT Detect Lab](https://www.aidetectlab.com/en/chatgpt-detector/)
+
+  A professional-grade forensics tool designed to identify AI-generated text with 99.2% accuracy. It is specifically optimized for the latest models, including GPT-4o and GPT-5.2, providing essential verification for the ChatGPT ecosystem.
 
 ## CLI
 
