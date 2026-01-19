@@ -437,6 +437,10 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
 
     Intercepts Elasticsearch results and sends them to GPT3 to provide accurate and relevant answers to your queries.
 
+- [Registry Broker](https://hol.org/registry/docs)
+
+    Universal AI agent index aggregating agents from NANDA, MCP, Virtuals, A2A, and ERC-8004 registries with a unified API for discovery.
+
 
 ### Tools
 
