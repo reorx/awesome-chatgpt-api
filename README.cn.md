@@ -422,6 +422,10 @@
 
     拦截Elasticsearch结果并将其发送到GPT3，为您的查询提供准确和相关的答案。
 
+- [Registry Broker](https://hol.org/registry/docs)
+
+    将来自多个注册表（NANDA、MCP、Virtuals、A2A 和 ERC-8004）的 AI 代理聚合到一个通用索引中，并提供统一的发现 API。
+
 
 ### 工具
 
