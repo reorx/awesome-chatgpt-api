@@ -228,6 +228,10 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
 
     Visual ChatGPT is a web app that connects ChatGPT and a series of Visual Foundation Models to enable sending and receiving images during chatting.
 
+- [Taskade](https://taskade.com)
+
+    AI-powered workspace with multi-model support (GPT-4o, Claude, Gemini). Custom AI agents, real-time collaboration, workflow automation, and 700+ prompt templates.
+
 
 ## Desktop & Mobile Apps
 
