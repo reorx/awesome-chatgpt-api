@@ -228,6 +228,8 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
 
     Visual ChatGPT is a web app that connects ChatGPT and a series of Visual Foundation Models to enable sending and receiving images during chatting.
 
+- [GEO/AEO Tracker](https://github.com/danishashko/geo-aeo-tracker) - Open-source, local-first AI visibility dashboard. Track brand mentions across ChatGPT, Perplexity, Gemini, Copilot, Google AI Overview, and Grok. BYOK, self-hosted, $0/month.
+
 
 ## Desktop & Mobile Apps
 
