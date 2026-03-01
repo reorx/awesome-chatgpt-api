@@ -182,6 +182,7 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
 - [Next.js ChatGPT](https://github.com/enricoros/nextjs-chatgpt-app) <img src="https://img.shields.io/badge/-self--hosted-1adc61" />
 
     Built using Next.js and TypeScript, this is a responsive chat web application powered by OpenAI's GPT-4, with chat streaming, code highlighting, code execution, development presets, and more.
+- [AI Interview Coach](https://em-tools.io/interview-prep) - Voice-based AI behavioral interview practice for engineering managers and software engineers. 130+ role-specific questions, STAR-format scoring, and 3 interviewer personas.
 
 - [ChatGPT-API Demo](https://github.com/ddiu8081/chatgpt-demo) <img src="https://img.shields.io/badge/-self--hosted-1adc61" />
 
