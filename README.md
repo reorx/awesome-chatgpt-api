@@ -385,6 +385,10 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
 
     mods works by reading standard in and prefacing it with a prompt supplied in the mods arguments. Optionally it formats output as Markdown, which you can pipe to markdown rendering CLIs. Example: `mods -f "what are your thoughts on improving this code?" < main.go | glow`
 
+- [BurnRate](https://github.com/burnrate-dev/burnrate)
+
+    A local-first CLI tool that tracks AI coding tool usage and costs across 7 providers (Claude Code, Cursor, GitHub Copilot, Windsurf, Aider, Cline, and OpenAI Codex). Features real-time cost analytics dashboard, 46 optimization rules, and rate limit monitoring.
+
 ## Chatbots
 
 - Telegram
