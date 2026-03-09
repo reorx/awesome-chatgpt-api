@@ -388,7 +388,7 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
 ## Chatbots
 
 - Telegram
-    - [AskePub](https://github.com/GeiserX/AskePub): A Telegram bot that generates contextual study notes for ePub books using GPT-4o. Users upload an ePub, select chapters, customize questions, and receive annotated outputs in ePub, Word, and PDF formats. Written in **Python**.
+    - [AskePub](https://github.com/GeiserX/AskePub): A Telegram bot to generate contextual study notes for ePub books. Written in **Python**.
     - [karfly/chatgpt\_telegram\_bot](https://github.com/karfly/chatgpt_telegram_bot): Written in **Python**.
     - [n3d1117/chatgpt-telegram-bot](https://github.com/n3d1117/chatgpt-telegram-bot): Written in **Python**.
     - [RainEggplant/chatgpt-telegram-bot](https://github.com/RainEggplant/chatgpt-telegram-bot): Written in **JavaScript**.
