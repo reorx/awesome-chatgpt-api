@@ -115,6 +115,14 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
 
         ChatGPT API based Bob plugin for text translation, text refinement, and grammar correction. It has a derived version that specifically emphasizes the task of proofreading: [OpenAI Polisher Bob Plugin](https://github.com/yetone/bob-plugin-openai-polisher).
 
+- [Easydict](https://github.com/tisfeng/Easydict)
+
+    A concise and elegant dictionary and translation app for macOS that supports multiple translation services including OpenAI API, with features like OCR recognition and input translation.
+
+- [pot-desktop](https://github.com/pot-app/pot-desktop)
+
+    A cross-platform (Windows/macOS/Linux) desktop translation and OCR tool that supports customizable ChatGPT API for text translation, with features like selection translation, input translation, and clipboard listening.
+
 - Apple Shortcuts
 
     - [ChatGPT Siri](https://github.com/Yue-Yang/ChatGPT-Siri)
@@ -269,6 +277,10 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
 - [WristAssist](https://github.com/DevEmperor/WristAssist)
 
   A powerful ChatGPT app for all WearOS devices
+
+- [SpeakGPT](https://github.com/AndraxDev/speak-gpt)
+
+    A feature-rich Android ChatGPT client with Material Design 3, supporting GPT-4 Vision, DALL·E image generation, assistant mode, and a community prompts store. Allows users to configure their own API key.
 
 ### Special-purpose
 
