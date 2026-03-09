@@ -389,6 +389,10 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
 
     mods works by reading standard in and prefacing it with a prompt supplied in the mods arguments. Optionally it formats output as Markdown, which you can pipe to markdown rendering CLIs. Example: `mods -f "what are your thoughts on improving this code?" < main.go | glow`
 
+- [dna-claude-analysis](https://github.com/shmlkv/dna-claude-analysis)
+
+    Personal genome analysis toolkit that uses LLM APIs to analyze raw DNA data across 17 categories (ancestry, health risks, nutrition, fitness, pharmacogenomics, and more) and generates a terminal-style single-page HTML visualization.
+
 ## Chatbots
 
 - Telegram
