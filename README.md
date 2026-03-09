@@ -397,6 +397,10 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
 
     Personal genome analysis toolkit that uses LLM APIs to analyze raw DNA data across 17 categories (ancestry, health risks, nutrition, fitness, pharmacogenomics, and more) and generates a terminal-style single-page HTML visualization.
 
+- [fellow](https://github.com/ManuelZierl/fellow)
+
+    Fellow is an open-source command-line AI assistant built by developers, for developers. Unlike most AI tools that stop at suggesting code, Fellow goes a step further: It executes tasks on your behalf. It reasons step-by-step, chooses commands from a plugin system, and edits files, generates content, or writes tests — autonomously.
+
 ## Chatbots
 
 - Telegram
