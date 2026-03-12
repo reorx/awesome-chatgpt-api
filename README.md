@@ -282,6 +282,10 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
 
     A feature-rich Android ChatGPT client with Material Design 3, supporting GPT-4 Vision, DALL·E image generation, assistant mode, and a community prompts store. Allows users to configure their own API key.
 
+- [OpenClaw Easy Desktop](https://github.com/openclaw-easy/openclaw-easy-desktop)
+
+    Open-source cross-platform desktop app for setting up AI assistants on WhatsApp, Telegram, Discord, Slack and more. Bring your own API key (OpenAI, Anthropic, Google) or use local models via Ollama. Available for macOS, Windows, and Linux.
+
 ### Special-purpose
 
 - [ChatGPT Translator](https://github.com/simpleapples/chatgpt-translator)
