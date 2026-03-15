@@ -415,7 +415,7 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
 
 - [onWatch](https://github.com/onllm-dev/onwatch)
 
-    Open-source Go CLI that tracks AI API quota usage across 6 providers (OpenAI, Anthropic, GitHub Copilot, and more). Runs as a background daemon with <50MB RAM, stores data locally in SQLite with zero telemetry, and includes a Material Design 3 web dashboard. Supports configuring your own API keys for each provider.
+    Open-source Go CLI that tracks AI API quota usage across 6 providers: OpenAI, Anthropic, GitHub Copilot, Synthetic, Z.ai, and Antigravity. Runs as a background daemon with <50MB RAM, stores data locally in SQLite with zero telemetry, and includes a Material Design 3 web dashboard. Supports configuring your own API keys for each provider.
 
 ## Chatbots
 
