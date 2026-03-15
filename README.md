@@ -413,6 +413,10 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
 
     Fellow is an open-source command-line AI assistant built by developers, for developers. Unlike most AI tools that stop at suggesting code, Fellow goes a step further: It executes tasks on your behalf. It reasons step-by-step, chooses commands from a plugin system, and edits files, generates content, or writes tests — autonomously.
 
+- [onWatch](https://github.com/onllm-dev/onwatch)
+
+    Open-source Go CLI that tracks AI API quota usage across 6 providers (OpenAI, Anthropic, GitHub Copilot, and more). Runs as a background daemon with <50MB RAM, stores data locally in SQLite with zero telemetry, and includes a Material Design 3 web dashboard. Supports configuring your own API keys for each provider.
+
 ## Chatbots
 
 - Telegram
