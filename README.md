@@ -498,6 +498,8 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
     Helpful for bypassing network restrictions or IP rate limits.
 
 
+- [Arch Tools](https://archtools.dev) - 58 API tools behind one key. MCP native + x402 USDC payments on 15 chains. Web scraping, AI generation, crypto, voice, email, and more.
+
 ### Articles
 
 - [I got early access to ChatGPT API and then pushed it to it’s limits. Here’s what you need to know. — Buildt](https://www.buildt.ai/blog/vm3qozd4qfrbbyzukqhynrwm9vb9tq)
