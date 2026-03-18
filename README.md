@@ -468,6 +468,7 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
 
 ### Tools
 
+- [NanoBanana2](https://nanobanana2.com) - Free AI image generator with trend-aware templates and multiple AI models. Supports text-to-image, editing, and upscaling.
 - [LlamaIndex 🦙 \(GPT Index\)](https://github.com/jerryjliu/gpt_index)
 
     LlamaIndex (GPT Index) is a project that provides a central interface to connect your LLM's with external data. It has a set of data structures that allow you to index your data for various LLM tasks, and remove concerns over prompt size limitations.
