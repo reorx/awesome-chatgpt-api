@@ -415,7 +415,7 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
 
 - [Shep](https://github.com/shep-ai/cli)
 
-    Multi-session SDLC control center for AI coding agents. Orchestrates the complete feature lifecycle — from requirements through testing to merged pull requests — using Claude Code, Cursor CLI, or Gemini, with configurable approval gates and a live web dashboard.
+    A multi-session SDLC control center for AI coding agents that orchestrates the complete feature lifecycle — from requirements through testing to merged pull requests — using Claude Code, Cursor CLI, or Gemini, with configurable approval gates and a live web dashboard.
 
 ## Chatbots
 
