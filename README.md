@@ -240,6 +240,10 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
 
     Open-source, local-first AI visibility dashboard. Track brand mentions across ChatGPT, Perplexity, Gemini, Copilot, Google AI Overview, and Grok. BYOK, self-hosted, $0/month.
 
+- [MianLing AI](https://mianlingai.com)
+
+    AI-powered real-time interview assistant. Captures interviewer questions via system audio and generates professional answers in milliseconds. Supports Tencent Meeting, Feishu, DingTalk, Zoom, and Teams.
+
 
 ## Desktop & Mobile Apps
 
