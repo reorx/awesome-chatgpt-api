@@ -413,6 +413,10 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
 
     Fellow is an open-source command-line AI assistant built by developers, for developers. Unlike most AI tools that stop at suggesting code, Fellow goes a step further: It executes tasks on your behalf. It reasons step-by-step, chooses commands from a plugin system, and edits files, generates content, or writes tests — autonomously.
 
+- [Shep](https://github.com/shep-ai/cli)
+
+    A multi-session SDLC control center for AI coding agents that orchestrates the complete feature lifecycle — from requirements through testing to merged pull requests — using Claude Code, Cursor CLI, or Gemini, with configurable approval gates and a live web dashboard.
+
 ## Chatbots
 
 - Telegram
