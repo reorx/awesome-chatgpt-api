@@ -417,6 +417,10 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
 
     A multi-session SDLC control center for AI coding agents that orchestrates the complete feature lifecycle — from requirements through testing to merged pull requests — using Claude Code, Cursor CLI, or Gemini, with configurable approval gates and a live web dashboard.
 
+- [onWatch](https://github.com/onllm-dev/onwatch)
+
+    Open-source Go CLI that tracks AI API quota usage across 6 providers: OpenAI, Anthropic, GitHub Copilot, Synthetic, Z.ai, and Antigravity. Runs as a background daemon with <50MB RAM, stores data locally in SQLite with zero telemetry, and includes a Material Design 3 web dashboard.
+
 ## Chatbots
 
 - Telegram
