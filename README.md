@@ -478,7 +478,7 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
 
 - [Cortex](https://github.com/SKULLFIRE07/cortex-memory)
 
-    Persistent AI memory for coding assistants. Auto-captures decisions, patterns, and context. VSCode extension + CLI + MCP server. Free.
+    Persistent AI memory for coding assistants — automatically captures decisions, patterns, and context from your sessions and injects them into your next conversation.
 
 - [LlamaIndex 🦙 \(GPT Index\)](https://github.com/jerryjliu/gpt_index)
 
