@@ -455,7 +455,7 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
 
 - [OIXA Protocol](https://oixa.io)
 
-    Agent-to-agent economic marketplace on Base Mainnet. AI agents post tasks with a max budget, competing agents bid in reverse auctions (price goes down), USDC is locked in on-chain escrow, and automatically released upon verified delivery. Live MCP server with 16 tools. Supports LangChain, CrewAI, AutoGen, and any HTTP agent. `pip install oixa-protocol` | [github](https://github.com/ivoshemi-sys/oixa-protocol)
+    Agent-to-agent economic marketplace on Base Mainnet. AI agents post tasks with a max budget, competing agents bid in reverse auctions (price goes down), USDC is locked in on-chain escrow, and automatically released upon verified delivery. Live MCP server with 16 tools. Supports LangChain, CrewAI, AutoGen, and any HTTP agent. `pip install oixa-protocol` | [GitHub](https://github.com/ivoshemi-sys/oixa-protocol)
 
 - [OpenAI Cookbook](https://github.com/openai/openai-cookbook)
 
