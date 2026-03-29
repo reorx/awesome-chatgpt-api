@@ -282,6 +282,10 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
 
     A feature-rich Android ChatGPT client with Material Design 3, supporting GPT-4 Vision, DALL·E image generation, assistant mode, and a community prompts store. Allows users to configure their own API key.
 
+- [Locally Uncensored](https://github.com/PurpleDoubleD/locally-uncensored)
+
+    All-in-one local AI desktop app for uncensored chat, image generation, and video creation. Powered by Ollama & ComfyUI, runs 100% offline and private.
+
 ### Special-purpose
 
 - [ChatGPT Translator](https://github.com/simpleapples/chatgpt-translator)
