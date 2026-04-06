@@ -63,7 +63,7 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
 
     - [Ajusta](https://ajusta.ai)
 
-        AI resume optimizer that scores resumes against ATS, identifies keyword gaps, and provides rewrite suggestions using ChatGPT API. Available as a Chrome extension for LinkedIn and Indeed.
+        AI resume optimizer that scores resumes against ATS, identifies keyword gaps, and provides rewrite suggestions using the ChatGPT API. Available as a Chrome extension for LinkedIn and Indeed job listings.
 
 - [Emacs](https://www.gnu.org/software/emacs/) Packages
 
