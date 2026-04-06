@@ -59,6 +59,10 @@
         一个Chrome扩展，总结任何网站与ChatGPT。
         其他功能包括总结任何Youtube视频的成绩单和自定义模板。这个扩展还支持ChatGPT Webapp的API，不需要配置。
 
+    - [Ajusta](https://ajusta.ai)
+
+        AI简历优化工具，可根据ATS对简历进行评分，识别关键词差距，并使用ChatGPT API提供重写建议。适用于LinkedIn和Indeed的Chrome扩展程序。
+
 - [Emacs](https://www.gnu.org/software/emacs/) Packages
 
     - [GPTel](https://github.com/karthink/gptel)
