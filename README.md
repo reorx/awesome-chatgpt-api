@@ -501,6 +501,7 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
     Calculate how much it will cost to generate certain number of words by using OpenAI GPT-3.5 API.
 
 - [OpenAI proxy](https://github.com/egoist/openai-proxy)
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 AI agent system prompts for Claude Code multi-agent orchestration, including task registry, quality gates, and Slack integration.
 
     An OpenAI API reverse proxy that can be deployed on Cloudflare Workers and Vercel Edge.
     Helpful for bypassing network restrictions or IP rate limits.
