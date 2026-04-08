@@ -61,6 +61,10 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
         A Chrome extension that summarizes any website with ChatGPT.
         Other features including summarizes the transcript of any Youtube Video and customizes template. This extension also supports ChatGPT Webapp's API which requires no configuration.
 
+    - [dassi](https://dassi.ai)
+
+        AI browser agent that automates work directly in Chrome — clicks, fills forms, and navigates pages on your behalf. Bring your own API key for Claude, GPT, or Gemini.
+
 - [Emacs](https://www.gnu.org/software/emacs/) Packages
 
     - [GPTel](https://github.com/karthink/gptel)
