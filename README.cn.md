@@ -226,6 +226,10 @@
     
     Visual ChatGPT是一个web应用程序，它将ChatGPT和一系列Visual Foundation Models连接起来，以便在聊天过程中发送和接收图像。
 
+- [Forge](https://forge-web.rebaselabs.online/)
+
+    AI 驱动的全栈应用创建器，支持 BYOK（自带 API 密钥）。兼容 OpenAI、Anthropic 和 Google AI 的对话补全接口。多阶段生成流程：规划 → 架构设计 → 代码生成 → 验证。生成以 SSR 为主的 Next.js 应用。源代码：[sudo-rebase/forge](https://github.com/sudo-rebase/forge)
+
 
 ## 桌面和移动应用程序
 
