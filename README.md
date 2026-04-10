@@ -506,6 +506,7 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
     Helpful for bypassing network restrictions or IP rate limits.
 
 
+- [Gitstar](https://dev.gitstar.ai?utm_medium=github_readme&utm_source=awesome_list&utm_campaign=reorx_awesome-chatgpt-api) - Follow developers on GitHub and get a feed of what they star and build.
 ### Articles
 
 - [I got early access to ChatGPT API and then pushed it to it’s limits. Here’s what you need to know. — Buildt](https://www.buildt.ai/blog/vm3qozd4qfrbbyzukqhynrwm9vb9tq)
