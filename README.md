@@ -240,6 +240,10 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
 
     Open-source, local-first AI visibility dashboard. Track brand mentions across ChatGPT, Perplexity, Gemini, Copilot, Google AI Overview, and Grok. BYOK, self-hosted, $0/month.
 
+- [Forge](https://forge-web.rebaselabs.online/)
+
+    AI-powered full-stack app creator that uses your own API key (BYOK). Supports OpenAI, Anthropic, and Google AI chat completions. Multi-stage pipeline: planning → architecture → code generation → verification. Generates SSR-first Next.js applications. Source code: [sudo-rebase/forge](https://github.com/sudo-rebase/forge)
+
 
 ## Desktop & Mobile Apps
 
