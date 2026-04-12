@@ -505,6 +505,10 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
     An OpenAI API reverse proxy that can be deployed on Cloudflare Workers and Vercel Edge.
     Helpful for bypassing network restrictions or IP rate limits.
 
+- [SBproxy](https://github.com/soapbucket/sbproxy)
+
+    AI gateway and reverse proxy that routes OpenAI-compatible requests across 103+ providers with failover, cost-based routing, rate limiting, and semantic caching.
+
 
 ### Articles
 
