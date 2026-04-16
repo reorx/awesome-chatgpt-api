@@ -505,6 +505,14 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
     An OpenAI API reverse proxy that can be deployed on Cloudflare Workers and Vercel Edge.
     Helpful for bypassing network restrictions or IP rate limits.
 
+- [Not Human Search](https://nothumansearch.ai)
+
+    Search engine for AI agent tools. Provides a REST API and MCP server for discovering 1,750+ agentic-ready services, enabling LLM-powered apps to find and integrate external tools programmatically.
+
+- [AI Dev Jobs](https://aidevboard.com)
+
+    AI/ML job board with REST API and MCP server. 5,500+ curated roles searchable by tag, salary, and location, designed for integration into AI-powered career tools and chatbots.
+
 
 ### Articles
 
