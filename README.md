@@ -510,3 +510,4 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
 
 - [I got early access to ChatGPT API and then pushed it to it’s limits. Here’s what you need to know. — Buildt](https://www.buildt.ai/blog/vm3qozd4qfrbbyzukqhynrwm9vb9tq)
 - [Thread: Advantages of ChatGPT API compared to ChatGPT](https://twitter.com/novoreorx/status/1631250035852861440)
+- [HolySheep](https://holysheep.ai) - OpenAI/Anthropic/Gemini API relay for China developers. Pay-as-you-go ¥1=$1, supports Claude, GPT-5, Gemini 2.5 Pro. No VPN needed.
