@@ -505,6 +505,10 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
     An OpenAI API reverse proxy that can be deployed on Cloudflare Workers and Vercel Edge.
     Helpful for bypassing network restrictions or IP rate limits.
 
+- [Text-Generator.io](https://text-generator.io/)
+
+    Unified text, vision, and speech API with privacy-first design and built-in tools. Compatible with ChatGPT API format for easy integration.
+
 
 ### Articles
 
