@@ -304,6 +304,10 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
 
     An Android application that helps you stay in touch by scheduling and automating SMS text messages (and calls and email) while leveraging ChatGPT for message generation.
 
+- [Onepilot](https://onepilotapp.com)
+
+    An iOS app that lets you SSH into remote servers to run Claude Code, Codex, and other CLI coding tools from your phone. Works with OpenAI and Anthropic APIs and includes a built-in terminal emulator.
+
 - [RewriteBar](https://rewritebar.com/)
 
     A MacOS app that allows you to rewrite text using the ChatGPT API. Select text in any app and choose one of the options in the RewriteBar to rewrite the selected text. You can create your own presets for specific workflows.

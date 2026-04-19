@@ -278,6 +278,10 @@
 
     这是一个Android应用程序，通过调度和自动发送SMS文本消息(以及电话和电子邮件)来帮助您保持联系，同时利用ChatGPT生成消息。
 
+- [Onepilot](https://onepilotapp.com)
+
+    一个iOS应用程序，通过SSH连接到远程服务器，可在手机上运行Claude Code、Codex等CLI编程工具。支持OpenAI和Anthropic API，内置终端模拟器。
+
 
 ## CLI
 
