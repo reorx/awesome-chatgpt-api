@@ -1,6 +1,6 @@
 # Awesome ChatGPT API
 
-> [中文](README.cn.md)
+> [涓枃](README.cn.md)
 
 Curated list of apps and tools that not only use the new [ChatGPT API](https://platform.openai.com/docs/api-reference/chat), but also allow users to configure their own [API keys](https://platform.openai.com/account/api-keys), enabling free and on-demand usage of their own quota.
 
@@ -42,7 +42,7 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
 
     - [Glarity](https://glarity.app/)
 
-         Summarize Google search results or YouTube videos with ChatGPT API, also supports Yahoo! ニュース、PubMed、PMC、NewsPicks、Github、Nikkei、 Bing、Google Patents. This extension also supports ChatGPT Webapp's API which requires no configuration.
+         Summarize Google search results or YouTube videos with ChatGPT API, also supports Yahoo! 銉嬨儱銉笺偣銆丳ubMed銆丳MC銆丯ewsPicks銆丟ithub銆丯ikkei銆?Bing銆丟oogle Patents. This extension also supports ChatGPT Webapp's API which requires no configuration.
 
     - [ChatGPT Sidebar](https://chatgpt-sidebar.com/)
 
@@ -56,7 +56,7 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
 
         A Chrome extension that uses the OpenAI API to translate text, with additional features like polishing and summarization.
 
-    - [ChatGPT » summarize everything!](https://chrome.google.com/webstore/detail/chatgpt-%C2%BB-summarize-every/cbgecfllfhmmnknmamkejadjmnmpfjmp)
+    - [ChatGPT 禄 summarize everything!](https://chrome.google.com/webstore/detail/chatgpt-%C2%BB-summarize-every/cbgecfllfhmmnknmamkejadjmnmpfjmp)
 
         A Chrome extension that summarizes any website with ChatGPT.
         Other features including summarizes the transcript of any Youtube Video and customizes template. This extension also supports ChatGPT Webapp's API which requires no configuration.
@@ -91,7 +91,7 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
 
 - [Popclip](https://pilotmoon.com/popclip/) Extensions
 
-    - [ChatGPT — PopClip Extensions](https://pilotmoon.com/popclip/extensions/page/ChatGPT)
+    - [ChatGPT 鈥?PopClip Extensions](https://pilotmoon.com/popclip/extensions/page/ChatGPT)
 
         Send the selected text to ChatGPT and append the response.
 
@@ -280,7 +280,7 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
 
 - [SpeakGPT](https://github.com/AndraxDev/speak-gpt)
 
-    A feature-rich Android ChatGPT client with Material Design 3, supporting GPT-4 Vision, DALL·E image generation, assistant mode, and a community prompts store. Allows users to configure their own API key.
+    A feature-rich Android ChatGPT client with Material Design 3, supporting GPT-4 Vision, DALL路E image generation, assistant mode, and a community prompts store. Allows users to configure their own API key.
 
 ### Special-purpose
 
@@ -411,11 +411,11 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
 
 - [fellow](https://github.com/ManuelZierl/fellow)
 
-    Fellow is an open-source command-line AI assistant built by developers, for developers. Unlike most AI tools that stop at suggesting code, Fellow goes a step further: It executes tasks on your behalf. It reasons step-by-step, chooses commands from a plugin system, and edits files, generates content, or writes tests — autonomously.
+    Fellow is an open-source command-line AI assistant built by developers, for developers. Unlike most AI tools that stop at suggesting code, Fellow goes a step further: It executes tasks on your behalf. It reasons step-by-step, chooses commands from a plugin system, and edits files, generates content, or writes tests 鈥?autonomously.
 
 - [Shep](https://github.com/shep-ai/cli)
 
-    A multi-session SDLC control center for AI coding agents that orchestrates the complete feature lifecycle — from requirements through testing to merged pull requests — using Claude Code, Cursor CLI, or Gemini, with configurable approval gates and a live web dashboard.
+    A multi-session SDLC control center for AI coding agents that orchestrates the complete feature lifecycle 鈥?from requirements through testing to merged pull requests 鈥?using Claude Code, Cursor CLI, or Gemini, with configurable approval gates and a live web dashboard.
 
 - [onWatch](https://github.com/onllm-dev/onwatch)
 
@@ -476,11 +476,11 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
 
 ### Tools
 
-- [LlamaIndex 🦙 \(GPT Index\)](https://github.com/jerryjliu/gpt_index)
+- [LlamaIndex 馃 \(GPT Index\)](https://github.com/jerryjliu/gpt_index)
 
     LlamaIndex (GPT Index) is a project that provides a central interface to connect your LLM's with external data. It has a set of data structures that allow you to index your data for various LLM tasks, and remove concerns over prompt size limitations.
 
-- [gptcache](https://github.com/zilliztech/gptcache) ⭐️
+- [gptcache](https://github.com/zilliztech/gptcache) 猸愶笍
 
     a powerful caching library that can be used to speed up and lower the cost of chat applications that rely on the LLM service. GPT Cache works as a memcache for AIGC applications, similar to how Redis works for traditional applications.
 
@@ -505,8 +505,13 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
     An OpenAI API reverse proxy that can be deployed on Cloudflare Workers and Vercel Edge.
     Helpful for bypassing network restrictions or IP rate limits.
 
+- [CPMS](https://github.com/creditai/Coding-Plan-Monitoring-System)
+
+    Open-source desktop app that monitors AI API balance in real-time across GLM, MiniMax, and DeepSeek with glassmorphism floating widget, consumption rate tracking, and quota exhaustion prediction. Built with Tauri 2 + React + Rust.
+
 
 ### Articles
 
-- [I got early access to ChatGPT API and then pushed it to it’s limits. Here’s what you need to know. — Buildt](https://www.buildt.ai/blog/vm3qozd4qfrbbyzukqhynrwm9vb9tq)
+- [I got early access to ChatGPT API and then pushed it to it鈥檚 limits. Here鈥檚 what you need to know. 鈥?Buildt](https://www.buildt.ai/blog/vm3qozd4qfrbbyzukqhynrwm9vb9tq)
 - [Thread: Advantages of ChatGPT API compared to ChatGPT](https://twitter.com/novoreorx/status/1631250035852861440)
+
