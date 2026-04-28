@@ -500,6 +500,14 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
 
     Calculate how much it will cost to generate certain number of words by using OpenAI GPT-3.5 API.
 
+- [distill-json](https://github.com/karthyick/DISTILL)
+
+    Lossless JSON compression for ChatGPT/OpenAI API payloads. Reduces tokens 60-85% on bulk repeated records via schema extraction, dictionary encoding, and equivalence partitioning. Drop-in replacement for `json.dumps()` — output stays human-and-LLM-readable. `pip install distill-json`.
+
+- [semantic-llm-cache](https://github.com/karthyick/prompt-cache)
+
+    Decorator-based semantic caching for ChatGPT/OpenAI API calls. Wrap any LLM call with `@semantic_cache` and skip 20-40% of API calls when prompts are semantically similar. Lightweight Python alternative to GPTCache. `pip install semantic-llm-cache`.
+
 - [OpenAI proxy](https://github.com/egoist/openai-proxy)
 
     An OpenAI API reverse proxy that can be deployed on Cloudflare Workers and Vercel Edge.
