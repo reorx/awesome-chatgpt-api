@@ -505,6 +505,10 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
     An OpenAI API reverse proxy that can be deployed on Cloudflare Workers and Vercel Edge.
     Helpful for bypassing network restrictions or IP rate limits.
 
+- [@promptunit/sdk](https://github.com/promptunit/sdk)
+
+    A drop-in OpenAI client for Node.js/TypeScript that proxies calls through PromptUnit's routing engine, automatically selecting cheaper models with built-in failover. 40-70% cost reduction with zero code changes in your application.
+
 
 ### Articles
 
