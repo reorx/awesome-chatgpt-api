@@ -254,6 +254,8 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
 
     A native desktop ChatGPT client that utilizes your own API key, providing a faster and enhanced chat experience.
 
+- [OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor-frontend) — AI monitoring dashboard for AI agents and LLMs (Vue3 + Node.js, open source). [![Dashboard](https://raw.githubusercontent.com/flik2002/openclaw-monitor-frontend/main/Openclaw%20Monitor.jpg)](https://github.com/flik2002/openclaw-monitor-frontend)
+
 - [MacGPT](https://www.macgpt.com/)
 
     A native desktop ChatGPT app, with features like access ChatGPT from anywhere on your Mac with the Global, bring ChatGPT directly into your textfields with MacGPT Inline, and quickly access chatGPT from your menu bar.
