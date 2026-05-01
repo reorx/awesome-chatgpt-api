@@ -454,6 +454,10 @@
     OpenAI API反向代理，可以部署在Cloudflare Workers和Vercel Edge上。有助于绕过网络限制或IP速率限制。.
 
 
+- [@promptunit/sdk](https://github.com/promptunit/sdk)
+
+    一个适用于 Node.js/TypeScript 的无缝替换 OpenAI 客户端，通过 PromptUnit 的路由引擎代理调用，自动选择更便宜的模型并内置故障转移机制。在无需更改代码的情况下可降低 40-70% 的成本。
+
 ### 文章
 
 - [I got early access to ChatGPT API and then pushed it to it’s limits. Here’s what you need to know. — Buildt](https://www.buildt.ai/blog/vm3qozd4qfrbbyzukqhynrwm9vb9tq)
