@@ -505,6 +505,10 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
     An OpenAI API reverse proxy that can be deployed on Cloudflare Workers and Vercel Edge.
     Helpful for bypassing network restrictions or IP rate limits.
 
+- [AI Fast Club](https://www.aifast.club)
+
+    AI API relay service supporting Claude 4.7, GPT-5.5, Gemini 3 and more. Domestic Chinese payment accepted, no overseas card needed.
+
 
 ### Articles
 

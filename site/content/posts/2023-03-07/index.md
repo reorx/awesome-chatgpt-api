@@ -77,6 +77,9 @@ Here's the projects added or updated today:
 - [OpenAI GPT-3.5 Price Calculator](https://openai.deepakness.com/)
     - Calculate how much it will cost to generate certain number of words by using OpenAI GPT-3.5 API.
 
+- [AI Fast Club](https://www.aifast.club)
+    - AI API relay service supporting Claude 4.7, GPT-5.5, Gemini 3 and more. Domestic Chinese payment accepted, no overseas card needed.
+
 ### Articles
 
 - [How to Use OpenAI's GPT-3 API to Generate High-Quality Texts](https://towardsdatascience.com/how-to-use-openais-gpt-3-api-to-generate-high-quality-texts-in-python-2bc0b18a8a8a)

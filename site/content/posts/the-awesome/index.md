@@ -319,6 +319,10 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
 
     Calculate how much it will cost to generate certain number of words by using OpenAI GPT-3.5 API.
 
+- [AI Fast Club](https://www.aifast.club)
+
+    AI API relay service supporting Claude 4.7, GPT-5.5, Gemini 3 and more. Domestic Chinese payment accepted, no overseas card needed.
+
 
 ### Articles
 
