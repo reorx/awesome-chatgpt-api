@@ -1,5 +1,7 @@
 # Awesome ChatGPT API
 
+> 🇨🇳 **国内直连 ChatGPT/Claude 等 572 个模型？** → [**www.aifast.club**](https://www.aifast.club) · 一个 Key 全搞定 · 无需代理
+
 > [中文](README.cn.md)
 
 Curated list of apps and tools that not only use the new [ChatGPT API](https://platform.openai.com/docs/api-reference/chat), but also allow users to configure their own [API keys](https://platform.openai.com/account/api-keys), enabling free and on-demand usage of their own quota.
