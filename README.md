@@ -475,6 +475,7 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
 
 
 ### Tools
+- [Qonspekt](https://github.com/Qonspekt/qonspekt) - Article to atomic Obsidian notes via Claude AI. BYOK, single HTML file. [Live](https://qonspekt.github.io/qonspekt/)
 
 - [LlamaIndex 🦙 \(GPT Index\)](https://github.com/jerryjliu/gpt_index)
 
