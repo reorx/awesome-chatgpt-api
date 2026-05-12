@@ -163,6 +163,10 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
 
 ### ChatGPT-like UI
 
+- [Ano.chat](https://ano.chat/)
+
+    Ano is a team chat with Claude Code built in. It's an alternative to Slack for AI-native teams.
+
 - [ChatKit](https://chatkit.app/)
 
     A lightweight ChatGPT Web UI that allows setting URLs as context for conversations.
