@@ -1,5 +1,7 @@
 # Awesome ChatGPT API
 
+> 🇨🇳 **国内直连 ChatGPT/Claude 等 572 个模型？** → [**www.aifast.club**](https://www.aifast.club) · 一个 Key 全搞定 · 无需代理
+
 > [中文](README.cn.md)
 
 Curated list of apps and tools that not only use the new [ChatGPT API](https://platform.openai.com/docs/api-reference/chat), but also allow users to configure their own [API keys](https://platform.openai.com/account/api-keys), enabling free and on-demand usage of their own quota.
@@ -505,8 +507,15 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
     An OpenAI API reverse proxy that can be deployed on Cloudflare Workers and Vercel Edge.
     Helpful for bypassing network restrictions or IP rate limits.
 
+- [AI Fast Club](https://www.aifast.club)
+
+    AI API relay service supporting Claude 4.7, GPT-5.5, Gemini 3 and more. Domestic Chinese payment accepted, no overseas card needed.
+
 
 ### Articles
 
 - [I got early access to ChatGPT API and then pushed it to it’s limits. Here’s what you need to know. — Buildt](https://www.buildt.ai/blog/vm3qozd4qfrbbyzukqhynrwm9vb9tq)
 - [Thread: Advantages of ChatGPT API compared to ChatGPT](https://twitter.com/novoreorx/status/1631250035852861440)
+
+---
+*🚀 国内开发者 AI API 直连方案：[www.aifast.club](https://www.aifast.club) · 572 个模型一站接入 · [🤖 OpenClaw 一键部署 AI 智能体](https://www.aifast.club/openclaw)*
