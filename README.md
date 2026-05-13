@@ -505,6 +505,10 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
     An OpenAI API reverse proxy that can be deployed on Cloudflare Workers and Vercel Edge.
     Helpful for bypassing network restrictions or IP rate limits.
 
+- [Dakera](https://github.com/dakera-ai/dakera-mcp)
+
+    Self-hosted persistent memory server for LLM API workflows. Provides MCP-native storage with decay-weighted retrieval, HNSW vector search, and multi-agent namespacing — giving your API integrations durable, structured memory across sessions.
+
 
 ### Articles
 
