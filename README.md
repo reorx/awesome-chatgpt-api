@@ -505,6 +505,14 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
     An OpenAI API reverse proxy that can be deployed on Cloudflare Workers and Vercel Edge.
     Helpful for bypassing network restrictions or IP rate limits.
 
+- [traceAI](https://github.com/future-agi/traceAI)
+
+    Open-source OpenTelemetry-native tracing framework for LLM and AI agent applications. Auto-instruments 20+ frameworks (OpenAI, Anthropic, LangChain, LlamaIndex, CrewAI, Bedrock) capturing prompts, tokens, latency, and errors out of the box.
+
+- [ai-evaluation](https://github.com/future-agi/ai-evaluation)
+
+    Open-source LLM evaluation framework with 50+ metrics, LLM-as-Judge, guardrail scanners (jailbreak, PII, injection), and AutoEval pipelines with CI/CD support.
+
 
 ### Articles
 
