@@ -505,11 +505,9 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
     An OpenAI API reverse proxy that can be deployed on Cloudflare Workers and Vercel Edge.
     Helpful for bypassing network restrictions or IP rate limits.
 
-
-
 - [byok-relay](https://github.com/avikalpg/byok-relay)
 
-    A self-hosted (or managed) relay that lets frontend apps use user-supplied AI API keys — no CORS issues, no exposed keys, no inference bill for the developer. Users register their own Anthropic, OpenAI, Google, Groq, OpenRouter, or Mistral key once; the relay stores it encrypted (AES-256-GCM) and proxies all subsequent requests server-side with SSE streaming support.
+    A self-hosted (or managed) relay that lets frontend apps use user-supplied AI API keys — no CORS issues, no exposed keys, no inference bill for the developer. Users configure their own Anthropic, OpenAI, Google, Groq, OpenRouter, or Mistral key once; the relay stores it encrypted (AES-256-GCM) and proxies all subsequent requests server-side with SSE streaming support.
 
 ### Articles
 

@@ -453,6 +453,9 @@
 
     OpenAI API反向代理，可以部署在Cloudflare Workers和Vercel Edge上。有助于绕过网络限制或IP速率限制。.
 
+- [byok-relay](https://github.com/avikalpg/byok-relay)
+
+    一个自托管（或托管）的中继，允许前端应用使用用户提供的 AI API 密钥 —— 无 CORS 问题，无密钥泄露，开发者无需承担推理费用。用户只需配置一次其 Anthropic、OpenAI、Google、Groq、OpenRouter 或 Mistral 密钥；中继将其加密存储 (AES-256-GCM)，并支持 SSE 流式传输，在服务端代理所有后续请求。
 
 ### 文章
 
