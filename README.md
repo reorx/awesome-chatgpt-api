@@ -196,6 +196,7 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
     A ChatGPT web app demo built with Astro and TypeScript.
 
     Related project: [ChatGPT-Vercel](https://github.com/ourongxing/chatgpt-vercel) is another ChatGPT web app based on ddiu8081/chatgpt-demo, specifically made for deploying on Vercel.
+- [Ano](https://ano.chat/) - High-performance developer-focused team chat and workspace that combines real-time messaging, a native in-app terminal, and integrated AI (like Claude Code). Supports custom keys.
 
 
 ### Special-purpose
