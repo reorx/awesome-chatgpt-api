@@ -445,9 +445,9 @@
 
     ChatGPT Wrapper是一个开源的非官方的Power CLI, Python API和Flask API，允许您以编程方式与ChatGPT/GPT4进行交互。支持几种不同的后端连接到ChatGPT模型，包括基于浏览器和基于rest的选项。
 
-- [OpenAI GPT-3.5 Price Calculator](https://openai.deepakness.com/)
+- [AI Models Catalog](https://github.com/i-need-token/ai-models)
 
-    计算使用OpenAI GPT-3.5 API生成一定数量的单词需要花费多少。
+    结构化的AI模型YAML目录，涵盖各供应商的定价、上下文窗口和能力信息。包含交互式目录、价格计算器、模型选择器和对比功能。提供JSON、CSV、npm包和GitHub Action等多种格式。
 
 - [OpenAI proxy](https://github.com/egoist/openai-proxy)
 

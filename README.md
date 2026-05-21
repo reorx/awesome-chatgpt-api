@@ -496,9 +496,9 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
 
     ChatGPT Wrapper is an open-source unofficial Power CLI, Python API and Flask API that lets you interact programmatically with ChatGPT/GPT4. Several different backends are supported to connect to the ChatGPT models, including browser-based and REST-based options.
 
-- [OpenAI GPT-3.5 Price Calculator](https://openai.deepakness.com/)
+- [AI Models Catalog](https://github.com/i-need-token/ai-models)
 
-    Calculate how much it will cost to generate certain number of words by using OpenAI GPT-3.5 API.
+    Structured YAML catalog of AI models across providers with pricing, context windows, and capabilities. Includes an interactive catalog with price calculator, model picker, and side-by-side comparison. Available as JSON, CSV, npm package, and GitHub Action.
 
 - [OpenAI proxy](https://github.com/egoist/openai-proxy)
 
