@@ -476,6 +476,10 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
 
 ### Tools
 
+- [A3M Router](https://github.com/Das-rebel/a3m-router)
+
+    Open-source LLM router with parallel multi-LLM execution across 47+ providers. Confidence-scored routing, not sequential fallback. 62% cost savings with 99.5% routing accuracy. 19.5 KB CLI, zero ML dependencies. `npm install -g adaptive-memory-multi-model-router`
+
 - [LlamaIndex 🦙 \(GPT Index\)](https://github.com/jerryjliu/gpt_index)
 
     LlamaIndex (GPT Index) is a project that provides a central interface to connect your LLM's with external data. It has a set of data structures that allow you to index your data for various LLM tasks, and remove concerns over prompt size limitations.
