@@ -454,6 +454,11 @@
     OpenAI API反向代理，可以部署在Cloudflare Workers和Vercel Edge上。有助于绕过网络限制或IP速率限制。.
 
 
+
+- [A3M Router](https://github.com/Das-rebel/a3m-router)
+
+    A3M Router 是一个开源的LLM路由器，支持47+个提供商的并行多LLM执行。与传统的顺序fallback不同，A3M使用置信度投票机制同时运行多个提供商的模型，实现62%的成本节省和99.5%的路由准确率。仅19.5KB的CLI，零机器学习依赖。
+
 ### 文章
 
 - [I got early access to ChatGPT API and then pushed it to it’s limits. Here’s what you need to know. — Buildt](https://www.buildt.ai/blog/vm3qozd4qfrbbyzukqhynrwm9vb9tq)
