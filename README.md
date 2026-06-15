@@ -505,6 +505,10 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
     An OpenAI API reverse proxy that can be deployed on Cloudflare Workers and Vercel Edge.
     Helpful for bypassing network restrictions or IP rate limits.
 
+- [AI Relay](https://github.com/MoyuFamily/ai-relay)
+
+    Serverless AI API gateway that supports OpenAI, Claude, DeepSeek, and custom providers. One-click deploy to Vercel or auto-deploy to Cloudflare Pages via GitHub Actions. Features multi-provider routing, API key rotation, and no server/Docker required.
+
 
 ### Articles
 
