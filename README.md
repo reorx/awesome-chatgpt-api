@@ -505,6 +505,10 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
     An OpenAI API reverse proxy that can be deployed on Cloudflare Workers and Vercel Edge.
     Helpful for bypassing network restrictions or IP rate limits.
 
+- [Superhighway](https://superhighway.walls.sh)
+
+    Web search API for ChatGPT/OpenAI apps: search, news, images, scrape, and research endpoints. Plug live web results into your GPT app via OpenAI function calling ([guide](https://superhighway.walls.sh/guides/web-search-openai-function-calling)). Auth with a free API key (1k requests/month) or x402 USDC pay-per-call.
+
 
 ### Articles
 
