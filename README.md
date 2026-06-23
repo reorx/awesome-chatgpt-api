@@ -505,6 +505,10 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
     An OpenAI API reverse proxy that can be deployed on Cloudflare Workers and Vercel Edge.
     Helpful for bypassing network restrictions or IP rate limits.
 
+- [UnoRouter](https://unorouter.com)
+
+    An OpenAI-compatible LLM gateway. Point any OpenAI SDK at one base URL with a single API key and reach 200+ models across providers (OpenAI, Anthropic, Google and more); drop-in for coding agents like Claude Code, Cline and Codex. Usage-based pricing with a free tier.
+
 
 ### Articles
 
