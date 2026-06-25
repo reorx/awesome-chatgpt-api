@@ -505,6 +505,10 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
     An OpenAI API reverse proxy that can be deployed on Cloudflare Workers and Vercel Edge.
     Helpful for bypassing network restrictions or IP rate limits.
 
+- [aijsonmedic](https://aijsonmedic.com/)
+
+    AI-powered JSON repair tool for fixing malformed ChatGPT/Claude API responses. Handles trailing commas, unquoted keys, truncated arrays, and Python boolean literals.
+
 
 ### Articles
 
