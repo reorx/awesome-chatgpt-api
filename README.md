@@ -164,6 +164,7 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
 ### ChatGPT-like UI
 
 - [ChatKit](https://chatkit.app/)
+- [Auferet](https://auferet.com) - AI game master with persistent memory for your characters and uploaded lore; solo or multiplayer, with 5e and Pathfinder 2e modes.
 
     A lightweight ChatGPT Web UI that allows setting URLs as context for conversations.
 
