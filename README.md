@@ -476,6 +476,10 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
 
 ### Tools
 
+- [ModelPriceWatch](https://modelpricewatch.com/)
+
+    Live pricing tracker for 150+ LLM APIs across 24 providers, showing input/output $/Mtok side by side and auto-updating from provider pricing pages. Handy for picking the cheapest model when you run on your own API key.
+
 - [LlamaIndex 🦙 \(GPT Index\)](https://github.com/jerryjliu/gpt_index)
 
     LlamaIndex (GPT Index) is a project that provides a central interface to connect your LLM's with external data. It has a set of data structures that allow you to index your data for various LLM tasks, and remove concerns over prompt size limitations.

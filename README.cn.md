@@ -425,6 +425,10 @@
 
 ### 工具
 
+- [ModelPriceWatch](https://modelpricewatch.com/)
+
+    实时追踪 24 家提供商、150+ 个 LLM API 的价格，并排显示输入/输出每百万 tokens 的费用，并自动从各家定价页更新，因此不会过时。当你使用自己的 API key 时，方便挑选性价比最高的模型。
+
 - [LlamaIndex 🦙 \(GPT Index\)](https://github.com/jerryjliu/gpt_index)
 
     LlamaIndex (GPT Index)是一个项目，它提供了一个中央接口来连接您的LLM与外部数据。它有一组数据结构，允许您为各种LLM任务索引数据，并消除对提示大小限制的担忧。
