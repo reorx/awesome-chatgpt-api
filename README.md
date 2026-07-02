@@ -209,6 +209,10 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
 
     ChatPDF is an innovative tool that allows users to verbally communicate with their PDF files, making it easier to extract information from large documents such as manuals, legal contracts, and research papers.
 
+- [GPT for Sheets](https://docgpt.ai/gpt-for-sheets)
+
+    AI add-on for using ChatGPT, Claude, Gemini, OpenRouter, and other models inside Google Sheets for formulas, enrichment, and bulk spreadsheet workflows. Supports connecting your own provider API keys.
+
 - [OpenAI Translator](https://translator.lance.moe/)
 
     A translator app that uses OpenAI GPT-3 to translate between languages. It is a PWA that can be installed on your phone or desktop. Source code: [LanceMoe/openai-translator](https://github.com/LanceMoe/openai-translator)
