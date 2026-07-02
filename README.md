@@ -505,9 +505,12 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
     An OpenAI API reverse proxy that can be deployed on Cloudflare Workers and Vercel Edge.
     Helpful for bypassing network restrictions or IP rate limits.
 
+- [AI Token Hub](https://aitoken-hub.github.io/aitoken-hub/)
+
+    Access 200+ AI models through a single API key, including DeepSeek, Qwen, Llama. OpenAI-compatible format with pay-as-you-go pricing.
+
 
 ### Articles
 
 - [I got early access to ChatGPT API and then pushed it to it’s limits. Here’s what you need to know. — Buildt](https://www.buildt.ai/blog/vm3qozd4qfrbbyzukqhynrwm9vb9tq)
 - [Thread: Advantages of ChatGPT API compared to ChatGPT](https://twitter.com/novoreorx/status/1631250035852861440)
-- [AI Token Hub](https://aitoken-hub.github.io/aitoken-hub/) - Access 200+ AI models through a single API key, including DeepSeek, Qwen, Llama. OpenAI-compatible format with pay-as-you-go pricing.
