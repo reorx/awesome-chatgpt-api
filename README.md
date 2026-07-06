@@ -505,6 +505,9 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
     An OpenAI API reverse proxy that can be deployed on Cloudflare Workers and Vercel Edge.
     Helpful for bypassing network restrictions or IP rate limits.
 
+- [ofox](https://ofox.ai/)
+
+    A unified API gateway to 100+ LLMs through a single key, compatible with the OpenAI, Anthropic, and Gemini protocols at official provider pricing.
 
 ### Articles
 
