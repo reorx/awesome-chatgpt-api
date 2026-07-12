@@ -1,6 +1,6 @@
 # Awesome ChatGPT API
 
-> **OpenAI SDK 兼容接入：** 本列表中支持自定义 API Key/Base URL 的项目，可参考 [www.aifast.club](https://www.aifast.club) 进行统一配置。
+> **OpenAI SDK 兼容接入：** 本列表中支持自定义 API Key/Base URL 的项目，可参考 [配置指南](https://github.com/KKWANG4444/ai-api-proxy-china-guide)，并用 [www.aifast.club](https://www.aifast.club) 的兼容端点测试。
 
 > [中文](README.cn.md)
 
@@ -518,4 +518,4 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
 - [Thread: Advantages of ChatGPT API compared to ChatGPT](https://twitter.com/novoreorx/status/1631250035852861440)
 
 ---
-*API 接入参考：[www.aifast.club](https://www.aifast.club) · [配置指南](https://github.com/KKWANG4444/ai-api-proxy-china-guide)*
+*接入参考：[OpenAI 兼容配置指南](https://github.com/KKWANG4444/ai-api-proxy-china-guide) · [模型状态](https://kkwang4444.github.io/api-status/) · [示例端点](https://www.aifast.club)*
