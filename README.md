@@ -1,6 +1,6 @@
 # Awesome ChatGPT API
 
-> 🇨🇳 **国内直连 ChatGPT/Claude 等 572 个模型？** → [**www.aifast.club**](https://www.aifast.club) · 一个 Key 全搞定 · 无需代理
+> **OpenAI SDK 兼容接入：** 本列表中支持自定义 API Key/Base URL 的项目，可参考 [www.aifast.club](https://www.aifast.club) 进行统一配置。
 
 > [中文](README.cn.md)
 
@@ -518,4 +518,4 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
 - [Thread: Advantages of ChatGPT API compared to ChatGPT](https://twitter.com/novoreorx/status/1631250035852861440)
 
 ---
-*🚀 国内开发者 AI API 直连方案：[www.aifast.club](https://www.aifast.club) · 572 个模型一站接入 · [🤖 OpenClaw 一键部署 AI 智能体](https://www.aifast.club/openclaw)*
+*API 接入参考：[www.aifast.club](https://www.aifast.club) · [配置指南](https://github.com/KKWANG4444/ai-api-proxy-china-guide)*
