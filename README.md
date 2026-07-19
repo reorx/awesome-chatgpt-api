@@ -505,6 +505,10 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
     An OpenAI API reverse proxy that can be deployed on Cloudflare Workers and Vercel Edge.
     Helpful for bypassing network restrictions or IP rate limits.
 
+- [DaoXE](https://daoxe.com/?utm_source=github&utm_medium=organic&utm_campaign=awesome_chatgpt_api)
+
+    An OpenAI-compatible, multi-model, multi-protocol API gateway. Point any OpenAI SDK or client at `https://daoxe.com/v1` with your own key to reach Claude, GPT, Gemini, DeepSeek and more; it also speaks the OpenAI Responses and Anthropic Messages (Claude) protocols. Useful when the official API is hard to reach or pay for in your region. Open examples, Postman collection, and a low-cost benchmark: [seven7763/DaoXE-AI](https://github.com/seven7763/DaoXE-AI).
+
 
 ### Articles
 
