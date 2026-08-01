@@ -161,6 +161,13 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
 ## Web Apps
 
 
+
+### Decision Making
+
+- [DAUDIT](https://www.daudit.net)
+
+    A decision-context engine that uses LLMs to audit your thinking across five dimensions (World Model Gaps, Adversarial Risk, Theory of Mind, Decision State, Confidence vs Evidence) before you commit to irreversible decisions.
+
 ### ChatGPT-like UI
 
 - [ChatKit](https://chatkit.app/)
