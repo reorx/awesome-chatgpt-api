@@ -282,6 +282,10 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
 
     A feature-rich Android ChatGPT client with Material Design 3, supporting GPT-4 Vision, DALL·E image generation, assistant mode, and a community prompts store. Allows users to configure their own API key.
 
+- [Scowld](https://scowld.xyz/)
+
+    A native iPhone and iPad AI voice companion with animated characters, optional vision, saved conversations, and bring-your-own-key support for OpenAI and other providers. Source code: [apoorvdarshan/scowld](https://github.com/apoorvdarshan/scowld)
+
 ### Special-purpose
 
 - [ChatGPT Translator](https://github.com/simpleapples/chatgpt-translator)
