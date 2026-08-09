@@ -240,6 +240,10 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
 
     Open-source, local-first AI visibility dashboard. Track brand mentions across ChatGPT, Perplexity, Gemini, Copilot, Google AI Overview, and Grok. BYOK, self-hosted, $0/month.
 
+- [ThoughtDAG](https://github.com/chenxiachan/thoughtdag) <img src="https://img.shields.io/badge/-self--hosted-1adc61" />
+
+    A local-first visual LLM workspace where graph edges determine which upstream conversation and document nodes enter the next model request. Supports OpenAI-compatible endpoints and user-provided API keys.
+
 
 ## Desktop & Mobile Apps
 
