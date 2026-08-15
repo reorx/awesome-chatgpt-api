@@ -228,6 +228,10 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
 
     Specialized ChatGPT application for scientific research work, optimized for academic paper proofreading experience, supports custom shortcut buttons, supports markdown table display, Tex formula dual display, improved code display function, added local Python project analysis/self-analysis function.
 
+- [Emu](https://image.tinchak0207.xyz)
+
+    Online GPT Image 2 & Nano Banana Pro image generator - sign in, type a prompt, download. No relay setup or API key required. Offers OpenAI-compatible generation API and MCP integration.
+
 - [AI Subtitle Translator](https://ai.cgsv.top/)
 
     Translate local or Youtube/Bilibili subtitle using GPT-3.5 API. Source Code: [AI Subtitle](https://github.com/cgsvv/AISubtitle)
