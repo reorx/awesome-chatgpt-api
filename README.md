@@ -311,6 +311,10 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
 
 ## CLI
 
+- [Persona](https://github.com/jayamitkatariya/personacli)
+
+    Local-first personal workspace: notes and tasks stored as plain Markdown on your machine, with an AI chat grounded in your own files. One command starts a local web UI.
+
 - [ShellGPT](https://github.com/TheR1D/shell_gpt)
 
     A command-line productivity tool powered by ChatGPT. Features include generate shell commands, code snippets, comments, and documentation.
