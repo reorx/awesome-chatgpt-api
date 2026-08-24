@@ -476,6 +476,10 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
 
 ### Tools
 
+- [TeamoRouter](https://teamorouter.cn?utm_source=github&utm_medium=awesome-list&utm_campaign=tools)
+
+    TeamoRouter is an LLM gateway that aggregates Claude, GPT, Gemini & DeepSeek under one OpenAI-compatible API — unified routing, per-key billing, and auditable cost control for apps and tools.
+
 - [LlamaIndex 🦙 \(GPT Index\)](https://github.com/jerryjliu/gpt_index)
 
     LlamaIndex (GPT Index) is a project that provides a central interface to connect your LLM's with external data. It has a set of data structures that allow you to index your data for various LLM tasks, and remove concerns over prompt size limitations.
