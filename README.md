@@ -421,6 +421,10 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
 
     Open-source Go CLI that tracks AI API quota usage across 6 providers: OpenAI, Anthropic, GitHub Copilot, Synthetic, Z.ai, and Antigravity. Runs as a background daemon with <50MB RAM, stores data locally in SQLite with zero telemetry, and includes a Material Design 3 web dashboard.
 
+- [FutureOS](https://github.com/futuregene/future-os)
+
+    One AI agent everywhere you work: a single Rust gRPC backend drives a terminal UI, desktop app, mobile apps, CLI, and Feishu/DingTalk IM bots with the same sessions, memory, and skills. Trust-first approval-gated tools, 3,800+ models across 140+ providers, and a loop control plane for 24h+ runs.
+
 ## Chatbots
 
 - Telegram
