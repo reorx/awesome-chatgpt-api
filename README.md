@@ -506,6 +506,10 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
     Helpful for bypassing network restrictions or IP rate limits.
 
 
+- [LuckyAPI](https://argolink.io/en?utm_source=github&utm_medium=resource-list&utm_campaign=gh-reorx-awesome-chatgpt-api-pr&utm_content=readme-en)
+
+    A unified AI API gateway with OpenAI-compatible Chat Completions and Responses, Anthropic Messages, and Gemini-compatible model discovery through one account, plus a public model and pricing catalog.
+
 ### Articles
 
 - [I got early access to ChatGPT API and then pushed it to it’s limits. Here’s what you need to know. — Buildt](https://www.buildt.ai/blog/vm3qozd4qfrbbyzukqhynrwm9vb9tq)
