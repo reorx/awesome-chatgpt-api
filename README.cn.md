@@ -454,7 +454,7 @@
     OpenAI API反向代理，可以部署在Cloudflare Workers和Vercel Edge上。有助于绕过网络限制或IP速率限制。.
 
 
-- [LuckyAPI](https://luckyapi.online/zh-cn?utm_source=github&utm_medium=resource-list&utm_campaign=gh-reorx-awesome-chatgpt-api-pr&utm_content=readme-cn)
+- [LuckyAPI](https://argolink.io/zh-cn?utm_source=github&utm_medium=resource-list&utm_campaign=gh-reorx-awesome-chatgpt-api-pr&utm_content=readme-cn)
 
     统一的 AI API 网关，通过一个账户提供 OpenAI 兼容的 Chat Completions/Responses、Anthropic Messages 与 Gemini 兼容模型发现，并公开模型与价格目录。
 
