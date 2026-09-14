@@ -239,6 +239,9 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
 - [GEO/AEO Tracker](https://github.com/danishashko/geo-aeo-tracker)
 
     Open-source, local-first AI visibility dashboard. Track brand mentions across ChatGPT, Perplexity, Gemini, Copilot, Google AI Overview, and Grok. BYOK, self-hosted, $0/month.
+- [Open Tavern](https://open-tavern.vercel.app/)
+
+    A roleplay site where you create AI characters and play as them. Bring your own OpenAI-compatible API endpoint and key (entered in site settings; Ollama compat included) — no account, no bundled model.
 
 
 ## Desktop & Mobile Apps
