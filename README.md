@@ -501,6 +501,8 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
     Calculate how much it will cost to generate certain number of words by using OpenAI GPT-3.5 API.
 
 - [OpenAI proxy](https://github.com/egoist/openai-proxy)
+- [HostDeFi](https://hostdefi.com) - Free token-safety REST API — keyless, 100 checks/day per IP; A+–F grades for tokens on Solana and 7 EVM chains. [OpenAPI](https://hostdefi.com/openapi.json)
+
 
     An OpenAI API reverse proxy that can be deployed on Cloudflare Workers and Vercel Edge.
     Helpful for bypassing network restrictions or IP rate limits.
