@@ -506,6 +506,10 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
     Helpful for bypassing network restrictions or IP rate limits.
 
 
+- [Lanbuff API Guide (蓝博API 接入指南)](https://github.com/hope0719/lanbuff-api-guide)
+
+    Integration guide & client configuration collection for the Lanbuff API relay (lanbuff.app): OpenAI/Anthropic/Gemini-compatible base URLs, setup docs for NextChat / LobeChat / ChatBox / Claude Code / Gemini CLI, and runnable curl / Python / Node examples.
+
 ### Articles
 
 - [I got early access to ChatGPT API and then pushed it to it’s limits. Here’s what you need to know. — Buildt](https://www.buildt.ai/blog/vm3qozd4qfrbbyzukqhynrwm9vb9tq)
