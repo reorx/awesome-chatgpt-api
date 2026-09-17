@@ -308,6 +308,10 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
 
     A MacOS app that allows you to rewrite text using the ChatGPT API. Select text in any app and choose one of the options in the RewriteBar to rewrite the selected text. You can create your own presets for specific workflows.
 
+- [Orkas](https://github.com/Orkas-AI/Orkas)
+
+    Open-source, local-first desktop AI workforce coordinated by a Commander through one chat. Supports user-supplied OpenAI keys and specialist-agent workflows.
+
 
 ## CLI
 
