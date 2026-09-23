@@ -163,6 +163,7 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
 
 ### ChatGPT-like UI
 
+- [MagicKit](https://kaketiti.github.io) - Free AI tools collection - 66+ tools, zero registration, zero API key required
 - [ChatKit](https://chatkit.app/)
 
     A lightweight ChatGPT Web UI that allows setting URLs as context for conversations.
