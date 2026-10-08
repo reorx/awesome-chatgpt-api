@@ -505,6 +505,10 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
     An OpenAI API reverse proxy that can be deployed on Cloudflare Workers and Vercel Edge.
     Helpful for bypassing network restrictions or IP rate limits.
 
+- [AIFast](https://www.aifast.hk)
+
+    OpenAI-compatible AI API gateway with access to 500+ global and Chinese models, including Claude, GPT, Gemini, DeepSeek, and Qwen.
+
 
 ### Articles
 
