@@ -308,6 +308,10 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
 
     A MacOS app that allows you to rewrite text using the ChatGPT API. Select text in any app and choose one of the options in the RewriteBar to rewrite the selected text. You can create your own presets for specific workflows.
 
+- [Creatos](https://creatos.io/)
+
+    A desktop canvas for macOS and Windows. PDFs, web pages, YouTube videos and notes sit on one canvas as nodes, and you pick which nodes go into a question for GPT through the ChatGPT API with your own OpenAI key (Claude, Gemini and local Ollama models are also supported). Commercial license.
+
 
 ## CLI
 
