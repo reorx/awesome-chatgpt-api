@@ -458,3 +458,4 @@
 
 - [I got early access to ChatGPT API and then pushed it to it’s limits. Here’s what you need to know. — Buildt](https://www.buildt.ai/blog/vm3qozd4qfrbbyzukqhynrwm9vb9tq)
 - [Thread: Advantages of ChatGPT API compared to ChatGPT](https://twitter.com/novoreorx/status/1631250035852861440)
+- [OpenAI 兼容 API 接入指南：Cursor / Claude Code / Cline / NextChat / Cherry Studio 配置手册（中英双语）](https://github.com/godup233-hash/openai-compatible-api-guide)

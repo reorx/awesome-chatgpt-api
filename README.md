@@ -510,3 +510,4 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
 
 - [I got early access to ChatGPT API and then pushed it to it’s limits. Here’s what you need to know. — Buildt](https://www.buildt.ai/blog/vm3qozd4qfrbbyzukqhynrwm9vb9tq)
 - [Thread: Advantages of ChatGPT API compared to ChatGPT](https://twitter.com/novoreorx/status/1631250035852861440)
+- [OpenAI-compatible API setup guide for Cursor, Claude Code, Cline, NextChat and Cherry Studio (bilingual CN/EN)](https://github.com/godup233-hash/openai-compatible-api-guide)
