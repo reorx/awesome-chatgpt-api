@@ -61,6 +61,10 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
         A Chrome extension that summarizes any website with ChatGPT.
         Other features including summarizes the transcript of any Youtube Video and customizes template. This extension also supports ChatGPT Webapp's API which requires no configuration.
 
+    - [DiscourseCopilot](https://github.com/kccarlos/DiscourseCopilot)
+
+        Summarize long Discourse forum topics, ask follow-up questions, and let an agent search the whole forum and answer with links to the posts it used. Bring your own OpenAI, Anthropic, Gemini, DeepSeek, OpenRouter, Groq or xAI key, or use Ollama / LM Studio locally. No servers or analytics of its own.
+
 - [Emacs](https://www.gnu.org/software/emacs/) Packages
 
     - [GPTel](https://github.com/karthink/gptel)
