@@ -501,6 +501,7 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
     Calculate how much it will cost to generate certain number of words by using OpenAI GPT-3.5 API.
 
 - [OpenAI proxy](https://github.com/egoist/openai-proxy)
+- [Mode VC LLM Inference Cost Calculator](https://modevc.com/tools/llm-inference-calculator) - Free browser-side LLM token unit economics, prompt caching, and gross margin calculator across 8 frontier and open-weights models.
 
     An OpenAI API reverse proxy that can be deployed on Cloudflare Workers and Vercel Edge.
     Helpful for bypassing network restrictions or IP rate limits.
