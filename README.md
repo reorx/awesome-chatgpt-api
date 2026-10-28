@@ -274,6 +274,10 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
 
     A native Windows desktop app for using ChatGPT using the latest Windows 11 UI design principles.
 
+- [KinetAios](https://github.com/phinn/KinetAios)
+
+    A local-first multi-engine AI agent dashboard for Windows and macOS that uses your own API keys (no account, no relay): run Claude Code, Codex, DeepSeek Harness and a built-in ReAct agent (Direct V1/V2/V3) side-by-side in concurrent streaming sessions, with MCP support, skills auto-loading and long-term memory.
+
 - [WristAssist](https://github.com/DevEmperor/WristAssist)
 
   A powerful ChatGPT app for all WearOS devices
