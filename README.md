@@ -288,6 +288,10 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
 
     ChatGPT Translator is an open-source desktop app that allows you to translate text using GPT language model.
 
+- [GeekLink](https://geeklink.dev/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-chatgpt-api)
+
+    A Mac/Windows subtitle app that extracts hardcoded subtitles with OCR, transcribes with local Whisper, and translates subtitles with the ChatGPT API (plus Claude, Gemini, DeepSeek) into bilingual SRT.
+
 - [OpenAI Translator](https://github.com/yetone/openai-translator)
 
     Browser extension and cross-platform desktop application for translation based on ChatGPT API.
