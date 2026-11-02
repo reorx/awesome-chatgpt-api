@@ -505,6 +505,10 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
     An OpenAI API reverse proxy that can be deployed on Cloudflare Workers and Vercel Edge.
     Helpful for bypassing network restrictions or IP rate limits.
 
+- [Heym](https://github.com/heymrun/heym)
+
+    A self-hosted runtime for building agent workflows with the OpenAI Chat Completions API and your own API key. Combines model tool calls with deterministic workflow steps, human approvals, execution traces, and evaluations. Source-available under MIT with the Commons Clause condition.
+
 
 ### Articles
 
