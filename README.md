@@ -505,6 +505,11 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
     An OpenAI API reverse proxy that can be deployed on Cloudflare Workers and Vercel Edge.
     Helpful for bypassing network restrictions or IP rate limits.
 
+- [cloro ChatGPT scraper](https://github.com/cloro-dev/chatgpt-scraper)
+
+    API that returns the answer the ChatGPT web UI shows, as JSON with its sources, shopping results and search queries.
+    No OpenAI key or ChatGPT account needed.
+
 
 ### Articles
 
