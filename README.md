@@ -274,6 +274,10 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
 
     A native Windows desktop app for using ChatGPT using the latest Windows 11 UI design principles.
 
+- [OneMira AI](https://onemira.com/products/c1)
+
+    Standalone AI voice recorder (C1) and macOS/Windows local context system with local speech-to-text, speaker diarization, OKF Markdown Wiki, and BYOK OpenAI API / [MCP integration](https://github.com/onemira-space/onemira-mcp).
+
 - [WristAssist](https://github.com/DevEmperor/WristAssist)
 
   A powerful ChatGPT app for all WearOS devices
