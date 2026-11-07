@@ -484,7 +484,11 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
 
     a powerful caching library that can be used to speed up and lower the cost of chat applications that rely on the LLM service. GPT Cache works as a memcache for AIGC applications, similar to how Redis works for traditional applications.
 
-- [Embedchain](https://github.com/embedchain/embedchain) 
+- [Embedchain](https://github.com/embedchain/embedchain)
+- [KaijuConverter MCP Server](https://kaijuconverter.com/api/mcp)
+
+    Fast Model Context Protocol (MCP) server providing 54 tools for format detection, validation, batch conversion across 201+ file formats (PDF, Office, CAD, images, audio, video), and OCR.
+ 
 
     Framework to create LLM-powered ChatGPT like bots over your dataset
 
