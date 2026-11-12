@@ -158,6 +158,7 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
         A LaunchBar action to interact with the ChatGPT API. Responses are received directly in LaunchBar and can be browsed, opened, previewed with Quick Look, inserted, or sent to another action. Conversation history is preserved for context. ChatGPT system messages are configurable via personas.
 
 
+[ChatGPT to PDF](https://chromewebstore.google.com/detail/poboebmiaakclneagfgfmbakpgcgdfii) - Export ChatGPT history to PDF, MD, or JSON. Save GPT-4 conversations with code formatting and cloud sync.
 ## Web Apps
 
 
