@@ -44,6 +44,10 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
 
          Summarize Google search results or YouTube videos with ChatGPT API, also supports Yahoo! ニュース、PubMed、PMC、NewsPicks、Github、Nikkei、 Bing、Google Patents. This extension also supports ChatGPT Webapp's API which requires no configuration.
 
+    - [No Stairs Please MCP](https://nostairsplease.com/mcp)
+
+        Remote MCP server for searching 2,200+ North American live-music venues, drive-time routing, and band booking contacts.
+
     - [ChatGPT Sidebar](https://chatgpt-sidebar.com/)
 
         Open a sidebar in any webpage, and ask ChatGPT for anything about the content of the page. Like explain, translate, summarize or rewrite it. You can customize prompts for easier access. This extension also supports ChatGPT Webapp's API that requires no configuration.
