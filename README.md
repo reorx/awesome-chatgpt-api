@@ -61,6 +61,10 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
         A Chrome extension that summarizes any website with ChatGPT.
         Other features including summarizes the transcript of any Youtube Video and customizes template. This extension also supports ChatGPT Webapp's API which requires no configuration.
 
+    - [OpenImmersive Translator](https://github.com/OpenImmersive/OpenImmersive-Translator)
+
+        Read any web page side by side with its translation. Open-source extension for Chrome, Firefox and Edge. Bring your own DeepL, OpenAI or DeepSeek key.
+
 - [Emacs](https://www.gnu.org/software/emacs/) Packages
 
     - [GPTel](https://github.com/karthink/gptel)

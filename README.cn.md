@@ -59,6 +59,10 @@
         一个Chrome扩展，总结任何网站与ChatGPT。
         其他功能包括总结任何Youtube视频的成绩单和自定义模板。这个扩展还支持ChatGPT Webapp的API，不需要配置。
 
+    - [OpenImmersive Translator](https://github.com/OpenImmersive/OpenImmersive-Translator)
+
+        开源双语翻译扩展，网页原文和译文对照显示，支持 Chrome、Firefox、Edge。也可以用自己的 DeepL、OpenAI、DeepSeek key。
+
 - [Emacs](https://www.gnu.org/software/emacs/) Packages
 
     - [GPTel](https://github.com/karthink/gptel)
