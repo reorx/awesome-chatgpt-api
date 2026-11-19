@@ -488,6 +488,10 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
 
     Framework to create LLM-powered ChatGPT like bots over your dataset
 
+- [KaijuConverter MCP Server](https://kaijuconverter.com/api/mcp)
+
+    Fast Model Context Protocol (MCP) server exposing 6 MCP tools and discovery of 54 specialized Studio workspaces (including OCR and PDF/A) for format detection, validation, and batch conversion across 201+ file formats.
+
 - [Tiktokenizer](https://tiktokenizer.vercel.app/)
 
     Online playground for openai's tiktoken library, calculating the correct number of tokens for a given prompt. Source code: [dqbd/tiktokenizer](https://github.com/dqbd/tiktokenizer)
