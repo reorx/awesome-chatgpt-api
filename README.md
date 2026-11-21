@@ -278,6 +278,11 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
 
   A powerful ChatGPT app for all WearOS devices
 
+- [VersoWork](https://github.com/mlubbad/versowork)
+
+    An open-source (MIT) native Tauri v2 desktop and CLI client for macOS, Windows, and Linux that connects to OpenAI `/chat/completions` (and any custom OpenAI-compatible base URL or local runtime) using your own API key stored in the OS keychain, with MCP support, live sandboxed artifacts, and a jailed local coding workspace.
+
+
 - [SpeakGPT](https://github.com/AndraxDev/speak-gpt)
 
     A feature-rich Android ChatGPT client with Material Design 3, supporting GPT-4 Vision, DALL·E image generation, assistant mode, and a community prompts store. Allows users to configure their own API key.
