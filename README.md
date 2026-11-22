@@ -505,6 +505,10 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
     An OpenAI API reverse proxy that can be deployed on Cloudflare Workers and Vercel Edge.
     Helpful for bypassing network restrictions or IP rate limits.
 
+- [CrowLLM](https://crowllm.com)
+
+    OpenAI-compatible AI gateway: one base URL and one API key for models from several labs (DeepSeek, Zhipu, Moonshot, Anthropic, Google, xAI), with a zero-rated `:free` shelf next to the paid ids. Public model catalog and pricing API.
+
 
 ### Articles
 
